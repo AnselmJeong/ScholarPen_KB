@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wiki Schema — Research Deep-Dive — Wikiwise</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-schema">
+<header class="masthead">
+  <a class="masthead-mark" href="home.html">
+    <span class="masthead-mark-letter">W</span>
+    <span class="masthead-mark-words">
+      <span class="masthead-mark-word-primary">Wikiwise</span>
+    </span>
+  </a>
+  <div class="masthead-search">
+    <input id="search-input" type="search" placeholder="Search Wikiwise…" autocomplete="off">
+    <div id="search-results"></div>
+  </div>
+</header>
+<div class="layout">
+<aside class="rail">
+<nav class="rail-nav"><h4>Navigate</h4><ul><li><a href="home.html">Home</a></li><li><a href="index.html">Catalog</a></li><li><a href="map-3d.html">Map</a></li><li><a href="log.html">Recent changes</a></li></ul></nav>
+<section class="toc-block"><h4>Contents</h4><div class="toc"><ul><li><a href="#page-types">Page Types</a></li><li><a href="#naming-conventions">Naming Conventions</a></li><li><a href="#frontmatter">Frontmatter</a></li><li><a href="#index-format">Index Format</a></li><li><a href="#log-format">Log Format</a></li><li><a href="#cross-referencing-rules">Cross-referencing Rules</a></li><li><a href="#contradiction-handling">Contradiction Handling</a></li><li><a href="#research-specific-conventions">Research-Specific Conventions</a></li></ul></div></section>
+</aside>
+<div class="article">
+<div class="article-head">
+  <h1 class="article-title">Wiki Schema — Research Deep-Dive</h1>
+
+</div>
+<div class="article-body">
+<h2 id="page-types">Page Types</h2>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Directory</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>entity</td>
+<td>wiki/entities/</td>
+<td>Named things (people, tools, organizations, datasets)</td>
+</tr>
+<tr>
+<td>concept</td>
+<td>wiki/concepts/</td>
+<td>Ideas, techniques, phenomena, frameworks</td>
+</tr>
+<tr>
+<td>source</td>
+<td>wiki/sources/</td>
+<td>Papers, articles, talks, books, blog posts</td>
+</tr>
+<tr>
+<td>query</td>
+<td>wiki/queries/</td>
+<td>Open questions under active investigation</td>
+</tr>
+<tr>
+<td>comparison</td>
+<td>wiki/comparisons/</td>
+<td>Side-by-side analysis of related entities</td>
+</tr>
+<tr>
+<td>synthesis</td>
+<td>wiki/synthesis/</td>
+<td>Cross-cutting summaries and conclusions</td>
+</tr>
+<tr>
+<td>overview</td>
+<td>wiki/</td>
+<td>High-level project summary (one per project)</td>
+</tr>
+<tr>
+<td>thesis</td>
+<td>wiki/thesis/</td>
+<td>Working hypothesis and its evolution over time</td>
+</tr>
+<tr>
+<td>methodology</td>
+<td>wiki/methodology/</td>
+<td>Research methods, protocols, and study designs</td>
+</tr>
+<tr>
+<td>finding</td>
+<td>wiki/findings/</td>
+<td>Individual empirical results or observations</td>
+</tr>
+<tr>
+<td>report</td>
+<td>wiki/reports/</td>
+<td>Generated reports and analysis outputs</td>
+</tr>
+</tbody>
+</table>
+<h2 id="naming-conventions">Naming Conventions</h2>
+<ul>
+<li>Files: <code>kebab-case.md</code></li>
+<li>Entities: match official name where possible (e.g., <code>openai.md</code>, <code>gpt-4.md</code>)</li>
+<li>Concepts: descriptive noun phrases (e.g., <code>chain-of-thought.md</code>)</li>
+<li>Sources: <code>author-year-slug.md</code> (e.g., <code>wei-2022-cot.md</code>)</li>
+<li>Queries: question as slug (e.g., <code>does-scale-improve-reasoning.md</code>)</li>
+<li>Theses: hypothesis as slug (e.g., <code>scaling-improves-reasoning.md</code>)</li>
+<li>Methodologies: method name (e.g., <code>systematic-review.md</code>, <code>ablation-study.md</code>)</li>
+<li>Findings: descriptive slug (e.g., <code>larger-models-better-few-shot.md</code>)</li>
+</ul>
+<h2 id="frontmatter">Frontmatter</h2>
+<p>All pages must include YAML frontmatter:</p>
+<pre><code class="language-yaml">---
+type: entity | concept | source | query | comparison | synthesis | overview | report
+title: Human-readable title
+tags: []
+related: []
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+---
+</code></pre>
+<p>Source pages also include:</p>
+<pre><code class="language-yaml">authors: []
+year: YYYY
+url: &quot;&quot;
+venue: &quot;&quot;
+</code></pre>
+<p>Thesis pages also include:</p>
+<pre><code class="language-yaml">confidence: low | medium | high
+status: speculative | supported | refuted | settled
+</code></pre>
+<p>Finding pages also include:</p>
+<pre><code class="language-yaml">source: &quot;<a class="wikilink missing" data-slug="source-slug" href="source-slug.html">source-slug</a>&quot;
+confidence: low | medium | high
+replicated: true | false | null
+</code></pre>
+<h2 id="index-format">Index Format</h2>
+<p><code>wiki/index.md</code> lists all pages grouped by type. Each entry:</p>
+<pre><code>- <a class="wikilink missing" data-slug="page-slug" href="page-slug.html">page-slug</a> — one-line description
+</code></pre>
+<h2 id="log-format">Log Format</h2>
+<p><code>wiki/log.md</code> records activity in reverse chronological order:</p>
+<pre><code>## YYYY-MM-DD
+
+- Action taken / finding noted
+</code></pre>
+<h2 id="cross-referencing-rules">Cross-referencing Rules</h2>
+<ul>
+<li>Use <code><a class="wikilink missing" data-slug="page-slug" href="page-slug.html">page-slug</a></code> syntax to link between wiki pages</li>
+<li>Every entity and concept should appear in <code>wiki/index.md</code></li>
+<li>Queries link to the sources and concepts they draw on</li>
+<li>Synthesis pages cite all contributing sources via <code>related:</code></li>
+<li>Findings link back to their source via the <code>source:</code> frontmatter field</li>
+<li>Thesis pages reference supporting and refuting findings via <code>related:</code></li>
+<li>Methodology pages are cited by the findings that used them</li>
+</ul>
+<h2 id="contradiction-handling">Contradiction Handling</h2>
+<p>When sources contradict each other:</p>
+<ol>
+<li>Note the contradiction in the relevant concept or entity page</li>
+<li>Create or update a query page to track the open question</li>
+<li>Link both sources from the query page</li>
+<li>Resolve in a synthesis page once sufficient evidence exists</li>
+</ol>
+<h2 id="research-specific-conventions">Research-Specific Conventions</h2>
+<ul>
+<li>Keep the thesis pages updated as evidence accumulates — they are living documents</li>
+<li>Every finding should assess replication status when known</li>
+<li>Methodology pages explain the <em>why</em> (rationale) not just the <em>how</em></li>
+<li>Distinguish between direct evidence and inference in finding pages</li>
+</ul>
+
+</div>
+</div>
+</div>
+<script src="search.json.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

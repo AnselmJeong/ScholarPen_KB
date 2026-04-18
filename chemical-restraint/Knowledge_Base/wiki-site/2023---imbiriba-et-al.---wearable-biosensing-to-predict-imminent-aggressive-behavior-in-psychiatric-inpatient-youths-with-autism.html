@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wearable Biosensing to Predict Imminent Aggressive Behavior in Psychiatric Inpatient Youths With Autism — Wikiwise</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,300..700;1,8..60,300..700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="page-2023---imbiriba-et-al.---wearable-biosensing-to-predict-imminent-aggressive-behavior-in-psychiatric-inpatient-youths-with-autism">
+<header class="masthead">
+  <a class="masthead-mark" href="home.html">
+    <span class="masthead-mark-letter">W</span>
+    <span class="masthead-mark-words">
+      <span class="masthead-mark-word-primary">Wikiwise</span>
+    </span>
+  </a>
+  <div class="masthead-search">
+    <input id="search-input" type="search" placeholder="Search Wikiwise…" autocomplete="off">
+    <div id="search-results"></div>
+  </div>
+</header>
+<div class="layout">
+<aside class="rail">
+<nav class="rail-nav"><h4>Navigate</h4><ul><li><a href="home.html">Home</a></li><li><a href="index.html">Catalog</a></li><li><a href="map-3d.html">Map</a></li><li><a href="log.html">Recent changes</a></li></ul></nav>
+<section class="toc-block"><h4>Contents</h4><div class="toc"><ul><li><a href="#summary">Summary</a></li><li><a href="#key-entities">Key Entities</a></li><li><a href="#key-concepts">Key Concepts</a></li><li><a href="#main-arguments-amp-findings">Main Arguments &amp;amp; Findings</a></li><li><a href="#connections">Connections</a></li><li><a href="#contradictions-amp-tensions">Contradictions &amp;amp; Tensions</a></li><li><a href="#open-questions">Open Questions</a></li></ul></div></section>
+</aside>
+<div class="article">
+<div class="article-head">
+  <h1 class="article-title">Wearable Biosensing to Predict Imminent Aggressive Behavior in Psychiatric Inpatient Youths With Autism</h1>
+<div class="article-subtitle">source</div>
+</div>
+<div class="article-body">
+<table class="infobox"><caption>Source</caption><tr><th>created</th><td>2023-12-21</td></tr><tr><th>updated</th><td>2023-12-21</td></tr><tr><th>tags</th><td>[Autism, Aggressive Behavior, Wearable Biosensors, Machine Learning, Physiological Signals, Autonomic Nervous System, Predictive Modeling, Domain Adaptation, Feature Engineering, Psychiatric Inpatient]</td></tr><tr><th>related</th><td>[]</td></tr><tr><th>sources</th><td>[&quot;Human rights, Coercive Treatment/2023 - Imbiriba et al. - Wearable Biosensing to Predict Imminent Aggressive Behavior in Psychiatric Inpatient Youths With Autism.pdf&quot;]</td></tr><tr><th>one_line_finding</th><td>Logistic regression achieved a mean AUC of 0.80 in predicting aggressive behavior three minutes before onset in psychiatric inpatient youth with autism using wearable biosensor data.</td></tr></table><h2 id="summary">Summary</h2>
+<p>This study investigated whether machine learning analysis of peripheral physiological signals from wearable biosensors could predict imminent aggressive behavior in psychiatrically hospitalized youth with autism. Researchers analyzed data from 70 participants across four U.S. psychiatric inpatient hospitals, recording 429 observation sessions totaling 497 hours and documenting 6,665 episodes of self-injurious behavior (SIB), emotion dysregulation (ED), and aggression toward others (ATO). Using the Empatica E4 wristband to capture cardiovascular activity, electrodermal activity, and motion data, the researchers tested multiple machine learning classifiers including logistic regression (LR), support vector machines (SVM), and neural networks (NN). The study found that LR emerged as the most consistent performer, achieving a mean area under the receiver operating characteristic curve (AUC) of 0.80 when predicting aggressive behavior three minutes before onset. Feature engineering with augmented feature vectors (AFVs) that incorporated temporal context improved prediction, and domain adaptation techniques enhanced individual model personalization. The findings suggest wearable biosensing could enable preemptive intervention strategies for managing aggression in this population.</p>
+<h2 id="key-entities">Key Entities</h2>
+<ul>
+<li><strong>Empatica E4 biosensor</strong> (tool: tool) — Wearable device used to record cardiovascular activity via blood volume pulse, electrodermal activity, and 3-axis acceleration from participants’ non-dominant wrists during behavioral observation sessions.</li>
+<li><strong>Autism Inpatient Collection (AIC)</strong> (dataset: dataset) — Multi-site research initiative providing the participant pool, clinical infrastructure, and standardized protocols across four psychiatric hospitals involved in the study.</li>
+<li><strong>Logistic Regression (LR)</strong> (tool: tool) — Primary classification algorithm evaluated for predicting aggressive behavior; demonstrated the most consistent performance across experimental conditions with a mean AUC of 0.80 at 3-minute prediction horizon.</li>
+<li><strong>Support Vector Machines (SVM)</strong> (tool: tool) — Machine learning classifier tested as an alternative; achieved the highest single AUC (0.87) in some experiments but showed less consistency than LR across validation schemes.</li>
+<li><strong>Neural Networks (NN)</strong> (tool: tool) — Classifier architecture evaluated for pattern recognition in physiological time-series data; demonstrated stable performance comparable to LR in certain conditions but higher variance in others.</li>
+<li><strong>Area Under ROC Curve (AUC)</strong> (tool: tool) — Primary metric used to quantify classifier discrimination ability across all experiments, representing the probability that a randomly chosen positive instance is ranked higher than a randomly chosen negative one.</li>
+</ul>
+<h2 id="key-concepts">Key Concepts</h2>
+<ul>
+<li><strong>Peripheral Physiological Signals</strong> — Measurable autonomic responses including blood volume pulse (cardiovascular activity), electrodermal activity (skin conductance), and motion (accelerometry) that reflect sympathetic nervous system arousal and serve as input features for behavioral prediction models.</li>
+<li><strong>Aggressive Behavior (in Autism)</strong> — Operationally defined outcome encompassing three mutually exclusive categories: self-injurious behavior (SIB), emotion dysregulation (ED – tantrums/meltdowns), and aggression toward others (ATO), with SIB being the most frequent (59.8% of episodes) in the study sample.</li>
+<li><strong>Population Model (PM)</strong> — Machine learning approach where a single classifier is trained on pooled data from all participants to establish generalizable predictive patterns; contrasted with individual-specific modeling to assess population-level vs. individualized prediction utility.</li>
+<li><strong>Person-Dependent Model (PDM)</strong> — Individualized modeling strategy where separate classifiers are trained for each participant using only their own data; aims to capture idiosyncratic physiological-behavioral relationships but faces challenges with limited individual data volume.</li>
+<li><strong>Augmented Feature Vectors (AFVs)</strong> — Feature representation that enriches raw physiological signal features with behavioral context such as time since last aggression episode and label of prior event, as opposed to raw feature vectors (FVs) containing only sensor-derived signals; shown to enhance prediction performance, particularly for onset forecasting.</li>
+<li><strong>Domain Adaptation (DA)</strong> — Transfer learning technique explored via pseudo-labeling to adapt population models to individual physiological profiles when individual data is scarce; demonstrated median AUC improvements of up to 14.48 points in personalizing predictions.</li>
+<li><strong>Leave-Samples-Out Cross-Validation</strong> — Validation strategy comprising leave-individuals-out (LIO) for assessing model generalizability across new patients and leave-sessions-out (LSO) for evaluating robustness across different sessions of the same individual; used to mitigate overfitting and estimate real-world performance.</li>
+</ul>
+<h2 id="main-arguments-amp-findings">Main Arguments &amp; Findings</h2>
+<ul>
+<li><strong>Core claim</strong>: Machine learning analysis of peripheral physiological signals from wearable biosensors can predict imminent aggressive behavior (SIB, ED, ATO) in psychiatrically hospitalized youth with autism several minutes before behavioral onset.
+<ul>
+<li><strong>Evidence</strong>: Analysis of 6,665 annotated behavior episodes from 70 participants across 4 hospitals showed logistic regression achieved mean AUC of 0.80 (95% CI: 0.79–0.81) for predicting aggression 3 minutes prior to onset using AFVs and session splits; consistent performance across validation methods (LIO, LSO, test-retest) and superiority in predicting SIB due to its higher base rate.</li>
+<li><strong>Strength</strong>: Strong — Supported by large naturalistic dataset, high inter-rater reliability (κ = 0.86–0.95), multiple model types, and comprehensive validation; limited by homogeneous sample (90% White, 88.6% male) and inpatient-only setting, which constrains generalizability to broader autism populations and community environments.</li>
+</ul>
+</li>
+<li><strong>Core claim</strong>: Augmented feature vectors incorporating temporal behavioral context (time since last event, prior label) significantly improve prediction performance compared to raw physiological feature vectors, especially for forecasting behavior onset.
+<ul>
+<li><strong>Evidence</strong>: Experiments consistently showed higher AUC values when using AFVs versus FVs across classifiers and time windows; the improvement was particularly pronounced in onset prediction scenarios where behavioral history provides prognostic value.</li>
+<li><strong>Strength</strong>: Moderate — Theoretically sound and empirically supported within the study, though introduces potential circularity risk in real-time prediction if future labels are used; best suited for modeling recent state rather than pure forecasting.</li>
+</ul>
+</li>
+<li><strong>Core claim</strong>: Domain adaptation via pseudo-labeling effectively individualizes population models to improve personalized prediction accuracy when individual participant data is limited.
+<ul>
+<li><strong>Evidence</strong>: Applying DA to LR models yielded median AUC increases of 14.48 (IQR: 11.37–17.08) for FVs and 11.03 (IQR: 8.60–16.92) for AFVs-onset at optimal τp=180s, τf=60s, demonstrating substantial personalization gains despite sparse individual data.</li>
+<li><strong>Strength</strong>: Moderate to Strong — Aligns with established transfer learning principles and shows meaningful improvement; however, iterative pseudo-labeling may propagate errors if initial labels are noisy, requiring careful thresholding in practice.</li>
+</ul>
+</li>
+</ul>
+<h2 id="connections">Connections</h2>
+<ul>
+<li><a class="wikilink missing" data-slug="machine-learning-in-psychiatry" href="machine-learning-in-psychiatry.html">machine-learning-in-psychiatry</a> — This study adds empirical evidence for using passive physiological monitoring as a precursor signal in predictive modeling of neuropsychiatric episodes.</li>
+<li><a class="wikilink missing" data-slug="wearable-biosensors" href="wearable-biosensors.html">wearable-biosensors</a> — Provides clinical validation of consumer-grade wearables (E4) for capturing prognostically relevant autonomic signals in high-risk behavioral populations.</li>
+<li><a class="wikilink missing" data-slug="autism-and-aggression" href="autism-and-aggression.html">autism-and-aggression</a> — Reinforces the high prevalence of behavioral dysregulation in autism while introducing an objective, physiologically grounded approach to anticipation.</li>
+<li><a class="wikilink missing" data-slug="physiological-markings-of-emotion-dysregulation" href="physiological-markings-of-emotion-dysregulation.html">physiological-markings-of-emotion-dysregulation</a> — Extends literature linking autonomic arousal markers (EDA, cardiovascular variability) to behavioral escalation in neurodevelopmental conditions.</li>
+<li><a class="wikilink missing" data-slug="just-in-time-adaptive-interventions" href="just-in-time-adaptive-interventions.html">just-in-time-adaptive-interventions</a> — Supports feasibility of JITAIs in mobile health by demonstrating sufficient prediction window (3 minutes) for timely intervention delivery.</li>
+</ul>
+<h2 id="contradictions-amp-tensions">Contradictions &amp; Tensions</h2>
+<ul>
+<li>The study identifies support vector machines as achieving the highest single AUC (0.87 in specific conditions) but concludes logistic regression is the “best-performing overall classifier” due to greater consistency across experiments, validation schemes, and behavioral subtypes — reflecting a methodological prioritization of robustness over peak performance that may understate SVM’s potential in optimized configurations.</li>
+<li>While the authors claim generalizability to “youths with autism who are psychiatric inpatients,” the sample’s demographic homogeneity (90% White, 88.6% male, majority minimally verbal or intellectually disabled) raises concerns about whether findings extend to female, ethnically diverse, or higher-functioning subgroups within autism.</li>
+<li>The use of autonomic arousal metrics (EDA, blood volume pulse) as predictors assumes a direct link to aggression, but these signals reflect general sympathetic activation that could equally indicate anxiety, excitement, or sensory overload — potentially reducing specificity and increasing false-positive risk in real-world deployment without contextual disambiguation.</li>
+</ul>
+<h2 id="open-questions">Open Questions</h2>
+<ul>
+<li>Can this physiological prediction approach maintain accuracy in less-controlled environments (e.g., homes, schools) where movement artifacts, electrode displacement, and variable signal quality are more prevalent than in supervised inpatient settings?</li>
+<li>How do individual differences in baseline autonomic reactivity, medication status, or sensory processing profiles affect prediction model calibration and threshold optimization across heterogeneous autism presentations?</li>
+<li>What constitutes an acceptable risk-benefit threshold for false-positive alerts in institutional settings, given that unnecessary interventions based on predictive warnings could inadvertently escalate distress or reinforce coercive practices despite preventive intent?</li>
+<li>Does combining physiological signals with contextual features (e.g., demand transitions, social interactions, environmental stimuli) improve prediction specificity beyond autonomic arousal alone, particularly for distinguishing aggression from other high-arousal states like excitement or anxiety?</li>
+</ul>
+
+</div>
+</div>
+</div>
+<script src="search.json.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

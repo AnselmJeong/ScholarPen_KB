@@ -1,0 +1,212 @@
+---
+type: "concept"
+title: "European Convention on Human Rights"
+tags: []
+related:
+created: 2026-04-13
+updated: 2026-04-13
+sources:
+  - "Book Chapters/The Use of Coercive Measures in Forensic Psychiatric Care/The Use of Coercive Measures in Forensic Psychiatric Care - 03.pdf"
+  - "Human rights, Coercive Treatment/2016 - Webber - Proportionality and Absolute Rights.pdf"
+papers:
+  - "2016 - Webber - Proportionality and Absolute Rights"
+  - "The Use of Coercive Measures in Forensic Psychiatric Care - 03"
+---
+# European Convention on Human Rights
+## Why It Matters
+- Underpins legal scrutiny of psychiatric coercion and involuntary treatment across member states.
+- Distinguishes between rights requiring proportionality assessment and those deemed absolute.
+- Informs ethical and legal frameworks for balancing individual autonomy with public safety in mental health care.
+- Serves as a foundational reference for evaluating compliance with international human rights standards in forensic settings.
+## Key Positions
+| Position | Core claim | Key sources |
+|----------|------------|-------------|
+| Absolute rights perspective | Absolute rights derive their absoluteness from specifying duties of non-action, making them immune to proportionality balancing. | [[2016 - Webber - Proportionality and Absolute Rights]] |
+| Proportionality requirement in psychiatric care | Involuntary psychiatric treatment and commitment must comply with proportionality, necessity, and procedural safeguards under international human rights law. | [[The Use of Coercive Measures in Forensic Psychiatric Care - 03]] |
+## Sub-topics
+- proportionality
+- involuntary-treatment
+- involuntary-commitment
+- involuntary-hospitalization
+- involuntary-medication
+- coercive-measures
+- coercive-treatment
+- patient-autonomy
+- patient-centered-care
+- legal-capacity
+- informed-consent
+- procedural-justice
+- due-process
+- least-restrictive-principle
+- basic-liberty
+## Related concepts
+- autonomy
+- basic-liberty
+- beneficence
+- biomedical-model
+- biopsychosocial-model
+- bodily-autonomy
+- capacity-assessment
+- civil-committee
+- clinical-ethics
+- coercion
+- coercion-in-psychiatry
+- coercive-measures-in-psychiatry
+- confidentiality
+- conflict-of-interest
+- convention-on-the-rights-of-persons-with-disabilities
+- crpd
+- cultural-responsiveness
+- cultural-variation
+- de-escalation
+- de-escalation-techniques
+- decision-making-capacity
+- decisional-capacity
+- deinstitutionalization
+- disability-rights
+- due-process
+- early-intervention
+- emergency-exception
+- emergency-psychiatry
+- epistemic-injustice
+- ethical-conflict
+- ethical-decision-making
+- eunomia-project
+- evidence-based-medicine
+- evidence-based-practice
+- extrapyramidal-side-effects-eps
+- extrapyramidal-symptoms
+- five-dimensional-dignity
+- forced-medication
+- forensic-mental-health
+- forensic-psychiatry
+- formal-coercion
+- guardianship
+- haloperidol
+- heterogeneity
+- human-dignity
+- human-rights
+- human-rights-based-approach
+- informal-coercion
+- informed-consent
+- institutional-betrayal
+- institutionalization
+- involuntary-admission
+- involuntary-commitment
+- involuntary-hospitalization
+- involuntary-medication
+- involuntary-treatment
+- joint-commission
+- justice
+- last-resort-principle
+- least-restrictive-alternative
+- least-restrictive-intervention
+- least-restrictive-means
+- least-restrictive-principle
+- least-restrictive-treatment
+- legal-capacity
+- legal-reform
+- macarthur-perceived-coercion-scale
+- machine-learning
+- mechanical-restraint
+- medical-ethics
+- medical-malpractice
+- medical-model
+- medical-model-of-disability
+- mental-capacity-act-2005
+- mental-health-act
+- mental-health-law
+- mental-health-policy
+- mental-healthcare-act-2017
+- mental-illness-stigma
+- meta-analysis
+- meta-regression
+- neuroethics
+- non-maleficence
+- nonmaleficence
+- norwegian-mental-health-care-act
+- outpatient-commitment
+- parens-patriae
+- paternalism
+- patient-autonomy
+- patient-centered-care
+- patient-experience
+- patient-safety
+- perceived-coercion
+- person-centered-care
+- physical-restraint
+- physical-restraints
+- police-power
+- positive-and-negative-syndrome-scale-panss
+- prevalence
+- principle-of-indivisibility
+- principlism
+- prisma
+- procedural-justice
+- proportionality
+- proportionality-principle
+- prospero
+- psychiatric-advance-directives
+- psychiatric-care
+- psychiatric-coercion
+- psychiatric-diagnosis
+- psychiatric-emergency
+- psychiatric-ethics
+- psychiatric-reform
+- psychiatric-restraint
+- psychiatric-treatment
+- qt-prolongation
+- qtc-prolongation
+- randomized-controlled-trial-rct
+- rapid-tranquilization
+- rapid-tranquillisation
+- recovery-model
+- recovery-oriented-care
+- relational-autonomy
+- research-ethics
+- respiratory-depression
+- restriction
+- restrictive-care-practices
+- restrictive-interventions
+- rights-based-ethics
+- risk-assessment
+- safewards
+- sanism
+- schizophrenia
+- seclusion
+- seclusion-and-restraint
+- service-user-involvement
+- shared-decision-making
+- six-core-strategies
+- social-determinants-of-health
+- social-model-of-disability
+- substantive-equality
+- substitute-decision-making
+- substituted-decision-making
+- substituted-judgment
+- supported-decision-making
+- systematic-review
+- tardive-dyskinesia
+- therapeutic-alliance
+- therapeutic-intent
+- therapeutic-jurisprudence
+- therapeutic-milieu
+- therapeutic-misconception
+- therapeutic-nihilism
+- therapeutic-privilege
+- therapeutic-relationship
+- trauma-informed-care
+- treatment-gap
+- un-convention-on-the-rights-of-persons-with-disabilities
+- un-crpd
+- uncrpd
+- united-nations-convention-on-the-rights-of-persons-with-disabilities
+- utilitarianism
+- violence-risk-assessment
+- voluntariness
+- world-psychiatric-association
+## Open questions
+- How can the distinction between absolute and non-absolute rights be operationalized in clinical settings involving psychiatric coercion?
+- What procedural safeguards are necessary to ensure proportionality assessments in involuntary treatment comply with ECHR standards?
+- Are current forensic psychiatric practices sufficiently aligned with the ECHR's requirements for necessity and least restrictive means?
+- How does the ECHR's framework interact with national mental health laws in cases of cross-border patient care?

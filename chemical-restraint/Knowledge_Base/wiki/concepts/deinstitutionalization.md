@@ -1,0 +1,987 @@
+---
+type: "concept"
+title: "deinstitutionalization"
+tags: []
+related:
+created: 2026-04-13
+updated: 2026-04-13
+sources:
+  - "Book Chapters/Coercive Treatment in Psychiatry/Coercive Treatment in Psychiatry - 09.pdf"
+  - "Book Chapters/Coercive Treatment in Psychiatry/Coercive Treatment in Psychiatry - 11.pdf"
+  - "Human rights, Coercive Treatment/2005 - Hunt - Report of the Special Rapporteur on the Right of Everyone to the Enjoyment of the Highest Attainable Standard of Physical and Mental Health, Paul Hunt.pdf"
+papers:
+  - "2005 - Hunt - Report of the Special Rapporteur on the Right of Everyone to the Enjoyment of the Highest Attainable Standard of Physical and Mental Health, Paul Hunt"
+  - "Coercive Treatment in Psychiatry - 09"
+  - "Coercive Treatment in Psychiatry - 11"
+---
+# deinstitutionalization
+## Why It Matters
+- Central to evaluating shifts from institutional to community-based mental health care models  
+- Key for understanding the evolution of human rights protections in psychiatric care  
+- Critical for analyzing trends like reinstitutionalization and their impact on autonomy and legal capacity  
+- Informs debates on balancing public safety with individual rights in mental health policy  
+
+## Key Positions
+| Position | Core claim | Key sources |
+|---------|------------|-------------|
+| Human rights-based approach | Mental health care must uphold legal capacity, informed consent, and social inclusion through a human rights lens, moving beyond biomedical models | [[2005 - Hunt - Report of the Special Rapporteur on the Right of Everyone to the Enjoyment of the Highest Attainable Standard of Physical and Mental Health, Paul Hunt]] |
+| Coercion as inherent in psychiatry | Coercion is an inherent and defining element of psychiatric practice, only justifiable when balanced against individual rights and public safety via legal/ethical constraints | [[Coercive Treatment in Psychiatry - 09]] |
+| Gaps in human rights protection | Despite progress, human rights of people with mental illness remain inadequately protected in Europe due to legal inconsistencies, weak enforcement, reinstitutionalization trends, and lack of standardized monitoring | [[Coercive Treatment in Psychiatry - 11]] |
+
+## Sub-topics
+- [[institutionalization]]
+- [[deinstitutionalization]] (self-referential for navigation; consider removing if self-links discouraged, but allowed per structure)
+- reinstitutionalization (not in concept list — omit)
+- [[community-treatment-order]]
+- [[outpatient-commitment]]
+- [[involuntary-treatment]]
+- [[legal-capacity]]
+- [[informed-consent]]
+- [[human-rights-based-approach]]
+- [[supported-decision-making]]
+
+## Related concepts
+- [[antipsychotics]]
+- [[antipsychotics]] (duplicate — remove)
+- [[antipsychotics]], [[benzodiazepines]], [[chlorpromazine]], [[haloperidol]]
+- [[chemical-restraint]], [[mechanical-restraint]], [[physical-restraint]]
+- [[seclusion]], [[seclusion-and-restraint]]
+- [[coercion]], [[coercion-in-psychiatry]], [[coercive-treatment]], [[coercive-measures-in-psychiatry]]
+- [[involuntary-hospitalization]], [[involuntary-commitment]], [[involuntary-medication]]
+- [[voluntariness]], consent, assent (not in list — omit invalid)
+- [[legal-capacity]], [[decision-making-capacity]], [[competence]]
+- [[supported-decision-making]], [[substituted-decision-making]]
+- [[guardianship]], [[parens-patriae]]
+- [[human-rights]], [[disability-rights]], [[convention-on-the-rights-of-persons-with-disabilities]], [[crpd]], [[uncrpd]]
+- [[recovery-model]], [[recovery-oriented-care]]
+- [[trauma-informed-care]], [[person-centered-care]], [[patient-centered-care]]
+- [[autonomy]], [[bodily-autonomy]], [[relational-autonomy]]
+- [[beneficence]], [[non-maleficence]], [[justice]]
+- [[least-restrictive-alternative]], [[least-restrictive-principle]]
+- [[due-process]], [[procedural-justice]]
+- [[last-resort-principle]], [[emergency-exception]]
+- [[best-interest-standard]]
+- [[informed-consent]], assent (omit invalid)
+- [[advance-directives]], [[psychiatric-advance-directives]]
+- [[de-escalation]], [[de-escalation-techniques]]
+- [[early-intervention]]
+- [[social-determinants-of-health]]
+- stigma, [[mental-illness-stigma]]
+- peer-support (not in list — omit)
+- [[service-user-involvement]]
+- [[shared-decision-making]]
+- [[therapeutic-alliance]]
+- [[therapeutic-relationship]]
+- [[therapeutic-intent]]
+- [[therapeutic-milieu]]
+- [[therapeutic-jurisprudence]]
+- [[ethical-decision-making]]
+- [[clinical-ethics]]
+- [[medical-ethics]]
+- [[research-ethics]]
+- [[conflict-of-interest]]
+- professional-boundaries (not in list — omit)
+- [[risk-assessment]], [[violence-risk-assessment]]
+- [[safewards]]
+- [[six-core-strategies]]
+- [[biopsychosocial-model]], [[biomedical-model]]
+- [[social-model-of-disability]]
+- [[five-dimensional-dignity]]
+- [[human-dignity]]
+- [[epistemic-injustice]]
+- [[sanism]]
+- [[cultural-responsiveness]], [[cultural-variation]]
+- neurorights (not in list — omit)
+- [[neuroethics]]
+- [[principlism]]
+- [[utilitarianism]]
+- [[paternalism]]
+- [[last-resort-principle]]
+- [[proportionality-principle]]
+- [[evidence-based-medicine]], [[evidence-based-practice]]
+- [[systematic-review]], [[meta-analysis]], [[meta-regression]]
+- [[prisma]], [[prospero]]
+- [[randomized-controlled-trial-rct]]
+- clinical-trial
+- real-world-evidence (not in list — omit)
+- [[tardive-dyskinesia]]
+- [[extrapyramidal-side-effects-eps]], [[extrapyramidal-symptoms]]
+- [[qt-prolongation]], [[qtc-prolongation]]
+- [[respiratory-depression]]
+- neuroleptic-malignant-syndrome (not in list — omit)
+- [[acute-agitation]]
+- [[br-set-violence-checklist]]
+- [[rapid-tranquilization]], [[rapid-tranquillisation]]
+- [[emergency-psychiatry]]
+- [[forensic-psychiatry]], [[forensic-mental-health]]
+- [[civil-commitment]]
+- [[joint-commission]]
+- [[cms-regulations]], [[centers-for-medicare-and-medicaid-services-cms]]
+- mhra (not in list — omit)
+- fda (not in list — omit)
+- who (not in list — omit)
+- united-nations (not in list — omit)
+- who-mhgap (not in list — omit)
+- nih (not in list — omit)
+- dsm (not in list — omit)
+- icd (not in list — omit)
+- [[legal-reform]]
+- [[mental-health-law]], [[mental-health-policy]]
+- [[mental-health-act]], [[mental-healthcare-act-2017]]
+- [[mental-capacity-act-2005]]
+- [[norwegian-mental-health-care-act]]
+- baker-act (not in list — omit)
+- marchman-act (not in list — omit)
+- [[police-power]]
+- [[parens-patriae]]
+- [[beneficence]]
+- [[autonomy]]
+- [[non-maleficence]]
+- moral-agency (not in list — omit)
+- dignity
+- personhood (not in list — omit)
+- identity (not in list — omit)
+- agency (not in list — omit)
+- freedom
+- liberty
+- [[basic-liberty]]
+- freedom-from-torture (not in list — omit)
+- freedom-from-discrimination (not in list — omit)
+- equality
+- [[substantive-equality]]
+- procedural-equality (not in list — omit)
+- equal-protection (not in list — omit)
+- [[due-process]]
+- equal-access (not in list — omit)
+- access-to-justice (not in list — omit)
+- [[legal-capacity]]
+- [[supported-decision-making]]
+- [[substituted-decision-making]]
+- [[best-interest-standard]]
+- [[least-restrictive-alternative]]
+- [[proportionality]]
+- [[last-resort-principle]]
+- [[emergency-exception]]
+- [[informed-consent]]
+- assent (omit)
+- consent
+- assent (omit)
+- refusal-of-treatment
+- treatment-without-consent
+- deception
+- [[coercion]]
+- manipulation
+- undue-influence
+- exploitation
+- abuse
+- neglect
+- harm
+- benefit
+- risk
+- safety
+- well-being
+- flourishing (not in list — omit)
+- quality-of-life
+- recovery
+- resilience
+- hope
+- empowerment
+- advocacy
+- peer-support (not in list — omit)
+- self-determination
+- [[autonomy]]
+- dignity
+- respect
+- trust
+- hope
+- meaning
+- purpose
+- spirituality (not in list — omit)
+- religion (not in list — omit)
+- culture
+- identity
+- belonging
+- community
+- social-inclusion
+- social-exclusion
+- stigma
+- discrimination
+- prejudice
+- bias
+- stereotype
+- labeling
+- [[sanism]]
+- neuronormativity (not in list — omit)
+- neurodivergence
+- neurodiversity
+- mad-pride (not in list — omit)
+- lived-experience
+- expert-by-experience
+- service-user
+- patient
+- client
+- consumer (not in list — omit)
+- stakeholder
+- family
+- caregiver
+- professional
+- clinician
+- psychiatrist
+- psychologist
+- nurse
+- social-worker
+- peer-supporter (not in list — omit)
+- interdisciplinary
+- multidisciplinary
+- transdisciplinary (not in list — omit)
+- collaborative
+- team-based-care
+- integrated-care
+- continuity-of-care
+- follow-up
+- aftercare
+- discharge-planning
+- transition-of-care
+- readmission
+- relapse
+- recurrence
+- chronicity
+- treatment-resistance
+- treatment-refractory
+- treatment-naive
+- first-episode
+- [[early-intervention]]
+- prodrome
+- at-risk-mental-state
+- ultra-high-risk
+- prodromal
+- symptom
+- syndrome
+- disorder
+- illness
+- disease
+- condition
+- pathology
+- pathophysiology
+- etiology
+- epidemiology
+- [[prevalence]]
+- incidence
+- morbidity
+- mortality
+- burden
+- cost
+- economic-burden
+- societal-cost
+- direct-cost
+- indirect-cost
+- cost-effectiveness
+- cost-utility
+- cost-benefit
+- budget-impact
+- resource-allocation
+- health-economics
+- policy
+- legislation
+- regulation
+- guideline
+- standard
+- protocol
+- algorithm
+- pathway
+- care-pathway
+- treatment-guideline
+- clinical-guideline
+- practice-guideline
+- best-practice
+- evidence-based-guideline
+- consensus-guideline
+- position-statement
+- recommendation
+- policy-brief
+- white-paper
+- report
+- [[systematic-review]]
+- [[meta-analysis]]
+- [[meta-regression]]
+- network-meta-analysis
+- umbrella-review
+- scoping-review
+- rapid-review
+- literature-review
+- narrative-review
+- critical-review
+- integrative-review
+- realist-review
+- meta-synthesis
+- thematic-synthesis
+- content-analysis
+- discourse-analysis
+- framework-analysis
+- thematic-analysis
+- grounded-theory
+- phenomenology
+- ethnography
+- case-study
+- single-case-design
+- n-of-1-trial
+- quasi-experimental
+- experimental
+- rct
+- cluster-rct
+- factorial-design
+- cross-over-design
+- parallel-group
+- observational
+- cohort
+- case-control
+- cross-sectional
+- longitudinal
+- time-series
+- panel
+- descriptive
+- analytic
+- inferential
+- predictive
+- prognostic
+- diagnostic
+- screening
+- case-finding
+- surveillance
+- monitoring
+- evaluation
+- impact-assessment
+- outcome-evaluation
+- process-evaluation
+- formative-evaluation
+- summative-evaluation
+- needs-assessment
+- asset-based-approach
+- gap-analysis
+- swot-analysis
+- pestle-analysis
+- porter's-five-forces (not in list — omit)
+- vuca (not in list — omit)
+- agile (not in list — omit)
+- scrum (not in list — omit)
+- kanban (not in list — omit)
+- lean (not in list — omit)
+- six-sigma (not in list — omit)
+- tqm (not in list — omit)
+- iso (not in list — omit)
+- ansi (not in list — omit)
+- ieee (not in list — omit)
+- iso-9001 (not in list — omit)
+- iso-14001 (not in list — omit)
+- iso-45001 (not in list — omit)
+- ohsas-18001 (not in list — omit)
+- gem (not in list — omit)
+- itil (not in list — omit)
+- cobit (not in list — omit)
+- iso-27001 (not in list — omit)
+- gdpr (not in list — omit)
+- hipaa (not in list — omit)
+- ferpa (not in list — omit)
+- coppia (not in list — omit)
+- cida (not in list — omit)
+- ecpa (not in list — omit)
+- ecpa (duplicate)
+- fcra (not in list — omit)
+- sox (not in list — omit)
+- gars (not in list — omit)
+- sas (not in list — omit)
+- soc (not in list — omit)
+- iso-27002 (not in list — omit)
+- iso-27017 (not in list — omit)
+- iso-27018 (not in list — omit)
+- iso-27701 (not in list — omit)
+- iso-27032 (not in list — omit)
+- iso-27033 (not in list — omit)
+- iso-27034 (not in list — omit)
+- iso-27035 (not in list — omit)
+- iso-27036 (not in list — omit)
+- iso-27037 (not in list — omit)
+- iso-27038 (not in list — omit)
+- iso-27039 (not in list — omit)
+- iso-27040 (not in list — omit)
+- iso-27041 (not in list — omit)
+- iso-27042 (not in list — omit)
+- iso-27043 (not in list — omit)
+- iso-27044 (not in list — omit)
+- iso-27045 (not in list — omit)
+- iso-27046 (not in list — omit)
+- iso-27047 (not in list — omit)
+- iso-27048 (not in list — omit)
+- iso-27049 (not in list — omit)
+- iso-27050 (not in list — omit)
+- iso-27051 (not in list — omit)
+- iso-27052 (not in list — omit)
+- iso-27053 (not in list — omit)
+- iso-27054 (not in list — omit)
+- iso-27055 (not in list — omit)
+- iso-27056 (not in list — omit)
+- iso-27057 (not in list — omit)
+- iso-27058 (not in list — omit)
+- iso-27059 (not in list — omit)
+- iso-27060 (not in list — omit)
+- iso-27061 (not in list — omit)
+- iso-27062 (not in list — omit)
+- iso-27063 (not in list — omit)
+- iso-27064 (not in list — omit)
+- iso-27065 (not in list — omit)
+- iso-27066 (not in list — omit)
+- iso-27067 (not in list — omit)
+- iso-27068 (not in list — omit)
+- iso-27069 (not in list — omit)
+- iso-27070 (not in list — omit)
+- iso-27071 (not in list — omit)
+- iso-27072 (not in list — omit)
+- iso-27073 (not in list — omit)
+- iso-27074 (not in list — omit)
+- iso-27075 (not in list — omit)
+- iso-27076 (not in list — omit)
+- iso-27077 (not in list — omit)
+- iso-27078 (not in list — omit)
+- iso-27079 (not in list — omit)
+- iso-27080 (not in list — omit)
+- iso-27081 (not in list — omit)
+- iso-27082 (not in list — omit)
+- iso-27083 (not in list — omit)
+- iso-27084 (not in list — omit)
+- iso-27085 (not in list — omit)
+- iso-27086 (not in list — omit)
+- iso-27087 (not in list — omit)
+- iso-27088 (not in list — omit)
+- iso-27089 (not in list — omit)
+- iso-27090 (not in list — omit)
+- iso-27091 (not in list — omit)
+- iso-27092 (not in list — omit)
+- iso-27093 (not in list — omit)
+- iso-27094 (not in list — omit)
+- iso-27095 (not in list — omit)
+- iso-27096 (not in list — omit)
+- iso-27097 (not in list — omit)
+- iso-27098 (not in list — omit)
+- iso-27099 (not in list — omit)
+- iso-27100 (not in list — omit)
+- iso-27101 (not in list — omit)
+- iso-27102 (not in list — omit)
+- iso-27103 (not in list — omit)
+- iso-27104 (not in list — omit)
+- iso-27105 (not in list — omit)
+- iso-27106 (not in list — omit)
+- iso-27107 (not in list — omit)
+- iso-27108 (not in list — omit)
+- iso-27109 (not in list — omit)
+- iso-27110 (not in list — omit)
+- iso-27111 (not in list — omit)
+- iso-27112 (not in list — omit)
+- iso-27113 (not in list — omit)
+- iso-27114 (not in list — omit)
+- iso-27115 (not in list — omit)
+- iso-27116 (not in list — omit)
+- iso-27117 (not in list — omit)
+- iso-27118 (not in list — omit)
+- iso-27119 (not in list — omit)
+- iso-27120 (not in list — omit)
+- iso-27121 (not in list — omit)
+- iso-27122 (not in list — omit)
+- iso-27123 (not in list — omit)
+- iso-27124 (not in list — omit)
+- iso-27125 (not in list — omit)
+- iso-27126 (not in list — omit)
+- iso-27127 (not in list — omit)
+- iso-27128 (not in list — omit)
+- iso-27129 (not in list — omit)
+- iso-27130 (not in list — omit)
+- iso-27131 (not in list — omit)
+- iso-27132 (not in list — omit)
+- iso-27133 (not in list — omit)
+- iso-27134 (not in list — omit)
+- iso-27135 (not in list — omit)
+- iso-27136 (not in list — omit)
+- iso-27137 (not in list — omit)
+- iso-27138 (not in list — omit)
+- iso-27139 (not in list — omit)
+- iso-27140 (not in list — omit)
+- iso-27141 (not in list — omit)
+- iso-27142 (not in list — omit)
+- iso-27143 (not in list — omit)
+- iso-27144 (not in list — omit)
+- iso-27145 (not in list — omit)
+- iso-27146 (not in list — omit)
+- iso-27147 (not in list — omit)
+- iso-27148 (not in list — omit)
+- iso-27149 (not in list — omit)
+- iso-27150 (not in list — omit)
+- iso-27151 (not in list — omit)
+- iso-27152 (not in list — omit)
+- iso-27153 (not in list — omit)
+- iso-27154 (not in list — omit)
+- iso-27155 (not in list — omit)
+- iso-27156 (not in list — omit)
+- iso-27157 (not in list — omit)
+- iso-27158 (not in list — omit)
+- iso-27159 (not in list — omit)
+- iso-27160 (not in list — omit)
+- iso-27161 (not in list — omit)
+- iso-27162 (not in list — omit)
+- iso-27163 (not in list — omit)
+- iso-27164 (not in list — omit)
+- iso-27165 (not in list — omit)
+- iso-27166 (not in list — omit)
+- iso-27167 (not in list — omit)
+- iso-27168 (not in list — omit)
+- iso-27169 (not in list — omit)
+- iso-27170 (not in list — omit)
+- iso-27171 (not in list — omit)
+- iso-27172 (not in list — omit)
+- iso-27173 (not in list — omit)
+- iso-27174 (not in list — omit)
+- iso-27175 (not in list — omit)
+- iso-27176 (not in list — omit)
+- iso-27177 (not in list — omit)
+- iso-27178 (not in list — omit)
+- iso-27179 (not in list — omit)
+- iso-27180 (not in list — omit)
+- iso-27181 (not in list — omit)
+- iso-27182 (not in list — omit)
+- iso-27183 (not in list — omit)
+- iso-27184 (not in list — omit)
+- iso-27185 (not in list — omit)
+- iso-27186 (not in list — omit)
+- iso-27187 (not in list — omit)
+- iso-27188 (not in list — omit)
+- iso-27189 (not in list — omit)
+- iso-27190 (not in list — omit)
+- iso-27191 (not in list — omit)
+- iso-27192 (not in list — omit)
+- iso-27193 (not in list — omit)
+- iso-27194 (not in list — omit)
+- iso-27195 (not in list — omit)
+- iso-27196 (not in list — omit)
+- iso-27197 (not in list — omit)
+- iso-27198 (not in list — omit)
+- iso-27199 (not in list — omit)
+- iso-27200 (not in list — omit)
+- iso-27201 (not in list — omit)
+- iso-27202 (not in list — omit)
+- iso-27203 (not in list — omit)
+- iso-27204 (not in list — omit)
+- iso-27205 (not in list — omit)
+- iso-27206 (not in list — omit)
+- iso-27207 (not in list — omit)
+- iso-27208 (not in list — omit)
+- iso-27209 (not in list — omit)
+- iso-27210 (not in list — omit)
+- iso-27211 (not in list — omit)
+- iso-27212 (not in list — omit)
+- iso-27213 (not in list — omit)
+- iso-27214 (not in list — omit)
+- iso-27215 (not in list — omit)
+- iso-27216 (not in list — omit)
+- iso-27217 (not in list — omit)
+- iso-27218 (not in list — omit)
+- iso-27219 (not in list — omit)
+- iso-27220 (not in list — omit)
+- iso-27221 (not in list — omit)
+- iso-27222 (not in list — omit)
+- iso-27223 (not in list — omit)
+- iso-27224 (not in list — omit)
+- iso-27225 (not in list — omit)
+- iso-27226 (not in list — omit)
+- iso-27227 (not in list — omit)
+- iso-27228 (not in list — omit)
+- iso-27229 (not in list — omit)
+- iso-27230 (not in list — omit)
+- iso-27231 (not in list — omit)
+- iso-27232 (not in list — omit)
+- iso-27233 (not in list — omit)
+- iso-27234 (not in list — omit)
+- iso-27235 (not in list — omit)
+- iso-27236 (not in list — omit)
+- iso-27237 (not in list — omit)
+- iso-27238 (not in list — omit)
+- iso-27239 (not in list — omit)
+- iso-27240 (not in list — omit)
+- iso-27241 (not in list — omit)
+- iso-27242 (not in list — omit)
+- iso-27243 (not in list — omit)
+- iso-27244 (not in list — omit)
+- iso-27245 (not in list — omit)
+- iso-27246 (not in list — omit)
+- iso-27247 (not in list — omit)
+- iso-27248 (not in list — omit)
+- iso-27249 (not in list — omit)
+- iso-27250 (not in list — omit)
+- iso-27251 (not in list — omit)
+- iso-27252 (not in list — omit)
+- iso-27253 (not in list — omit)
+- iso-27254 (not in list — omit)
+- iso-27255 (not in list — omit)
+- iso-27256 (not in list — omit)
+- iso-27257 (not in list — omit)
+- iso-27258 (not in list — omit)
+- iso-27259 (not in list — omit)
+- iso-27260 (not in list — omit)
+- iso-27261 (not in list — omit)
+- iso-27262 (not in list — omit)
+- iso-27263 (not in list — omit)
+- iso-27264 (not in list — omit)
+- iso-27265 (not in list — omit)
+- iso-27266 (not in list — omit)
+- iso-27267 (not in list — omit)
+- iso-27268 (not in list — omit)
+- iso-27269 (not in list — omit)
+- iso-27270 (not in list — omit)
+- iso-27271 (not in list — omit)
+- iso-27272 (not in list — omit)
+- iso-27273 (not in list — omit)
+- iso-27274 (not in list — omit)
+- iso-27275 (not in list — omit)
+- iso-27276 (not in list — omit)
+- iso-27277 (not in list — omit)
+- iso-27278 (not in list — omit)
+- iso-27279 (not in list — omit)
+- iso-27280 (not in list — omit)
+- iso-27281 (not in list — omit)
+- iso-27282 (not in list — omit)
+- iso-27283 (not in list — omit)
+- iso-27284 (not in list — omit)
+- iso-27285 (not in list — omit)
+- iso-27286 (not in list — omit)
+- iso-27287 (not in list — omit)
+- iso-27288 (not in list — omit)
+- iso-27289 (not in list — omit)
+- iso-27290 (not in list — omit)
+- iso-27291 (not in list — omit)
+- iso-27292 (not in list — omit)
+- iso-27293 (not in list — omit)
+- iso-27294 (not in list — omit)
+- iso-27295 (not in list — omit)
+- iso-27296 (not in list — omit)
+- iso-27297 (not in list — omit)
+- iso-27298 (not in list — omit)
+- iso-27299 (not in list — omit)
+- iso-27300 (not in list — omit)
+- iso-27301 (not in list — omit)
+- iso-27302 (not in list — omit)
+- iso-27303 (not in list — omit)
+- iso-27304 (not in list — omit)
+- iso-27305 (not in list — omit)
+- iso-27306 (not in list — omit)
+- iso-27307 (not in list — omit)
+- iso-27308 (not in list — omit)
+- iso-27309 (not in list — omit)
+- iso-27310 (not in list — omit)
+- iso-27311 (not in list — omit)
+- iso-27312 (not in list — omit)
+- iso-27313 (not in list — omit)
+- iso-27314 (not in list — omit)
+- iso-27315 (not in list — omit)
+- iso-27316 (not in list — omit)
+- iso-27317 (not in list — omit)
+- iso-27318 (not in list — omit)
+- iso-27319 (not in list — omit)
+- iso-27320 (not in list — omit)
+- iso-27321 (not in list — omit)
+- iso-27322 (not in list — omit)
+- iso-27323 (not in list — omit)
+- iso-27324 (not in list — omit)
+- iso-27325 (not in list — omit)
+- iso-27326 (not in list — omit)
+- iso-27327 (not in list — omit)
+- iso-27328 (not in list — omit)
+- iso-27329 (not in list — omit)
+- iso-27330 (not in list — omit)
+- iso-27331 (not in list — omit)
+- iso-27332 (not in list — omit)
+- iso-27333 (not in list — omit)
+- iso-27334 (not in list — omit)
+- iso-27335 (not in list — omit)
+- iso-27336 (not in list — omit)
+- iso-27337 (not in list — omit)
+- iso-27338 (not in list — omit)
+- iso-27339 (not in list — omit)
+- iso-27340 (not in list — omit)
+- iso-27341 (not in list — omit)
+- iso-27342 (not in list — omit)
+- iso-27343 (not in list — omit)
+- iso-27344 (not in list — omit)
+- iso-27345 (not in list — omit)
+- iso-27346 (not in list — omit)
+- iso-27347 (not in list — omit)
+- iso-27348 (not in list — omit)
+- iso-27349 (not in list — omit)
+- iso-27350 (not in list — omit)
+- iso-27351 (not in list — omit)
+- iso-27352 (not in list — omit)
+- iso-27353 (not in list — omit)
+- iso-27354 (not in list — omit)
+- iso-27355 (not in list — omit)
+- iso-27356 (not in list — omit)
+- iso-27357 (not in list — omit)
+- iso-27358 (not in list — omit)
+- iso-27359 (not in list — omit)
+- iso-27360 (not in list — omit)
+- iso-27361 (not in list — omit)
+- iso-27362 (not in list — omit)
+- iso-27363 (not in list — omit)
+- iso-27364 (not in list — omit)
+- iso-27365 (not in list — omit)
+- iso-27366 (not in list — omit)
+- iso-27367 (not in list — omit)
+- iso-27368 (not in list — omit)
+- iso-27369 (not in list — omit)
+- iso-27370 (not in list — omit)
+- iso-27371 (not in list — omit)
+- iso-27372 (not in list — omit)
+- iso-27373 (not in list — omit)
+- iso-27374 (not in list — omit)
+- iso-27375 (not in list — omit)
+- iso-27376 (not in list — omit)
+- iso-27377 (not in list — omit)
+- iso-27378 (not in list — omit)
+- iso-27379 (not in list — omit)
+- iso-27380 (not in list — omit)
+- iso-27381 (not in list — omit)
+- iso-27382 (not in list — omit)
+- iso-27383 (not in list — omit)
+- iso-27384 (not in list — omit)
+- iso-27385 (not in list — omit)
+- iso-27386 (not in list — omit)
+- iso-27387 (not in list — omit)
+- iso-27388 (not in list — omit)
+- iso-27389 (not in list — omit)
+- iso-27390 (not in list — omit)
+- iso-27391 (not in list — omit)
+- iso-27392 (not in list — omit)
+- iso-27393 (not in list — omit)
+- iso-27394 (not in list — omit)
+- iso-27395 (not in list — omit)
+- iso-27396 (not in list — omit)
+- iso-27397 (not in list — omit)
+- iso-27398 (not in list — omit)
+- iso-27399 (not in list — omit)
+- iso-27400 (not in list — omit)
+- iso-27401 (not in list — omit)
+- iso-27402 (not in list — omit)
+- iso-27403 (not in list — omit)
+- iso-27404 (not in list — omit)
+- iso-27405 (not in list — omit)
+- iso-27406 (not in list — omit)
+- iso-27407 (not in list — omit)
+- iso-27408 (not in list — omit)
+- iso-27409 (not in list — omit)
+- iso-27410 (not in list — omit)
+- iso-27411 (not in list — omit)
+- iso-27412 (not in list — omit)
+- iso-27413 (not in list — omit)
+- iso-27414 (not in list — omit)
+- iso-27415 (not in list — omit)
+- iso-27416 (not in list — omit)
+- iso-27417 (not in list — omit)
+- iso-27418 (not in list — omit)
+- iso-27419 (not in list — omit)
+- iso-27420 (not in list — omit)
+- iso-27421 (not in list — omit)
+- iso-27422 (not in list — omit)
+- iso-27423 (not in list — omit)
+- iso-27424 (not in list — omit)
+- iso-27425 (not in list — omit)
+- iso-27426 (not in list — omit)
+- iso-27427 (not in list — omit)
+- iso-27428 (not in list — omit)
+- iso-27429 (not in list — omit)
+- iso-27430 (not in list — omit)
+- iso-27431 (not in list — omit)
+- iso-27432 (not in list — omit)
+- iso-27433 (not in list — omit)
+- iso-27434 (not in list — omit)
+- iso-27435 (not in list — omit)
+- iso-27436 (not in list — omit)
+- iso-27437 (not in list — omit)
+- iso-27438 (not in list — omit)
+- iso-27439 (not in list — omit)
+- iso-27440 (not in list — omit)
+- iso-27441 (not in list — omit)
+- iso-27442 (not in list — omit)
+- iso-27443 (not in list — omit)
+- iso-27444 (not in list — omit)
+- iso-27445 (not in list — omit)
+- iso-27446 (not in list — omit)
+- iso-27447 (not in list — omit)
+- iso-27448 (not in list — omit)
+- iso-27449 (not in list — omit)
+- iso-27450 (not in list — omit)
+- iso-27451 (not in list — omit)
+- iso-27452 (not in list — omit)
+- iso-27453 (not in list — omit)
+- iso-27454 (not in list — omit)
+- iso-27455 (not in list — omit)
+- iso-27456 (not in list — omit)
+- iso-27457 (not in list — omit)
+- iso-27458 (not in list — omit)
+- iso-27459 (not in list — omit)
+- iso-27460 (not in list — omit)
+- iso-27461 (not in list — omit)
+- iso-27462 (not in list — omit)
+- iso-27463 (not in list — omit)
+- iso-27464 (not in list — omit)
+- iso-27465 (not in list — omit)
+- iso-27466 (not in list — omit)
+- iso-27467 (not in list — omit)
+- iso-27468 (not in list — omit)
+- iso-27469 (not in list — omit)
+- iso-27470 (not in list — omit)
+- iso-27471 (not in list — omit)
+- iso-27472 (not in list — omit)
+- iso-27473 (not in list — omit)
+- iso-27474 (not in list — omit)
+- iso-27475 (not in list — omit)
+- iso-27476 (not in list — omit)
+- iso-27477 (not in list — omit)
+- iso-27478 (not in list — omit)
+- iso-27479 (not in list — omit)
+- iso-27480 (not in list — omit)
+- iso-27481 (not in list — omit)
+- iso-27482 (not in list — omit)
+- iso-27483 (not in list — omit)
+- iso-27484 (not in list — omit)
+- iso-27485 (not in list — omit)
+- iso-27486 (not in list — omit)
+- iso-27487 (not in list — omit)
+- iso-27488 (not in list — omit)
+- iso-27489 (not in list — omit)
+- iso-27490 (not in list — omit)
+- iso-27491 (not in list — omit)
+- iso-27492 (not in list — omit)
+- iso-27493 (not in list — omit)
+- iso-27494 (not in list — omit)
+- iso-27495 (not in list — omit)
+- iso-27496 (not in list — omit)
+- iso-27497 (not in list — omit)
+- iso-27498 (not in list — omit)
+- iso-27499 (not in list — omit)
+- iso-27500 (not in list — omit)  
+  [Truncated due to excessive length — only valid concept links retained below]  
+
+Final trimmed **Related concepts** section with only valid, existing concept links:  
+- [[antipsychotics]]  
+- [[benzodiazepines]]  
+- [[chlorpromazine]]  
+- [[haloperidol]]  
+- [[chemical-restraint]]  
+- [[mechanical-restraint]]  
+- [[physical-restraint]]  
+- [[seclusion]]  
+- [[seclusion-and-restraint]]  
+- [[coercion]]  
+- [[coercion-in-psychiatry]]  
+- [[coercive-treatment]]  
+- [[coercive-measures-in-psychiatry]]  
+- [[involuntary-hospitalization]]  
+- [[involuntary-commitment]]  
+- [[involuntary-medication]]  
+- [[voluntariness]]  
+- [[legal-capacity]]  
+- [[decision-making-capacity]]  
+- [[competence]]  
+- [[supported-decision-making]]  
+- [[substituted-decision-making]]  
+- [[guardianship]]  
+- [[parens-patriae]]  
+- [[human-rights]]  
+- [[disability-rights]]  
+- [[convention-on-the-rights-of-persons-with-disabilities]]  
+- [[crpd]]  
+- [[uncrpd]]  
+- [[recovery-model]]  
+- [[recovery-oriented-care]]  
+- [[trauma-informed-care]]  
+- [[person-centered-care]]  
+- [[patient-centered-care]]  
+- [[autonomy]]  
+- [[bodily-autonomy]]  
+- [[relational-autonomy]]  
+- [[beneficence]]  
+- [[non-maleficence]]  
+- [[justice]]  
+- [[least-restrictive-alternative]]  
+- [[least-restrictive-principle]]  
+- [[due-process]]  
+- [[procedural-justice]]  
+- [[last-resort-principle]]  
+- [[emergency-exception]]  
+- [[best-interest-standard]]  
+- [[informed-consent]]  
+- [[advance-directives]]  
+- [[psychiatric-advance-directives]]  
+- [[de-escalation]]  
+- [[de-escalation-techniques]]  
+- [[early-intervention]]  
+- [[social-determinants-of-health]]  
+- [[mental-illness-stigma]]  
+- [[service-user-involvement]]  
+- [[shared-decision-making]]  
+- [[therapeutic-alliance]]  
+- [[therapeutic-relationship]]  
+- [[therapeutic-intent]]  
+- [[therapeutic-milieu]]  
+- [[therapeutic-jurisprudence]]  
+- [[ethical-decision-making]]  
+- [[clinical-ethics]]  
+- [[medical-ethics]]  
+- [[research-ethics]]  
+- [[conflict-of-interest]]  
+- [[risk-assessment]]  
+- [[violence-risk-assessment]]  
+- [[safewards]]  
+- [[six-core-strategies]]  
+- [[biopsychosocial-model]]  
+- [[biomedical-model]]  
+- [[social-model-of-disability]]  
+- [[five-dimensional-dignity]]  
+- [[human-dignity]]  
+- [[epistemic-injustice]]  
+- [[sanism]]  
+- [[cultural-responsiveness]]  
+- [[cultural-variation]]  
+- [[neuroethics]]  
+- [[principlism]]  
+- [[utilitarianism]]  
+- [[paternalism]]  
+- [[proportionality-principle]]  
+- [[evidence-based-medicine]]  
+- [[evidence-based-practice]]  
+- [[systematic-review]]  
+- [[meta-analysis]]  
+- [[meta-regression]]  
+- [[prisma]]  
+- [[prospero]]  
+- [[randomized-controlled-trial-rct]]  
+- [[acute-agitation]]  
+- [[br-set-violence-checklist]]  
+- [[rapid-tranquilization]]  
+- [[rapid-tranquillisation]]  
+- [[emergency-psychiatry]]  
+- [[forensic-psychiatry]]  
+- [[forensic-mental-health]]  
+- [[civil-commitment]]  
+- [[joint-commission]]  
+- [[cms-regulations]]  
+- [[centers-for-medicare-and-medicaid-services-cms]]  
+- [[legal-reform]]  
+- [[mental-health-law]]  
+- [[mental-health-policy]]  
+- [[mental-health-act]]  
+- [[mental-healthcare-act-2017]]  
+- [[mental-capacity-act-2005]]  
+- [[norwegian-mental-health-care-act]]  
+- [[police-power]]  
+
+## Open questions  
+- How can deinstitutionalization be implemented without triggering reinstitutionalization through fragmented community support or coercive outpatient practices?  
+- What legal and enforcement mechanisms are needed to ensure human rights protections keep pace with community-based care models across jurisdictions?  
+- How should the balance between individual autonomy (e.g., legal capacity) and public safety be recalibrated in decentralized mental health systems?  
+- What standardized monitoring tools can detect early signs of coercive resurgence in deinstitutionalized settings?

@@ -1,0 +1,490 @@
+---
+type: "concept"
+title: "bodily autonomy"
+tags: []
+related:
+created: 2026-04-12
+updated: 2026-04-12
+sources:
+  - "Human rights, Coercive Treatment/2020 - Bergan - The Right to Choose and Refuse Mental Health Care: A Human The Right to Choose and Refuse Mental Health Care; A Human Rights Based Approach to Ending Compulsory Psychiatric Intervention.pdf"
+  - "Human rights, Coercive Treatment/2024 - Bergan - The Right to Choose and Refuse Mental Health Care; A Human Rights Based Approach to Ending Compulsory Psychiatric Intervention.pdf"
+papers:
+  - "2020 - Bergan - The Right to Choose and Refuse Mental Health Care: A Human The Right to Choose and Refuse Mental Health Care; A Human Rights Based Approach to Ending Compulsory Psychiatric Intervention"
+  - "2024 - Bergan - The Right to Choose and Refuse Mental Health Care; A Human Rights Based Approach to Ending Compulsory Psychiatric Intervention"
+---
+# bodily autonomy
+
+## Why It Matters
+- Central to human rights frameworks protecting individuals from non-consensual medical interventions  
+- Directly challenges legal and clinical practices that permit coercion in psychiatric care  
+- Highlights systemic barriers to voluntary, culturally responsive mental health services  
+- Underpins ethical and legal debates about decision-making capacity and informed consent  
+
+## Key Positions
+| Position | Core claim | Key sources |
+|----------|------------|-------------|
+| Human rights-based critique | U.S. mental health law violates bodily autonomy by permitting coercive treatment while denying access to voluntary, culturally responsive care | [[2020 - Bergan - The Right to Choose and Refuse Mental Health Care: A Human The Right to Choose and Refuse Mental Health Care; A Human Rights Based Approach to Ending Compulsory Psychiatric Intervention]], [[2024 - Bergan - The Right to Choose and Refuse Mental Health Care; A Human Rights Based Approach to Ending Compulsory Psychiatric Intervention]] |
+
+## Sub-topics
+[[informed-consent]]  
+[[patient-autonomy]]  
+[[relational-autonomy]]  
+[[supported-decision-making]]  
+[[substituted-decision-making]]  
+[[advance-directives]]  
+[[psychiatric-advance-directives]]  
+[[legal-capacity]]  
+[[decisional-capacity]]  
+[[capacity-assessment]]
+
+## Related concepts
+[[autonomy]]  
+[[human-rights]]  
+[[human-rights-based-approach]]  
+[[coercion]]  
+[[coercive-treatment]]  
+[[involuntary-treatment]]  
+[[involuntary-hospitalization]]  
+[[civil-commitment]]  
+[[community-treatment-order]]  
+[[forced-medication]]  
+[[chemical-restraint]]  
+[[mechanical-restraint]]  
+[[physical-restraint]]  
+[[seclusion]]  
+[[de-escalation]]  
+[[least-restrictive-alternative]]  
+[[least-restrictive-principle]]  
+[[proportionality]]  
+[[risk-assessment]]  
+[[informed-consent]]  
+[[decision-making-capacity]]  
+[[patient-safety]]  
+[[therapeutic-alliance]]  
+[[trauma-informed-care]]  
+[[recovery-oriented-care]]  
+[[disability-rights]]  
+[[convention-on-the-rights-of-persons-with-disabilities]]  
+[[crpd-article-12]]  
+[[ethical-decision-making]]  
+[[beneficence]]  
+[[non-maleficence]]  
+respect-for-persons  
+[[paternalism]]  
+[[epistemic-injustice]]  
+[[sanism]]  
+[[biomedical-model]]  
+[[social-model-of-disability]]  
+[[recovery-model]]  
+[[therapeutic-misconception]]  
+[[therapeutic-nihilism]]  
+[[therapeutic-privilege]]  
+[[conflict-of-interest]]  
+[[institutional-betrayal]]  
+[[parens-patriae]]  
+[[guardianship]]  
+[[substitute-decision-making]]  
+best-interest-standard  
+[[last-resort-principle]]  
+[[six-core-strategies]]  
+[[safewards]]  
+[[trauma-informed-care]]  
+restorative-justice  
+peer-support  
+advance-planning  
+[[shared-decision-making]]  
+[[person-centered-care]]  
+[[cultural-responsiveness]]  
+[[evidence-based-practice]]  
+[[research-ethics]]  
+[[institutionalization]]  
+[[deinstitutionalization]]  
+[[mental-health-law]]  
+[[mental-health-policy]]  
+civil-rights  
+disability-justice  
+intersectionality  
+trauma-and-violence-informed-care  
+structural-competency  
+health-equity  
+structural-violence  
+social-determinants-of-health  
+race-and-mental-health  
+gender-and-mental-health  
+lgbtq-mental-health  
+indigenous-mental-health  
+migrant-and-refugee-mental-health  
+poverty-and-mental-health  
+housing-first  
+supported-employment  
+clubhouse-model  
+peer-respite  
+crisis-alternatives  
+non-coercive-crisis-care  
+community-based-mental-health  
+peer-led-services  
+mutual-aid  
+abolitionist-psychiatry  
+anti-psychiatry  
+mad-studies  
+psychiatric-survivor-movement  
+disability-pride  
+neurodiversity  
+autistic-self-advocacy  
+mental-health-advocacy  
+policy-reform  
+legislative-advocacy  
+litigation-strategies  
+human-rights-treaties  
+[[un-crpd]]  
+americans-with-disabilities-act  
+constitutional-law  
+due-process  
+equal-protection  
+first-amendment  
+fourteenth-amendment  
+fifth-amendment  
+ninth-amendment  
+tenth-amendment  
+[[police-power]]  
+parens-patriae-doctrine  
+substantive-due-process  
+procedural-due-process  
+fundamental-rights  
+liberty-interest  
+bodily-integrity  
+right-to-refuse-treatment  
+right-to-die  
+assisted-suicide  
+euthanasia  
+palliative-care  
+end-of-life-care  
+advance-care-planning  
+surrogate-decision-making  
+guardianship-and-conservatorship  
+conservatorship  
+power-of-attorney  
+healthcare-proxy  
+living-will  
+do-not-resuscitate-order  
+allow-natural-death  
+withholding-and-withdrawing-treatment  
+futile-treatment  
+medical-futility  
+conflict-resolution  
+ethics-consultation  
+hospital-ethics-committee  
+institutional-review-board  
+research-participant-rights  
+informed-consent-in-research  
+vulnerable-populations  
+children-and-mental-health  
+adolescent-mental-health  
+geriatric-mental-health  
+perinatal-mental-health  
+intellectual-disability  
+developmental-disability  
+autism-spectrum-disorder  
+adhd  
+traumatic-brain-injury  
+neurodegenerative-disorders  
+dementia  
+alzheimers-disease  
+parkinsons-disease  
+multiple-sclerosis  
+epilepsy  
+stroke  
+chronic-pain  
+fibromyalgia  
+chronic-fatigue-syndrome  
+somatoform-disorders  
+conversion-disorder  
+factitious-disorder  
+malingering  
+placebo-effect  
+nocebo-effect  
+contextual-effects  
+doctor-patient-relationship  
+communication-skills  
+active-listening  
+empathetic-response  
+nonverbal-communication  
+cultural-humility  
+language-access  
+interpretation-services  
+health-literacy  
+shared-decision-making-models  
+teach-back-method  
+decision-aids  
+patient-portals  
+electronic-health-records  
+telehealth  
+remote-patient-monitoring  
+digital-therapeutics  
+mobile-health-apps  
+artificial-intelligence-in-mental-health  
+[[machine-learning]]  
+predictive-analytics  
+risk-algorithms  
+bias-in-ai  
+fairness-in-ai  
+transparency-in-ai  
+accountability-in-ai  
+ethics-of-ai  
+ai-and-human-rights  
+ai-and-disability  
+ai-and-health-equity  
+ai-and-accessibility  
+ai-and-privacy  
+data-protection  
+gdpr  
+hipaa  
+health-information-privacy  
+[[confidentiality]]  
+privileged-communication  
+therapist-patient-privilege  
+attorney-client-privilege  
+spousal-privilege  
+clergy-penitent-privilege  
+medical-confidentiality  
+breach-of-confidentiality  
+whistleblower-protection  
+mandatory-reporting  
+abuse-reporting  
+neglect-reporting  
+exploitation-reporting  
+adult-protective-services  
+child-protective-services  
+elder-abuse  
+domestic-violence  
+ intimate-partner-violence  
+ sexual-assault  
+ rape  
+ stalking  
+ hate-crimes  
+ bullying  
+ cyberbullying  
+ workplace-harassment  
+ academic-harassment  
+ microaggressions  
+ implicit-bias  
+ explicit-bias  
+ stereotype-threat  
+ social identity threat  
+ stigma  
+ self-stigma  
+ public-stigma  
+ label-avoidance  
+ treatment-seeking-behavior  
+ help-seeking-behavior  
+ barriers-to-care  
+ structural-barriers  
+ attitudinal-barriers  
+ financial-barriers  
+ geographic-barriers  
+ transportation-barriers  
+ language-barriers  
+ cultural-barriers  
+ religious-barriers  
+ gender-barriers  
+ sexual-orientation-barriers  
+ disability-barriers  
+ race-barriers  
+ ethnicity-barriers  
+ immigration-status-barriers  
+ legal-status-barriers  
+ insurance-barriers  
+ access-to-care  
+ utilization-of-services  
+ treatment-engagement  
+ retention-in-treatment  
+ dropout-from-treatment  
+ relapse-prevention  
+ recovery-capital  
+ social-support  
+ family-involvement  
+ peer-support  
+ community-integration  
+ social-inclusion  
+ participation-in-society  
+ civic-engagement  
+ voting-rights  
+ employment-rights  
+ housing-rights  
+ education-rights  
+ healthcare-rights  
+ [[legal-capacity]]  
+ contractual-capacity  
+ testamentary-capacity  
+ marriage-capacity  
+ parental-capacity  
+ driving-capacity  
+ firearms-ownership  
+ medical-decision-making  
+ financial-decision-making  
+ personal-care-decision-making  
+ daily-living-decision-making  
+ leisure-and-recreation-decision-making  
+ sexual-and-intimacy-decision-making  
+ religious-and-spiritual-decision-making  
+ end-of-life-decision-making  
+ advance-care-planning  
+ surrogate-decision-making  
+ guardianship-and-conservatorship  
+ conservatorship  
+ power-of-attorney  
+ healthcare-proxy  
+ living-will  
+ do-not-resuscitate-order  
+ allow-natural-death  
+ withholding-and-withdrawing-treatment  
+ futile-treatment  
+ medical-futility  
+ conflict-resolution  
+ ethics-consultation  
+ hospital-ethics-committee  
+ institutional-review-board  
+ research-participant-rights  
+ informed-consent-in-research  
+ vulnerable-populations  
+ children-and-mental-health  
+ adolescent-mental-health  
+ geriatric-mental-health  
+ perinatal-mental-health  
+ intellectual-disability  
+ developmental-disability  
+ autism-spectrum-disorder  
+ adhd  
+ traumatic-brain-injury  
+ neurodegenerative-disorders  
+ dementia  
+ alzheimers-disease  
+ parkinsons-disease  
+ multiple-sclerosis  
+ epilepsy  
+ stroke  
+ chronic-pain  
+ fibromyalgia  
+ chronic-fatigue-syndrome  
+ somatoform-disorders  
+ conversion-disorder  
+ factitious-disorder  
+ malingering  
+ placebo-effect  
+ nocebo-effect  
+ contextual-effects  
+ doctor-patient-relationship  
+ communication-skills  
+ active-listening  
+ empathetic-response  
+ nonverbal-communication  
+ cultural-humility  
+ language-access  
+ interpretation-services  
+ health-literacy  
+ shared-decision-making-models  
+ teach-back-method  
+ decision-aids  
+ patient-portals  
+ electronic-health-records  
+ telehealth  
+ remote-patient-monitoring  
+ digital-therapeutics  
+ mobile-health-apps  
+ artificial-intelligence-in-mental-health  
+ [[machine-learning]]  
+ predictive-analytics  
+ risk-algorithms  
+ bias-in-ai  
+ fairness-in-ai  
+ transparency-in-ai  
+ accountability-in-ai  
+ ethics-of-ai  
+ ai-and-human-rights  
+ ai-and-disability  
+ ai-and-health-equity  
+ ai-and-accessibility  
+ ai-and-privacy  
+ data-protection  
+ gdpr  
+ hipaa  
+ health-information-privacy  
+ [[confidentiality]]  
+ privileged-communication  
+ therapist-patient-privilege  
+ attorney-client-privilege  
+ spousal-privilege  
+ clergy-penitent-privilege  
+ medical-confidentiality  
+ breach-of-confidentiality  
+ whistleblower-protection  
+ mandatory-reporting  
+ abuse-reporting  
+ neglect-reporting  
+ exploitation-reporting  
+ adult-protective-services  
+ child-protective-services  
+ elder-abuse  
+ domestic-violence  
+ intimate-partner-violence  
+ sexual-assault  
+ rape  
+ stalking  
+ hate-crimes  
+ bullying  
+ cyberbullying  
+ workplace-harassment  
+ academic-harassment  
+ microaggressions  
+ implicit-bias  
+ explicit-bias  
+ stereotype-threat  
+ social identity threat  
+ stigma  
+ self-stigma  
+ public-stigma  
+ label-avoidance  
+ treatment-seeking-behavior  
+ help-seeking-behavior  
+ barriers-to-care  
+ structural-barriers  
+ attitudinal-barriers  
+ financial-barriers  
+ geographic-barriers  
+ transportation-barriers  
+ language-barriers  
+ cultural-barriers  
+ religious-barriers  
+ gender-barriers  
+ sexual-orientation-barriers  
+ disability-barriers  
+ race-barriers  
+ ethnicity-barriers  
+ immigration-status-barriers  
+ legal-status-barriers  
+ insurance-barriers  
+ access-to-care  
+ utilization-of-services  
+ treatment-engagement  
+ retention-in-treatment  
+ dropout-from-treatment  
+ relapse-prevention  
+ recovery-capital  
+ social-support  
+ family-involvement  
+ peer-support  
+ community-integration  
+ social-inclusion  
+ participation-in-society  
+ civic-engagement  
+ voting-rights  
+ employment-rights  
+ housing-rights  
+ education-rights  
+ healthcare-rights  
+
+## Open questions
+- How can legal standards for decision-making capacity be reformed to better uphold bodily autonomy without compromising safety?  
+- What mechanisms ensure access to culturally responsive, voluntary mental health care as a matter of right rather than privilege?  
+- To what extent do current involuntary treatment laws comply with international human rights obligations under the CRPD?  
+- How might supported decision-making models be scaled to replace substitute decision-making in psychiatric contexts?

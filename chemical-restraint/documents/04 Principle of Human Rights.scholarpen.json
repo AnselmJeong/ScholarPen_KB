@@ -1,0 +1,520 @@
+[
+  {
+    "id": "59e0557b-91d8-4c8c-ae59-0895d55893da",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박을 금지하는 논리적 근거",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e38aeb0c-781f-4b9f-9f08-60daf3c6b1cd",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "(불가침의) 치료 거부권",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b79d4732-fa33-4e4d-a987-287547d54946",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인권은 크게 무언가를 요구할 권리와 거부할 권리로 분류할 수 있다. 전자는 이러한 요구를 충족할 책임이 누구에게 있는지에 대한 질문을 제기하는 반면, 후자는 누구의 권위에 저항할 수 있는지에 대한 것으로, 본질적으로 권력 역학(power dynamics)의 문제를 부각시킨다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6b32e7f4-1df4-4559-8283-1dff6aff2f01",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 논의는 권력을 소유한 계층이 사회적 이익을 명분으로 취약한 개인에게 부당한 압력을 가할 수 있다는 가능성을 시사한다. 이들 권력층은 개인에게 최선의 이익이 되는 방향으로 행동한다고 주장하지만, 종종 기존의 사회 질서를 보호하고 자신들의 지배력을 유지하려 한다는 비판을 받는다.{Denis, 2016 #51} 정부, 자본가, 그리고 사회적 엘리트들은 빈번하게 이러한 패권주의적 행태로 비판의 대상이 된다. 나아가, 전문 지식을 독점하고 있는 전문가 집단 역시 이러한 비판의 취약한 표적이 되었다. 인권 옹호자들은 이들 전문가 집단, 특히 의사들이 정신질환을 가진 당사자들을 스스로의 이익을 결정할 능력이 없는 존재로 부당하게 규정하며, 이는 정신건강 관련 법률과 정책 전반에 만연한 인식론적 불의(epistemic injustice)를 조장한다고 주장한다.{Bergan, 2024 #50}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6706c568-a899-4191-ad46-de3a79f8fcb7",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "장애(Disability)와 질병(Disease)",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3fc456ec-f3ca-4334-b3d4-9b6f33cda276",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "유엔장애인권리협약이라는 명칭에서 시사하듯, 장애인이 자신들의 정당한 권리를 온전히 누릴 수 있을 정도가 되야 비로소 사회 정의가 실현되었다고 볼 수 있다. 장애는 개인의 결함이 아니라 사회가 이들을 수용하고 돌보지 못하기 때문에 발생하는 것이며, 따라서 변화해야 할 대상은 장애인 개인이 아니라 사회이다. 이러한 관점은 장애(disability)와 질병(disease)을 구분하는 데서 두드러진다. 정신장애는 사회적 환경과 상호작용하는 과정에서 마주치는 장벽으로 규정되는 반면, 정신질환은 뇌와 정신의 병리로서 의학적 치료를 통해 호전될 가능성이 있는 개념으로 이해된다.{Herndl, 2020 #52}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a8c48bcb-304d-45d6-bc97-1405b3602e1e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인권옹호자들에 따르면 \"정신질환\"이라는 개념은 생물학적 시각에 갖혀있는 근시안적 전문가들이 지닌 편향된 견해이다. 물론 생물학적 질병 개념을 고수하는 의사들은 환자의 권리를 지키는 것보다는 질병을 치료하는 것을 우선시한다. 또한 질병의 부정적 결과를 수수방관하는 \"자기 주도적 의료 방임(self-directed medical neglect)\"을 막아야 한다는 명분도 존재한다.{Frasier, 2019 #55} 그러나 인권 옹호론자들은 의학적 온정주의를 일부 인정하더라도, \"돌봄\"이라는 명목하에 환자 본인의 자기결정권을 부정하고 강압적 치료를 체계적으로 정당화해서는 안 된다고 단언한다. 정신장애인은 사회의 모순때문에 당연히 누려야하는 권리를 누리지 못하고 있으며, 이런 권리에는 자신의 삶을 스스로 결정할 권리, 즉 자기결정권이 포함되어야 한다는 논리이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "022cae4d-4a94-444e-9f69-2f2970f62623",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "질병과 장애의 구분은 비단 개인의 건강 수호뿐 아니라 타인의 안전을 지켜야 한다는 공리주의적 논거 앞에서도 여지없이 갈등을 빚는다. 실상 강압적 치료는 정신의학에만 국한된 것이 아니다. 전염병 관리 영역에서도 환자의 자유를 제한하는 법적 장치가 존재하며, 비교적 제한된 논란 속에 운용되고 있다. 일례로 결핵예방법에 따르면, 환자가 타인에게 결핵균을 전염시킬 우려가 있는 경우 지방자치단체의 장은 환자에게 의료기관 입원을 명령해야 한다. 물론 전염병의 강제 격리와 정신과적 강제 치료는 그 근거와 성격이 다르다. 전자는 객관적으로 확인 가능한 전파 위험에 기반하고, 후자는 행동적 위험에 대한 임상적 판단에 기반한다. 그럼에도 불구하고, 유사한 메커니즘이 다른 의료 영역에서는 상대적으로 수용되면서 정신의학에서만 유독 강한 저항에 부딪힌다는 사실은, 이 논쟁이 순수한 윤리적 원칙의 문제만이 아니라 정신질환에 대한 사회적 인식의 문제이기도 함을 시사한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c80f3d44-0c8c-4a28-b4c6-59bd65203358",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인문학적 및 사회적 비판",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "24b45fdc-bf00-472b-b453-a6aba9d3c0eb",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 비판이 유독 정신의학에 집중되는 데에는 깊은 역사적 뿌리가 있다. 정신의학이 걸어온 길에는 부인하기 어려운 어두운 장들이 존재하며, 이에 맞서 철학자, 사회운동가, 그리고 현장의 실천가들이 변화를 이끌어온 과정 역시 오늘날의 논쟁을 형성하는 데 깊이 관여하고 있다. 이 흐름을 이해하는 것은, 현재의 비판이 어디에서 비롯되었는지를 파악하는 데 필수적이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "433fb1fe-ad06-44e9-b943-4b6aa0ab2690",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "권력 수단으로서의 지식 독점",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b0437012-8234-4137-a387-557b63ba2d32",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신의학의 역사가 한때 무지와 편견에 의해 심각하게 훼손되었으며, 사회적 통제의 수단으로 악용되기도 했음을 부인할 수는 없다. 19세기, \"정신과 의사(psychiatrist)\"라는 용어가 통용되기 전, 정신건강 전문가들은 \"에일리어니스트(alienist)\"라고 불렸다. 이는 정신질환을 지닌 환자들이 사회의 기성 규범에서 벗어난 이질적 존재이며, 따라서 사회로부터 격리되어야 한다는 사상에서 비롯된 것이다.{Bhugra, 2014 #57}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "cbd45734-b3be-4c58-b9fd-b931b67cc08a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인권 운동이 거세지던 1960년대에 들어서면서 정신의학은 유례없이 격렬한 비판에 직면하게 되었다. 반정신의학(anti-psychiatry) 운동은 하나의 통일된 조류는 아니었지만, 정신의학의 정당성 자체를 의문시한다는 목표는 공유하였다. 토마스 사스(Thomas Szasz)는 정신질환이라는 개념 자체가 의학적 실체가 아닌 사회적 낙인이며, 국가가 이를 근거로 개인의 자유를 박탈하는 것은 원천적으로 부당하다고 주장했다.{Szasz, 1957 #11} 한편 랭(R.D. Laing)은 정신병적 경험이 단순한 병리 현상이 아니라 나름의 의미를 지닌 인간적 반응일 수 있음을 역설하며, 환자의 주관적 경험을 경청할 것을 촉구했다.{Crossley, 1998 #12} 이 두 입장은 서로 상이했지만, \"정신의학이 환자를 위한다는 명목 아래 실은 사회적 통제를 수행하고 있다\"는 문제의식을 공유했다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9d213448-e618-4432-a0fa-7c5080836a38",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 비판에 이론적 깊이를 부여한 것은 철학자 미셸 푸코(Michel Foucault)였다. 푸코는 근대 국가가 시민의 신체와 행동을 관리하기 위해 의학적 지식을 동원하는 메커니즘을 \"생명정치(biopolitics)\"라는 개념으로 분석했다.{Prozorov, 2020 #165} 그의 관점에서 정신의학은 \"정상\"과 \"비정상\"의 경계를 설정함으로써 사회 질서를 유지하는 규율 권력의 일부였다. 이 분석틀은 이후 광범위한 학술적, 사회적 담론으로 확산되었으며, 보건의료 체계와 과학 지식에 내재된 비대칭적 권력 구조에 대한 비판의 토대가 되었다. 미란다 프릭커(Miranda Fricker)가 개념화한 \"인식적 부정의(epistemic injustice)\"는 특정 집단의 경험과 증언이 구조적으로 평가절하되는 현상을 의미한다. 이는 정신질환을 가진 이들의 목소리가 의료적 권위 앞에서 체계적으로 무시되어왔다는 비판의 핵심 논거가 되었다.{Fricker, 2007 #168}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "807019d7-140a-45ca-88e1-87085d2906a1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 지적 유산은 오늘날 강압적 치료를 둘러싼 논쟁의 핵심 배경으로 작용한다. 화학적 강박을 비롯한 강제 개입에 대한 반발이 단순히 \"부작용의 우려가 크다\"거나 \"덜 침습적인 대안이 존재한다\"는 실무적 차원을 훌쩍 넘어, \"지식을 독점한 전문가 집단이 취약한 개인의 자유를 일방적으로 박탈하는 권력 행사\"라는 식으로 제기되는 까닭이 바로 이러한 학술적 뿌리에 있다. 물론 현대 정신의학계 역시 이러한 뼈아픈 비판을 적극 수용하여 오랜 기간 스스로의 체질을 쇄신하고자 많은 노력을 기울여 왔다. 그럼에도 불구하고, 과거의 권력 남용의 잔재 때문에 오늘날 임상 현장에서의 자정 노력마저 그 진의를 의심받고 폄하되는 현실은 매우 안타까운 대목이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "afbc3599-8acc-4772-8c5a-f815219ec4de",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "의료화(Medicalization) 비판",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e44d2643-ba9d-4df9-88e9-e912650acca8",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "의료화(medicalization)란 본래 의학적 영역에 속하지 않는 문제들이, 의학적 진단과 치료의 대상으로 재규정되는 과정을 가리킨다.{Chodoff, 2002 #157;Aho, 2008 #153} 이 용어는 대체로 부정적인 의미로 사용된다. 일부 사회학자들은 정책 입안자들이, 구조적이고 정치적인 사회 문제의 본질을 개인 수준의 병리로 축소함으로써 제도적 책임을 회피한다고 지적한다. 이 분야의 주요 이론가인 Paula Lantz는 의료화를 \"현대 의학이 지나치게 팽창하여, 인간의 자연스러운 특성과 행동에까지 의학적 관점을 적용하는 현상\"이라 정의한 바 있다.{Lantz, 2007 #164} 예를 들어 애도(bereavement)는 원래 정상적인 인간의 경험으로 여겨졌으나, DSM-5는 \"지속성 애도 장애(prolonged grief disorder)\"라는 진단을 둠으로써 이마저 병적 상태로 규정하였다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b6fbde57-5390-4992-bfb1-f2cbcf67a09d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 비판은 일정한 타당성을 지닌다. 그러나 임상 현장에서는 \"무엇이 의학적 문제이고 무엇이 아닌지\"의 경계가 명확하지 않은 상황이 빈번하게 발생한다. 파괴적 행동으로 응급실에 이송된 주취 환자를 급성 알코올 중독으로 진단하여 의학적 개입을 할 것인지, 폭력 행위로 간주하여 사법 기관에 인계할 것인지는 단순한 이분법으로 결정하기 어려운 문제이다. 자살을 시도한 환자의 경우 그 딜레마는 더욱 첨예해진다. 대부분의 정신과 의사들은 자살을 병적인 상태에서의 판단력 상실로 간주하여 보호 입원을 고려할 것이다. 그러나 그 행위가 환자가 극심한 고통 속에서 숙고 끝에 내린 결정이었다면, 본인의 의사를 무시한 보호 입원이 정당화될 수 있는지는 까다로운 윤리적 질문이 된다.{Pridmore, 2011 #174}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e292d184-7fbb-4780-8a4a-a7c250fbfef1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 딜레마의 존재를 인정하더라도, 비판적 사회학자들이 제기하는 우려를 주의깊게 경청할 가치가 있다. 이들은 비만, 당뇨, 약물남용 등 저소득층에 집중되는 공중보건 문제들이 순전히 개인적 질환이 아니라 사회경제적 구조의 산물이기도 하다고 주장한다.{Lantz, 2023 #175} 이런 상황은 정신질환에 대해서도 마찬가지이다. 우울, 불안, 중독 등을 오직 개인의 병리로 환원하여 약물로 관리하는 데 그친다면, 그 이면에 숨겨진 사회 구조적 요인에 대한 개선의 노력이 가해지지 않을 것이다.{Clark, 2014 #176; Fergusson, 2023 #177} 이러한 논점은 강압적 치료 논쟁에도 자연스레 연결된다. 만약 정신질환의 상당 부분이 사회 구조적 요인에서 비롯된 것이라면, 이를 개인의 책임으로 돌려 의학적 개입만으로 해결하려는 것은 근본 원인을 방치한 임시방편에 그칠 것이기 때문이다. 물론 이러한 구조적 관점이 타당하다 하더라도, 급성 위기 상황에서 즉각적 개입의 필요성을 부정하는 근거가 되기는 어렵다. 장기적 사회 개혁과 단기적 임상 개입은 상호 배타적인 것이 아니라, 서로 다른 차원에서 함께 추구되어야 할 과제이기 때문이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "88205356-7564-451f-aa87-2e90b5422b99",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신의학 윤리에서의 도덕적 절대주의",
+        "styles": {
+          "bold": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a43257e1-01b0-4233-9ffd-25387c05bb2f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "도덕적 절대주의(moral absolutism)는 어떤 행위가 그것이 놓인 맥락이나 예상되는 결과와 상관없이 본질적으로 옳거나 그르다고 보는 관점이다. 칸트의 정언명령(categorical imperative)에서 이론적 토대를 얻은 이 사조는, 문화적 상대성에도 불구하고 인류가 공유할 수 있는 보편적 도덕 가치를 일구어 나가는데 중요한 역할을 해왔다. 그러나 개별 원칙들이 복잡한 현실 상황과 충돌할 때 이를 어떻게 조율해야 하는지에 대해서는 명확한 지침이 없다.{Carson, 2009 #181;Galderisi, 2024 #180}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "60e2e928-cd89-4b4c-9e01-79addf773bac",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "A/HRC/35/21로 대표되는 CRPD의 입장은 이러한 절대주의적 접근의 대표적 사례로, 특수한 상황에서라 할지라도 원칙에 위배되는 결정을 허용하지 않는다. 이와 대조되는 실용주의적 입장은 원칙의 가치를 인정하되, 이를 구체적 상황에 어떻게 적용할 것인가에 초점을 둔다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d5188eb7-e62a-4c2e-a9f8-0b3d9d467fbe",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "보건의료 종사자들은 윤리적 원칙을, 방향성을 잃지 않기 위한 하나의 이상으로 받아들인다. 그런데 이상이란 현실에서는 실현되기 어렵다는 의미를 품고 있다. 따라서 의료진들은 환자의 전반적 이익을 최대화하기 위해 현실에서 상충하는 다양한 원칙 들간에 현실적 타협을 이뤄야 한다고 생각한다. 반면 절대주의적 원칙은 어떤 상황에서도 타협 없이 준수되어야 하는 규범이 있다고 주장한다. 양측의 간극이 쉽게 메꾸기 어려운 만큼, 절대주의적 입장이 견지하는 논거를 편견 없이 살펴볼 필요가 있다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "fcbcf348-d700-4135-9746-5c9ad966559e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "첫째, 보편적 이상의 수호이다. 절대주의자들은 특정 맥락이나 시대적 조건을 초월하는 일관된 도덕적 기준을 세우고자 한다. 이는 다양한 갈등 상황에서도 자의적 해석에 흔들리지 않는 공통의 도덕적 기반을 제공한다는 점에서 분명한 의의를 지닌다.{Beauchamp, 1979 #182}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "64a96a6f-b1df-4fa2-b062-66d4016d4aaa",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "둘째, 규범적 기준으로서의 기능이다. 윤리적 원칙이 다양한 결정을 평가하는 고정적 준거로서 기능할 때, 실제 상황에서 의료진들의 판단 기준이 보다 명확해진다. 윤리적 원칙을 단순히 실현되기 어려운 이상으로만 간주한다면, 현실적 필요성 때문에 도덕적으로 문제되는 행위까지 정당화되는 사태에 빠질 수 있다.{Finegan, 2024 #183}",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "5d4b5723-dc49-4766-90e6-28a980bc0f71",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "셋째, 불가침 인권의 보호이다. \"예외 상황\"을 허용하기 시작하면 환자의 권리가 광범위하게 무시되는 관행으로 확산될 수 있다는 우려이다. 특히 화학적 강박을 치료의 연장선으로 보아 허용하기 시작하면, 환자들의 신체적, 정신적 통제를 위한 다른 개입 역시 예외에 포함될 수 있다. 예외 없는 절대적 기준만이 불가침 인권을 보호할 수 있다는 논거는 정신의학의 과거 역사를 감안할 때 상당한 무게를 지닌다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "385999d8-36b6-44ef-98c0-9378458fb9ad",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "넷째, 차별 금지이다. 인권 옹호자들이 양보하지 않는 원칙 중 하나는, 정신 장애를 갖고 있다고 해서 차별적 조치를 당해선 안 된다는 것이다. 장애를 갖지 않은 사람이라면 당연히 받지 않았을 처우를 정신 장애를 갖고 있다는 이유만으로 받는 것은 엄연한 차별이다. 환자 의사에 반하는 화학적 강박은 장애를 가진 사람에게만 적용되는 차별적 처우일 것이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e8b07b19-5d95-4c37-b649-472d7bc644e3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "다섯째, 교육적·사회적 기능이다. 윤리적 원칙이 현실과 괴리되어 보일지라도, 이를 고수하고 차세대에 반복적으로 교육하는 과정은 미래의 전문가와 정책 입안자에게 인권 수호의 기준점을 내면화시키는 역할을 한다. 이러한 교육적 기능은 현실적 적용 가능성과는 별개로 그 자체의 가치를 지닌다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "24a43d4f-6fee-436b-9816-31aa1cf996ed",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이상의 논거들은 각각 부인하기 어려운 타당성을 지니며, 정신의학이 과거 역사의 굴레에서 벗어나 체질 개선을 하기 위해서는 반드시 필요한 건강한 견제 기능이라 할 수 있다. 그러나 이러한 절대주의적 원칙을 정신질환자의 응급 상황에 적용하려 할 때 발생하는 긴장 역시 무시할 수 없다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "47b917f8-faf3-45cf-a0c6-b8d641266648",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]
