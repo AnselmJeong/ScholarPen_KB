@@ -10,23 +10,19 @@
     "content": [
       {
         "type": "text",
-        "text": "미국 연방 보건복지부 산하 메디케어 및 메디케이드 서비스 센터 지침에 따르면, 화학적 강박은 \"환자의 상태에 대한 표준적인 치료나 용량이 아니면서, 환자의 행동을 관리하거나 이동의 자유를 제한하기 위해 사용되는 약물 또는 투약\"으로 정의된다. (",
+        "text": "미국 연방 보건복지부 산하 메디케어 및 메디케이드 서비스 센터 지침에 따르면, 화학적 강박은 \"환자의 상태에 대한 표준적인 치료나 용량이 아니면서, 환자의 행동을 관리하거나 이동의 자유를 제한하기 위해 사용되는 약물 또는 투약\"으로 정의된다.",
         "styles": {}
       },
       {
-        "type": "link",
-        "href": "https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/SurveyCertificationGenInfo/downloads/scletter08-18.pdf",
-        "content": [
-          {
-            "type": "text",
-            "text": "https://www.cms.gov/Medicare/Provider-Enrollment-and-Certification/SurveyCertificationGenInfo/downloads/scletter08-18.pdf",
-            "styles": {}
-          }
-        ]
+        "type": "citation",
+        "props": {
+          "citekey": "CMS2008SC0818",
+          "locator": ""
+        }
       },
       {
         "type": "text",
-        "text": ") 이러한 정의는 행동 통제의 목적과 적절한 의학적 치료 사이의 구분을 명확히 강조한다. 그러나 정신건강 종사자들의 관점에서 볼 때, 이 정의는 지나치게 부정적인 뉘앙스를 띠고 있다. 마치 화학적 강박이 표준적인 치료가 아니며, 가급적 피해야 할 임시방편으로 못 박아 버린다.",
+        "text": " 이러한 정의는 행동 통제의 목적과 적절한 의학적 치료 사이의 구분을 명확히 강조한다. 그러나 정신건강 종사자들의 관점에서 볼 때, 이 정의는 지나치게 부정적인 뉘앙스를 띠고 있다. 마치 화학적 강박이 표준적인 치료가 아니며, 가급적 피해야 할 임시방편으로 못 박아 버린다.",
         "styles": {}
       },
       {
