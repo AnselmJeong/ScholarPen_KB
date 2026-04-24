@@ -1,16 +1,18 @@
 [
   {
     "id": "75a9dcf4-b674-47b8-8b79-833624286f51",
-    "type": "paragraph",
+    "type": "heading",
     "props": {
       "backgroundColor": "default",
       "textColor": "default",
-      "textAlignment": "left"
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
     },
     "content": [
       {
         "type": "text",
-        "text": "I. 서론",
+        "text": "서론",
         "styles": {}
       }
     ],

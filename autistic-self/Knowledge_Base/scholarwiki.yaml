@@ -1,7 +1,0 @@
-raw_dir: ./raw/sources
-summaries_dir: ./wiki/sources
-wiki_dir: ./wiki
-llm:
-  provider: ollama
-  model: nemotron-3-super:cloud
-concept_threshold: 3

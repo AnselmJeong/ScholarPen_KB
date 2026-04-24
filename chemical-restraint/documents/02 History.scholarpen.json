@@ -1,6 +1,25 @@
 [
   {
     "id": "11a111f4-1499-471a-b149-e3406f46b9ee",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0ba34e87-d2af-45b3-b8f6-46ecf4f507bd",
     "type": "paragraph",
     "props": {
       "backgroundColor": "default",
@@ -103,11 +122,13 @@
   },
   {
     "id": "72d0c04f-921a-4fb2-8a50-80baa475a31a",
-    "type": "paragraph",
+    "type": "heading",
     "props": {
       "backgroundColor": "default",
-      "textColor": "default",
-      "textAlignment": "left"
+      "textColor": "purple",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
     },
     "content": [
       {
@@ -131,7 +152,19 @@
     "content": [
       {
         "type": "text",
-        "text": "항정신병 약물이 등장하기 전에는 아편이나 모르핀 같은 중독성 물질뿐만 아니라 장뇌(camphor), 브롬화물(bromide), 하이오신(hyoscine), 파랄데히드(paraldehyde) 등이 화학적 강박을 위해 사용되었다. 19세기 중반 클로랄 하이드레이트(chloral hydrate)가, 20세기 초 바르비투르염(barbiturates)과 페노바르비탈(phenobarbital)이 개발된 이후에는, 이들 마취/진정제가 동일한 목적으로 널리 사용되었다.{Shorter, 1997 #4; Lopez-Munoz, 2005 #5} 하지만 이들 약물은 치료 지수(therapeutic index)가 매우 낮아, 부작용에 시달리거나 자칫하면 생명을 위협할 수도 있었다.",
+        "text": "항정신병 약물이 등장하기 전에는 아편이나 모르핀 같은 중독성 물질뿐만 아니라 장뇌(camphor), 브롬화물(bromide), 하이오신(hyoscine), 파랄데히드(paraldehyde) 등이 화학적 강박을 위해 사용되었다. 19세기 중반 클로랄 하이드레이트(chloral hydrate)가, 20세기 초 바르비투르염(barbiturates)과 페노바르비탈(phenobarbital)이 개발된 이후에는, 이들 마취/진정제가 동일한 목적으로 널리 사용되었다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "shorter1997",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 하지만 이들 약물은 치료 지수(therapeutic index)가 매우 낮아, 부작용에 시달리거나 자칫하면 생명을 위협할 수도 있었다.",
         "styles": {}
       }
     ],
@@ -148,32 +181,73 @@
     "content": [
       {
         "type": "text",
-        "text": "1950년대 항정신병 약물이 도입되면서 약물의 사용이 보다 안전해졌으며, 정신과 치료에 상존하던 물리적 구속 등 강압적인 요소들이 극적으로 감소했다. 그러나 1960년대와 70년대에 이르러 인권에 대한 인식이 크게 고조되는 중대한 변화가 일어났다. 이에 따라 1980년대에는 화학적 강박을 포함한 모든 강압적 치료를 제한하는 지침과 정책들이 마련되었다. 비정형 항정신병 약물의 등장으로 한층 더 안전한 대안이 열리는 듯했으나, 새로운 부작용과 높은 비용 문제로 인해 널리 쓰이지 못하면서, 인권 문제는 여전히 미완의 과제로 남았다. 이런 와중에 2000년대 들어 유엔 장애인권리협약(CRPD)이 촉매제 역할을 하면서, 강압적 치료에 대한 규제를 강화하고 보고를 의무화하는 움직임이 거세게 일었다. 이러한 흐름은 환자의 권리 수호를 향한 시대적 강조를 여실히 보여주는 것이었다.{Fiala-Butora, 2024 #7}",
+        "text": "1950년대 항정신병 약물이 도입되면서 약물의 사용이 보다 안전해졌으며, 정신과 치료에 상존하던 물리적 구속 등 강압적인 요소들이 극적으로 감소했다. 그러나 1960–70년대 반정신의학 및 환자권리운동의 영향으로 정신질환자의 인권에 대한 사회적 인식이 크게 증가하였다. 이러한 변화는 정신건강법 개정을 통해 비자의적 입원 및 강압적인 치료를 제한하는 방향으로 이어졌으며, 1980년대에 들어서면서 이러한 원칙이 정책과 제도 수준에서 점차 확립되었다.",
         "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "richter2024coercion",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 비정형 항정신병 약물의 등장으로 한층 더 안전한 대안이 열리는 듯했으나, 새로운 부작용과 높은 비용 문제로 인해 널리 쓰이지 못하면서, 인권 문제는 여전히 미완의 과제로 남았다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "currier2000atypical",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이런 와중에 2000년대 들어 유엔 장애인권리협약(CRPD)이 촉매제 역할을 하면서, 강압적 치료에 대한 규제를 강화하고 보고를 의무화하는 움직임이 거세게 일었다. 이러한 흐름은 환자의 권리 수호를 향한 시대적 강조를 여실히 보여주는 것이었다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "fiala-butora2024",
+          "locator": ""
+        }
       }
     ],
     "children": []
   },
   {
     "id": "9cc159cf-2838-4762-85c0-b80a02c543cd",
-    "type": "paragraph",
+    "type": "heading",
     "props": {
       "backgroundColor": "default",
       "textColor": "default",
-      "textAlignment": "left"
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "82644fd8-c7a8-40f7-a754-9827d16d6c1b",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
     },
     "content": [
       {
         "type": "text",
-        "text": "급속 진정(Rapid Tranquilization)과 ",
+        "text": "급속 진정(Rapid Tranquilization)과 화학적 강박",
         "styles": {
           "bold": true
         }
-      },
-      {
-        "type": "text",
-        "text": "화학적 강박",
-        "styles": {}
       }
     ],
     "children": []
@@ -189,7 +263,55 @@
     "content": [
       {
         "type": "text",
-        "text": "화학적 강박은 흔히 \"급속 진정(rapid tranquilization)\"과 혼용되곤 하지만 미묘한 차이가 있다.{Allison, 2014 #8} \"급속 진정\"이라는 용어는 1971년 폴락(Polak)과 레이콥(Laycob)이 발표한 논문에서 비롯되었는데, 급성 조현병 환자에게 클로르프로마진을 고용량으로 투여하여 6시간 만에 진정시킨 사례를 보고하고 있다. 진정 효과가 그야말로 치료를 앞당기는 것인지, 아니면 그저 약물의 부작용일 뿐인지는 논란의 여지가 있다.{Currier, 2003 #10} 용어를 사용한 저자들은 질병 치료 측면을 강조하고 있지만, \"진정\"이라는 용어는 여전히 부정적인 뉘앙스를 지닌다. 일례로 미국 정신의학의 아버지로 인정받는 벤저민 러시(Benjamin Rush)는 환자를 의자에 앉힌 후 고속으로 회전시키는 \"진정 의자(tranquillization chair)\"를 도입하였다. 이 시기를 기점으로 \"진정제(tranquillizer)\"라는 단어는 초조한 환자를 가라앉히기 위해 쓰이는 다양한 종류의 억압적인 방법을 가리키는 은어처럼 굳어졌다.",
+        "text": "화학적 강박은 흔히 \"급속 진정(rapid tranquilization)\"과 혼용되곤 하지만 미묘한 차이가 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "allison2014",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " \"급속 진정\"이라는 용어는 1971년 폴락(Polak)과 레이콥(Laycob)이 발표한 논문에서 비롯되었는데, 급성 조현병 환자에게 클로르프로마진을 고용량으로 투여하여 6시간 만에 진정시킨 사례를 보고하고 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "polak1971rapid",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 진정 효과가 그야말로 치료를 앞당기는 것인지, 아니면 그저 약물의 부작용일 뿐인지는 논란의 여지가 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "currier2003the",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 용어를 사용한 저자들은 질병 치료 측면을 강조하고 있지만, “진정(tranquilization)\"이라는 용어는 여전히 부정적인 뉘앙스를 지닌다. 일례로 미국 정신의학의 아버지로 인정받는 벤저민 러시(Benjamin Rush)는 환자를 의자에 앉힌 후 고속으로 회전시키는 \"진정 의자(tranquillization chair)\"를 도입하였다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "barr1994benjamin",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이 시기를 기점으로 \"진정제(tranquillizer)\"라는 단어는 초조한 환자를 가라앉히기 위해 쓰이는 다양한 종류의 억압적인 방법을 가리키는 은어처럼 굳어졌다.",
         "styles": {}
       }
     ],
@@ -206,14 +328,151 @@
     "content": [
       {
         "type": "text",
-        "text": "항정신병 약물이 지닌 안정화 효과가 비특이적인 진정 작용이 아니라 항도파민성 효과에 기인한다는 시각이 싹트고 있었지만, 이 약물들의 진정한 본질을 두고 계속해서 끈질긴 논쟁이 이어졌다. 즉, 이 약들이 단지 \"화학적인 구속복(chemical straightjackets)\"에 불과한 것인가, 아니면 근본적인 치료 수단인가라는 질문이었다.{Szasz, 1957 #11}",
+        "text": "항정신병 약물이 지닌 안정화 효과가 비특이적인 진정 작용이 아니라 항도파민성 효과에 기인한다는 시각이 싹트고 있었지만, 이 약물들의 진정한 본질을 두고 계속해서 끈질긴 논쟁이 이어졌다. 즉, 이 약들이 단지 \"화학적인 구속복(chemical straightjackets)\"에 불과한 것인가, 아니면 근본적인 치료 수단인가라는 질문이었다.",
         "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "szasz1957some",
+          "locator": ""
+        }
       }
     ],
     "children": []
   },
   {
     "id": "640009b8-303f-4963-9d59-d27e07e26f06",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "11a47724-c3d6-4a4f-b22f-f3fedf38bc22",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "물리적 강박을 대신하는 화학적 강박",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "32b3d8c8-9868-4866-9386-f582fe9f859c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "rgb(231, 226, 248)",
+      "textColor": "rgb(30, 27, 75)",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "물리적 강박(physical restraint)은 오랜 역사를 지닌 정신의학적 개입이지만, 그에 따른 인권침해 소지는 지속적인 논란의 대상이 되어 왔다. 신체를 직접 묶거나 억제하는 이 방법은 환자에게 심각한 심리적 외상을 남길 수 있으며",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "frueh2005special",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", 경우에 따라서는 심부정맥 혈전증이나 폐색전, 횡문근융해증 등 심각한 신체적 위해를 동반할 수도 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "kersting2019physical",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "kersting2019physical",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 대표적인 강압적 치료의 하나로 인간의 존엄과 기본권를 침해한다는 비판 하에 의료진들 역시 점차 사용을 꺼려하기 시작하였다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "opitz-welke2019",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d1c517f5-de0f-4bae-93b1-d1f0a6b03b3c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "rgb(231, 226, 248)",
+      "textColor": "rgb(30, 27, 75)",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 맥락에서 화학적 강박은 물리적 강박에 비해 덜 침습적이고 덜 강압적인 대안으로 인식되기 시작하였다. Georgieva 등",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "georgieva2011patients",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "의 연구에 따르면, 강압적 개입을 경험한 환자들은 격리나 강박보다 강제 투약을 덜 부정적으로 평가하였는데, 이는 화학적 강박이 신체 구속에 비해 강압적 느낌이 상대적으로 낮게 느껴질 수 있음을 시사한다. 이처럼 화학적 강박은 물리적 강박의 대안으로써, 격리/강박을 줄이려는 자정 노력과 맞물려 점차 확산되어 왔다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "muir‐cochrane2020prevalence",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "belayneh2024prevalence",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2da96e7c-22eb-4177-8ae6-aa1ee8cf0732",
     "type": "paragraph",
     "props": {
       "backgroundColor": "default",

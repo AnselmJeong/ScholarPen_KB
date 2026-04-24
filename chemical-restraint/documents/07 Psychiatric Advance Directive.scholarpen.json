@@ -29,7 +29,38 @@
     "content": [
       {
         "type": "text",
-        "text": "정신건강 사전 의향서(PAD)는 의사결정 능력을 갖춘 성인이 미래의 정신과적 위기 상황에서 자신의 치료 선호도를 미리 명시하거나, 또는 자신을 대리할 의사결정자를 지정하는 법적 문서이다. 여기엔 여러가지 형태가 있는데, 예를 들면 위기 카드(crisis cards), 공동 위기 계획(joint crisis plans, JCP), 그리고 자기구속 지시(self-binding directives, 일명 율리시스 계약)가 있다. 이 제도는 공유 의사 결정(shared decision making)의 정신과적 적용이라 할만하다. 현재 온전한 의사결정력을 소유한 당사자가 미래의 자신을 대상으로, 의료진과 함께 위기를 어떻게 해쳐나갈 지 논의하여 결정하는 것이다.",
+        "text": "정신건강 사전 의향서(PAD)는 의사결정 능력을 갖춘 성인이 미래의 정신과적 위기 상황에서 자신의 치료 선호도를 미리 명시하거나, 또는 자신을 대리할 의사결정자를 지정하는 법적 문서이다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "swanson2006facilitated",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "scholten2019psychiatric",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 여기엔 여러가지 형태가 있는데, 예를 들면 위기 카드(crisis cards), 공동 위기 계획(joint crisis plans, JCP), 그리고 자기구속 지시(self-binding directives, 일명 율리시스 계약)가 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "gaillard2023the",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이 제도는 공유 의사 결정(shared decision making)의 정신과적 적용이라 할만하다. 현재 온전한 의사결정력을 소유한 당사자가 미래의 자신을 대상으로, 의료진과 함께 위기를 어떻게 해쳐나갈 지 논의하여 결정하는 것이다.",
         "styles": {}
       }
     ],
@@ -523,12 +554,12 @@
       },
       {
         "type": "text",
-        "text": "만약 이 법이 구체적으로 통과된다 하더라도, 여전히 풀리지 않는 법적 문제가 많다. 전술한 ",
+        "text": "만약 이 법이 구체적으로 통과된다 하더라도, 여전히 풀리지 않는 법적 문제가 많다. 전술한 율리시스 계약 조항을 법리적으로 어떻게",
         "styles": {}
       },
       {
         "type": "text",
-        "text": "율리시스 계약 조항을 법리적으로 어떻게 ",
+        "text": " ",
         "styles": {
           "bold": true
         }

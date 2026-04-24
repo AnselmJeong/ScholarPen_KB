@@ -1,0 +1,2007 @@
+[
+  {
+    "id": "059a0b8c-d027-489d-8122-170638f0fa7f",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "서론",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8e35aae1-ae3f-4d02-bc1f-0f1bfcd73a82",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신과 치료 환경에서 발생하는 급성 초조 및 폭력(agitation and violence)은 환자, 다른 환자, 가족, 의료진 모두의 안전을 동시에 위협하는 임상적 응급상황이다.[hankin2011agitation][san2016state] 이러한 상황은 예기치 못한 순간에 빠르게 악화될 수 있으며, 의료진에게 충분한 숙고와 협의를 허용하지 않는 경우가 많다.[rocca2006managing] 따라서 급성 초조와 폭력의 관리는 단순히 증상을 진정시키는 기술적 문제가 아니라, 환자의 자율성 및 존엄성 보장이라는 윤리적 요구와 임박한 신체적 위해를 예방해야 할 임상적 의무가 충돌하는 영역이다.[butterworth2022][laureano2024ethical]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2c79858e-61bc-4d22-beac-2eba04e351fb",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이 맥락에서 약물을 비경구적으로 투여하여 급성 행동 위험을 완화하는 개입은 흔히 “화학적 강박(chemical restraint)”이라고 불린다.[hupé2024defining] 그러나 이 용어는 임상적 치료, 행동 통제, 자유 제한이라는 서로 다른 층위의 의미를 동시에 포함한다. 비판가들은 언어적 진정, 저자극 환경, 감각 조절, 충분한 인력 배치와 같은 덜 침습적인 방법이 가능한 상황에서도 약물 개입이 의료진의 편의나 기관의 질서 유지를 위해 사용될 수 있다고 우려한다.[currier2003the][richmond2012verbal] 반대로 임상 현장에서는 비약물적 개입이 실패했거나, 시도할 시간조차 없을 정도로 위해가 임박한 상황에서 치료적 개입을 전면적으로 금지하는 것이 환자와 제3자의 안전을 방치하는 결과를 낳을 수 있다고 본다.[resnick2019malpractice][becker2020implied]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "513e7b69-a991-454b-bf76-9adff313d2ec",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "본 논문은 화학적 강박의 전면적 금지라는 인권 담론의 강경한 입장과, 예외적 허용이라는 의료진들의 입장을 법적, 의료윤리적 시각에서 검토하고, 고조되어만 가는 두 입장 사이의 갈등 사이에서 어떻게 타협점을 마련할 수 있을 지 검토하고자 한다. 이를 통해 화학적 강박을 전면적으로 금지하는 입장과 응급 상황이라면 이를 의료진의 재량에 맡겨야 한다는 입장 모두가 충분하지 않다는 것을 주장할 것이다. 화학적 강박은 의사결정 능력의 실질적 손상, 임박한 중대한 위해, 비강압적 대안의 실패 또는 불가능, 최소 침습성, 기록과 사후 설명, 독립적 검토라는 누적 조건을 충족할 때 제한적으로 허용될 수 있다. 이는 서로 상충하는 의료윤리적 원칙들 사이에 우선 순위를 둘 수 밖에 없다는 원칙주의(principlism)에 부합한다. 하지만 원칙주의가 온정적 간섭주의로 전락하지 않기 위해서는 위기 이전에 표현된 환자의 선행 의사를 제도적으로 반영할 필요성이 있다. 한국에서도 논의가 확산되고 있는 정신건강 사전 의향서(psychiatric advance directives, PAD)는 단순히 화학적 강박을 제한적으로 허용하기 위한 편의적 제도가 아니라, 안정기에 있는 환자가 소망하는 자신의 미래와 위기 상황에서의 임상 판단을 연결하는 윤리적 장치임을 강조하고자 한다.[scholten2019psychiatric]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "198f8d6e-b43e-4a68-9579-4969a48340ef",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  },
+  {
+    "id": "55ec5088-a2fa-4c7d-8534-975965c681b9",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박의 개념과 역사",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "76de6841-fbd3-4975-ad46-3cf8240e19eb",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "미국 연방 보건복지부 산하 메디케어 및 메디케이드 서비스 센터 지침에 따르면, 화학적 강박은 “환자의 상태에 대한 표준적인 치료나 용량이 아니면서, 환자의 행동을 관리하거나 이동의 자유를 제한하기 위해 사용되는 약물 또는 투약”으로 정의된다.[CMS2008SC0818] 이 정의는 세 가지 축을 포함한다. 첫째, 약물이 환자의 상태에 대한 표준 치료인지 여부, 둘째, 사용된 용량과 투여 방식이 임상적으로 정당화되는지 여부, 셋째, 투약의 주된 목적이 치료인지 행동 통제 또는 자유 제한인지 여부이다. 따라서 동일한 약물이라도 표준 용량으로 증상을 치료하기 위해 사용될 때와, 환자의 이동과 표현을 제한하기 위해 사용될 때 그 규범적 의미가 달라질 수 있다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "48e3bcd5-ff00-41ce-a22e-db4205610119",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 정의는 화학적 강박의 남용을 식별하는 데 유용하지만, 정신과 응급상황에서는 상당한 모호성을 낳는다. 급성 초조 상태에서 항정신병 약물이나 벤조디아제핀을 비경구로 투여하는 행위는 증상 완화, 위해 예방, 치료 환경 안정화라는 목적을 동시에 가질 수 있다.[muluneh2024variations] Hupe 등([hupé2024defining])은 공통된 정의의 부재가 유병률 측정, 질 평가, 규제 정책 수립을 근본적으로 저해한다고 지적하였으며, Muluneh 등([muluneh2024variations])의 체계적 고찰에서도 화학적 강박을 정의하고자 한 문헌들 사이에 상당한 개념적 이질성이 발견되었다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "18dda15f-7454-46cc-99c6-824c9035dac8",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "초창기의 화학적 강박",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b15e1cbd-492b-4d50-bdb9-193cfc7b2efd",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "항정신병 약물이 등장하기 전에는 아편이나 모르핀 같은 중독성 물질뿐 아니라 장뇌(camphor), 브롬화물(bromide), 하이오신(hyoscine), 파랄데히드(paraldehyde) 등이 진정과 행동 통제를 위해 사용되었다. 19세기 중반 클로랄 하이드레이트(chloral hydrate)가, 20세기 초 바르비투르염(barbiturates)과 페노바르비탈(phenobarbital)이 개발된 이후에는 이들 진정제가 동일한 목적으로 널리 사용되었다.[shorter1997] 그러나 이들 약물은 치료 지수(therapeutic index)가 낮아 심각한 부작용과 생명 위협을 초래할 수 있었다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ff9fe979-ca36-4547-9f8d-6c9f58bb6853",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "1950년대 항정신병 약물이 도입되면서 약물 사용은 상대적으로 안전해졌고, 정신과 치료에 상존하던 물리적 구속의 일부를 대체할 수 있게 되었다. 그러나 더 안전한 약물이 도입되었다고 해서 강압성에 대한 윤리적 문제가 사라진 것은 아니었다. 1960–70년대 반정신의학 및 환자권리운동의 영향으로 정신질환자의 인권에 대한 사회적 인식이 커졌고, 이는 비자의적 입원과 강압적 치료를 법적으로 제한하려는 흐름으로 이어졌다.[richter2024coercion] 비정형 항정신병 약물의 등장으로 더 안전한 선택지가 확대되는 듯했으나, 새로운 부작용과 비용 문제는 여전히 남았다.[currier2000atypical] 2000년대 이후 유엔 장애인권리협약(CRPD)은 강압적 치료에 대한 규제 강화와 보고 의무화 논의의 중요한 촉매가 되었다.[fiala-butora2024]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "7650e71c-6e3f-46f0-ad3a-7f8dbd5fcb51",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "급속 진정과 화학적 강박",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4101a111-8bad-4e0e-a684-c4a466f4f5e8",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박은 흔히 “급속 진정(rapid tranquilization)”이라고도 불리며 실질적으로 동일한 절차를 가리키지만, 그것이 내포하는 어감은 큰 차이가 있다.[allison2014] 급속 진정은 급성 초조나 폭력 위험을 빠르게 완화하기 위한 의학적 수단을 가리키는 반면, 화학적 강박은 환자의 행동을 통제하거나 이동의 자유를 제한하는 구속적 절차를 의미한다. 즉 급속 진정이라는 용어는 의료적 목적과 선의를 강조하지만, 화학적 강박이란 용어는 권리 제한과 자율성 침해 측면을 부각시킨다. ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "151f6715-ba04-468a-bc02-45a599a02d13",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "“급속 진정”이라는 용어는 1971년 폴락(Polak)과 레이콥(Laycob)이 급성 조현병 환자에게 클로르프로마진을 고용량으로 투여하여 6시간 만에 진정시킨 사례를 보고한 데서 비롯되었다.[polak1971rapid] 이후 진정 효과가 질병 치료를 앞당기는 것인지, 아니면 약물의 비특이적 진정 작용에 불과한지에 대한 논쟁이 지속되었다.[currier2003the] 항정신병 약물의 안정화 효과를 항도파민성 치료 효과로 볼 것인지, 아니면 “화학적인 구속복(chemical straightjackets)”으로 볼 것인지에 대한 논쟁은 화학적 강박 개념의 윤리적 민감성을 보여준다.[szasz1957some] 결국 급속 진정이라는 용어는 희미한 기억 속으로 사라진 반면, 화학적 강박이란 용어만 살아남아 논란의 씨앗이 되었다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "56f53b22-4c1f-42b4-8a63-dda086ab6178",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "물리적 강박을 대신하는 화학적 강박",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "974c2059-e80d-4745-b815-4f5dfddf7b41",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "물리적 강박(physical restraint)은 오랜 역사를 지닌 정신의학적 개입이지만, 인권침해 요소를 지닌다는 것을 부인할 수 없다. 신체를 직접 묶거나 억제하는 방법은 환자에게 심리적 외상을 남길 수 있으며[frueh2005special], 경우에 따라 심부정맥 혈전증, 폐색전, 횡문근융해증 등 심각한 신체적 위해를 동반할 수도 있다.[kersting2019physical][kersting2019physical] 이러한 이유로 현대에 와서는 의료진 역시 물리적 강박을 점차 회피하려는 경향을 보여왔다.[opitz-welke2019]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e5094e04-2559-4a4d-b283-9677b7d87b3c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 맥락에서 화학적 강박은 물리적 강박보다 덜 침습적이고, 덜 강압적인 대안처럼 인식되었다. Georgieva 등[georgieva2011patients]의 연구에 따르면 강압적 개입을 경험한 환자들은 격리나 신체강박보다 강제 투약을 덜 부정적으로 평가하였다. 그러나 이러한 선호가 곧 화학적 강박이 윤리적으로 문제가 덜하다는 결론으로 이어지지는 않는다. 환자의 주관적 선호, 신체적 위해, 절차적 정당성, 의사표현의 제한은 서로 구분되어야 한다. 따라서 화학적 강박은 물리적 강박의 단순한 대체물이 아니라, 그 자체의 정당화 조건을 필요로 하는 개입으로 이해되어야 한다.[muir‐cochrane2020prevalence][belayneh2024prevalence]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "5d99742d-3524-464d-a7f9-3bbce82e927d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박에 대한 비판",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1e7349bb-d5d6-44e3-9777-322c7dc73e9e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "1960년대와 1970년대에 R.D. 랭(R.D. Laing)과 토마스 사스(Thomas Szasz) 등의 사상을 바탕으로 등장한 반정신의학 운동은 정신과 진료가 인간 삶의 고통과 일탈을 과도하게 의학적 병리로 환원한다고 비판했다.[szasz1957commitment][crossley1998r] 역사적으로 정신질환자 수용소는 치료 기관이면서 동시에 사회적 위험을 관리하는 제도적 공간으로 기능해 왔고, 비판가들은 이러한 이중 기능이 정신과적 개입을 치료가 아니라 사회 통제의 한 형태로 만들 수 있다고 보았다.[goffman1961asylums][scull2015madness] 동시에 미국의 시민권 운동은 정신과 치료에서 환자의 권리수호 논의에 영향을 미쳤고, 정신질환자도 치료 거부권을 포함하여 다른 시민들과 동등한 권리와 보호를 받아야 한다는 주장을 강화했다.[testa2010civil] 이러한 관점은 정신과 치료의 온정적 간섭주의에 도전했으며, 환자의 동의 없는 화학적 강박 사용을 윤리적, 법적 검토의 대상으로 만들었다.[schöne-seifert2015paternalism]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e420b468-8381-4a47-9b8b-ef81a91bcd43",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "1970년대와 1980년대의 여러 법적 판례는 정신과 진료 환경에서 치료를 거부할 권리와 강압적 치료의 요건을 확립하는 데 기여했다. 예를 들어, 미국의 로저스 대 오킨(Rogers v. Okin) 사건은 강제 입원된 환자라도 치료를 거부할 권리가 있다는 점을 확립했다.[rogers1983] 한편 1986년 미국 의학한림원(Institute of Medicine)은 많은 노인 장기요양시설이 환자의 치료가 아닌 “의료진의 편의”를 위해 과도한 진정제와 항정신병 약물을 사용하고 있다고 지적하였다.[Iozzino2015] 이후 1987년 요양원 개혁법(Nursing Home Reform Act)은 “환자의 증상을 치료하기 위해서가 아니라, 징벌이나 직원의 편의를 위해 사용되는 약물”을 화학적 강박으로 정의하고 이를 엄격히 금지하였다.[NursingHomeReformAct1987] 이런 법적 장치와 규제가 정신과 응급상황을 직접 다루고 있지는 않지만,  화학적 강박이라는 개념이 치료 목적보다는 의료진의 편의를 위한 것이라는 부정적 시각을 불러 일으켰다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b0246b64-7776-45b2-95fe-82f009c75168",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "강압적 치료(coercive treatment)는 환자의 명시적 동의 없이 또는 환자의 의지에 반하여 시행되는 개입을 의미하며, 화학적 강박을 포함하여 강제 입원, 강제 투약, 격리, 강박 등을 포함한다.[chieze2021] 그중 화학적 강박은 약물이 신체에 투입된 뒤 그 효과가 즉시 중단되기 어렵고, 진정으로 인해 환자의 의사표현 능력 자체가 제한될 수 있다는 점에서 특수한 윤리적 부담을 지닌다. 인권 옹호자들은 모든 강압적 치료가 인권 침해의 위험을 지속적으로 내포하며, 법적 체계의 미비와 정신의료 종사자의 인권 감수성 부족이 문제를 악화시킬 수 있다고 지적한다.[wyder2015the][alexandrov2021coercive][EveryPalmer2021HumanRightsCoercion] 이들은 응급 상황에서도 가능한 한 치료 결정에 환자를 참여시키고, 위기를 관리할 다양한 선택지를 주어 그중 선택하도록 하는 것이 장기적으로 신뢰와 치료 순응도를 높일 수 있다고 주장한다.[boardman2020personcentred]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9432c742-c76e-48e2-b93f-330c17cbd139",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "국제 인권법의 상이한 해석",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "233eb70a-6e7e-4dd4-afdc-4c2e78d31b09",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "2017년, 유엔(UN) 특별보고관 Dainius Pūras는 “모든 사람의 권리, 의지, 선호를 평등하게 존중하지 않고, 정신 건강 환경에서 권력 불균형, 낙인, 차별을 초래하는 모든 관행의 폐지”를 촉구하는 성명을 발표했다. “최고 수준의 신체적, 정신적 건강을 누릴 권리에 관한 특별보고관의 보고서 (Report of the Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health, A/HRC/35/21)”라는 제목의 이 보고서는 유엔장애인권리협약(United Nations Convention on the Rights of Persons with Disabilities, CRPD) 위원회가 공식적으로 채택했으며, 이후 격렬한 논쟁을 촉발하는 계기가 되었다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "UNSpecialRapporteur2017MentalHealth",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "Williams2022HumanRightsMentalHealth",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "34d0b3e2-7d6d-488d-826e-a981bb15c321",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이 보고서는 “의학적 필요성”, “위험성”, “판단 능력 부족”과 같은 지극히 주관적인 개념들로 합리화되는 강압적 치료 결정이 전적으로 정신과 의사의 재량에 맡겨져 있기 때문에, 환자의 인권을 명백히 침해한다고 주장한다. 또한, “장애의 존재가 어떤 경우에도 자유를 박탈하는 정당한 사유가 될 수 없다”고 단언하였는데, 이는 정신질환을 이유로 자유를 제한하는 것을 전면적으로 금지하는 것으로 해석된다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "fiala-butora2024",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 보고서는 강압적 치료를 근절하는데 뒤따르는 현실적 어려움을 인정하면서도, 궁극적으로는 정신과에서의 강압적 치료를 예외없이 종식시켜야 한다는 입장을 역설했다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "Gurbai2020NonDiscriminationCoercion",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c5f8ddc0-4c5f-4ae6-bffd-56c8d44f5f1e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "유엔의 인권 관련 문서들에는 이처럼 강경한 논조의 보고서들을 다수 발견할 수 있다. Juan E. Méndez가 작성한 고문특별보고관 보고서(A/HRC/22/53)는 정신, 지적 장애인을 대상으로 한 강제적, 비동의적 조치(격리, 강박 포함)가, 질병치료라는 명목하에 행해지는 고문 또는 비인도적 처우로 간주될 수도 있다고 명시한다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "Mendez2013TortureHealthcare",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이렇게 판단간 근거는 강압적 치료가 심각한 고통과 고난을 유발하며, 잔인하고, 비인도적이며, 굴욕적인 대우에 해당하기 때문이는 것이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8969c375-bf21-484c-93d4-5e837d044574",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "그러나 유엔 내부에서조차 보고서가 지적한 현실적 어려움, 즉 의학적 필요성과 인권 간의 타협점을 어디서 찾을 것인가를 두고 이견이 존재했다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "doyleguilloud2019the",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 2014년에 유엔 자유권리위원회(Human Rights Committee, ICCPR)는 일반논평 35(General comment no.35: Article 9, GC35)를 채택했는데, 그 내용은 다음과 같다",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "UNHRC2014GC35",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ":",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b2905eb4-7f48-4384-806c-f5131cdd6d35",
+    "type": "quote",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "장애의 존재만으로는 자유의 박탈이 정당화될 수 없으며, 심각한 위험으로부터 사회심리적 장애인을 보호하고 타인에게 손상을 입히지 않도록 방지할 목적에 따라 필수적이고 적합할 경우에만 자유를 박탈해야 한다 (The existence of a disability shall not in itself justify a deprivation of liberty but rather any deprivation of liberty must be necessary and proportionate, for the purpose of protecting the individual in question from serious harm or preventing injury to others).",
+        "styles": {
+          "italic": true
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8db7441d-6b8b-4d9f-9f55-8070ad9fd7d1",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "즉 GC35는 강압적 치료가 최후의 수단으로서, 최단기간, 법률에 근거한 보호조치와 함께 적용되어야 한다며 예외를 인정하는 입장을 취한다. 역시 유엔 산하 조직인 고문방지위원회(Committee Against Torture, CAT)와 고문방지소위원회(Subcommittee on Prevention of Torture, SPT)는 CRPD가 제시한 절대적 금지 입장을 채택하지는 않는다. CAT가 내린 고문의 정의에는 심각한 고통과 고난, 상처를 주려는 고의성, 특정한 목적, 국가의 개입이 포함된다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "CAT2008GC2",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이 기준에 따르면 고의성이 없는 의학적 처치를 고문에 해당한다고 보는 것은 어폐가 있다. 대신 CAT는 비자의적 정신과 치료는 “예외적인 경우에만” 그리고 “최후의 수단으로서” 엄격한 기준 하에서 사용되어야 한다고 강조해왔다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "zach2019cruel",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이러한 입장은 강압적 치료 그 자체를 금지하는 것이 아니라, 의료적 필요성과 비례성을 포함한 높은 수준의 정당화 기준을 충족하는 경우에 한하여 허용한다는 것이다. SPT 역시 무조건적 폐지보다는 강압적 관행의 감소와 감시에 초점을 맞춘 예방적이고 규제적인 접근을 취한다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "SPT2014MaldivesVisit",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이를 종합하면, 유엔 산하 기구들 사이에서도 의견이 통일된 것은 아니며, 국제 인권법 내부에서 절대주의적 해석과 비례성 기반 해석 사이의 근본적인 긴장과 갈등이 존재한다는 것을 보여준다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1a928026-d56b-4c75-bc88-53e236ad7c4b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "유럽인권협약(European Convention on Human Rights, ECHR) 역시 CRPD의 결정을 유보한다. ECHR은 \"정신이 온전하지 않은 자(persons of unsound mind)\"의 구금을 명시적으로 허용하고 있다. 이는 정신과 치료를 위한 강제 입원이나 강박을 포함한 강압적 조치들이 \"치료적 필요성\"에 의한 것으로 간주된다면 비인도적 대우에 해당하지 않는다고 본다는 것을 의미한다. 다만, 최근의 동향은 강제 입원의 적법성과는 무관하게 강제 투약을 거부할 수 있는 환자의 권리를 인정하는 쪽으로 변화하고 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "fiala-butora2024",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "13bbb1c7-411c-4068-81d5-fb07cb10f2b5",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "ECHR이 예외 규정을 두고 있다고 해도, 정신 질환이나 장애가 있는 개인의 권리와 자율성이 침해되어서는 안 된다는 기본 원칙에 대해서는 유엔과 공유한다. 다만 해석과 현실 상황에의 적용에 차이가 있을 뿐이다. 하지만 특정 상황에서의 예외를 허용할 것인가(GC35, ECHR) 말건가(A/HRC/35/21)라는 입장 자체가 피할 수 없는 갈등을 초래한다. 심지어 Wayne Martin과 Sándor Gurbai는 이러한 의견의 불일치를 \"제네바 교착상태(Geneva Impasse)\"라고 명명하였다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "martin2019surveying",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "그들은 이 교착상태가 법을 해석하는 두 가지 확연히 구별되는 접근 방식, 즉 \"비례적 해석(proportionality interpretation)\"과 \"절대적 해석(absolute interpretation)\" 사이의 좁힐 수 없는 간극에서 비롯되었다고 분석하였다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9d572fa7-b89c-408b-b940-630bd1c664b2",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "절대주의와 비례주의",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0993b235-c447-4e9c-af69-d9fc281c6d57",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신과 응급상황의 화학적 강박 문제는 절대주의와 비례주의라는 법적 해석의 교착상태 안에 놓여 있다. CRPD 제12조(법 앞의 평등한 인정)와 제14조(신체의 자유와 안전)는 예외가 허용되지 않는 절대적 규정으로, 정신질환자가 치료를 거부할 권리는 정신질환이 없는 사람의 치료 거부권과 동일하게 보호되어야 하며, 강압적 치료 역시 신체의 자유와 안전을 잠재적으로 침해하므로 금지되어야 한다고 못 받는다. 의료진들은 인력 및 시설 부족, 응급 상황에서의 의료적 필요성을 명분으로 예외를 요구하지만, CRPD의 입장은 이러한 명분은 화학적 강박의 남용 가능성만 부추길 소지가 있다는 것이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e3c7ad7f-8f77-4c97-8255-9100d89a5c40",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "강압적 치료를 비판하는 문헌들은 이러한 개입이 장기적 회복, 치료동맹, 서비스 이용 경험 측면에서도 부정적 결과를 낫기 때문에, 의료적 필요성이라는 명분도 유명무실해진다고 주장한다.[chieze2019effects][tingleff2017treat][muir‐cochrane2018fear] 따라서 화학적 강박의 이익이 이 조치가 가져올 위해, 권리 침해, 장기적 치료 관계 손상을 상회한다는 점을 엄격하게 입증하기란 매우 어려운 과제가 되었다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "4bb9c760-222d-47ce-bf03-bb269eef484a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "또 다른 법적 해석의 기준인 비례주의란 특정 조치의 목표, 수단, 그리고 그 결과 간의 균형을 고려하여 합법성을 결정짓는 원칙이다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "bendor2015how",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "인권은 시민적, 문화적, 경제적, 정치적, 사회적 권리에 이르기까지 광범위한 스펙트럼을 이룬다. 절대적 불가침의 성격을 띠고 있지만, 이러한 각기 다른 인권 사이에서 무엇을 우선시할 지 충돌이 빚어질 여지가 있다. 비례성 원칙에서는 이들 중 특정한 권리를 보호하기 위해서, 다른 권리를 양보하거나 제한하는 것을 허용한다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "sieckmann2018proportionality",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "bbea01e6-2048-419f-8f55-626eeec653f3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "실제로 유럽인권재판소(ECHR) 판례 들은 의학적 필요성을 강압적 치료를 정당화하는 핵심 요소로 다루어 왔다(예: Herczegfalvy 대 Austria 사건).",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "ECHR1992Herczegfalvy",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "Bartlett2007Compulsory",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "코로나19 백신 의무 접종과 관련하여 인권 침해 논란이 제기되었을 때에도, ECHR은 비례성 원칙을 적용하여 백신 접종을 지지하는 판결을 내렸다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "keller2026proportionality",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "의학계 역시 비례주의를 강조한다. 유럽정신의학회(EPA)는 A/HRC/35/21과 같은 보고서가 정신의학 진료를 지나치게 부정적으로 묘사하고, 응급 상황에서 약물치료가 수행하는 위해 예방 기능을 충분히 고려하지 않았다고 비판하였다.[oute2023conflict] 강압적 치료의 전면적 허용이 아니라, 임박하고 중대한 신체적 위해를 방지하기 위한 좁은 예외를 요구하는 것이며, 대신 비강압적 대안, 인력, 시설, 감시 체계를 확충하는 노력을 기울이겠다는 것이다. 연구자들과 제약 회사들이 환자의 저항을 줄이는 덜 침습적인 약물학적 방안을 모색하는 것도 이러한 맥락에 놓여 있다.[citrome2024][jeong2025pharmacological]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f1079f62-25f7-436b-8a2d-3078aefd3023",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박을 금지하는 논리적 근거",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "55ca1520-bb10-4040-951a-e017f3839b2b",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "치료 거부권과 권력 비대칭",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e9123bfa-8aad-41b4-ba01-078b31e85b29",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인권은 무언가를 요구할 권리와 거부할 권리로 구분해 볼 수 있다. 이 구분은 강압적 치료 논의에서 권력의 비대칭성을 강조하는지 설명해준다. 요구할 권리는 누가 해당 요구를 충족할 책임을 지는가를 묻는 반면, 거부할 권리는 누구의 권위에 저항할 수 있는가를 묻는다. 따라서 치료 거부권은 잠재적으로 의료진이 쥐고 있는 권위에 저항한다는 권력 역학(power dynamics)의 문제를 드러낸다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "aee0b8b7-28ee-4ed7-985f-2c836ca8979e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신과 치료에서 권력 비대칭 문제는 특히 두드러진다. 의료진은 전문 지식, 진단 권한, 병원 조직의 통제력, 법적 제도의 지원을 가진 반면, 위기에 처한 환자는 정보, 표현 능력, 사회적 신뢰에서 취약한 위치에 놓인다. 인권 담론은 전문가 집단이 정신질환을 가진 당사자들을 스스로의 이익을 결정할 능력이 없는 존재로 규정할 권력을 쥐고 있기 떄문에, 정신건강 법률과 정책 전반에 인식론적 불의(epistemic injustice)를 조장한다고 비판한다.[denis2016medical][bergan2024right]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f5e2191b-d2e4-4460-b9fe-55ceec31b2cb",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "장애와 질병",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "097e216b-8257-403f-8046-9de77d0977cb",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "유엔장애인권리협약이라는 명칭에서 드러나듯, 장애인의 권리를 온전히 보장하는 것은 사회 정의의 핵심 과제이다. 장애의 사회적 모델은 장애를 개인의 결함이 아니라, 사회가 다양한 몸과 정신을 수용하지 못해 발생하는 장벽의 결과로 이해한다.[goering2015rethinking] 이러한 관점은 장애(disability)와 질병(disease)을 구분한다. 정신장애는 사회적 환경과 상호작용하는 과정에서 마주치는 장벽으로 이해될 수 있는 반면, 정신질환은 뇌와 정신의 병리로서 의학적 치료를 통해 호전될 수 있는 개념으로 이해된다.[hogan2019social]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "eb66ad97-67cb-4d29-8b08-cbcbcf793b5a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인권 담론은 정신질환을 생물학적 질병으로만 이해하는 관점이 당사자의 경험과 사회적 맥락을 축소할 수 있다고 비판한다. 이에 대해 생물학적 질병 개념을 중시하는 의료진들은 증상의 악화가 환자 자신과 타인에게 중대한 위해를 초래할 수 있으며, 때로는 “자기 주도적 의료 방임(self-directed medical neglect)”을 막아야 한다고 본다.[frasier2019when] 이 갈등의 핵심은 치료의 필요성을 인정하느냐 여부가 아니라, 치료 필요성이 환자 본인의 자기결정권을 어느 범위까지 제한할 수 있는가에 있다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0cd0ce8b-12d5-436b-9cbf-15973198cb2d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "전염병 관리 영역과의 비교는 이 문제를 보여주는 하나의 예시가 될 수 있다. 결핵이나 AIDS와 같은 전염병에서는 타인에게 병원체를 전파할 객관적 위험이 있을 때 자유를 제한하는 법적 장치가 존재한다. 그러나 정신과 환자의 위험성은 전염 위험과 달리 행동 예측의 불확실성, 낙인, 편견의 영향 때문에 쉽게 판단하기 어렵다. 따라서 전염병 격리의 논리를 정신과 강제 치료에 적용할 수는 없다. 다만 두 영역 모두에서 개인의 자유와 제3자의 안전이 충돌할 수 있다는 점은, 화학적 강박 논의가 순수한 자율성 문제만이 아니라 위해 예방과 사회적 신뢰의 문제이기도 함을 보여준다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2a163326-46e0-4942-9477-f50787939fae",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "인문학적 및 사회적 비판",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "06559d0c-69d7-4d0f-98c9-83d177207319",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신의학에 대한 비판은 깊은 역사적 뿌리를 가진다. 정신의학이 걸어온 길에는 부인하기 어려운 어두운 장들이 존재하며, 이에 맞서 철학자, 사회운동가, 현장의 실천가들이 변화를 이끌어온 과정 역시 오늘날의 논쟁을 형성했다. 이러한 비판은 정신과적 개입이 개인의 고통을 치료한다는 명분 아래 사회적 일탈을 관리하거나 침묵시키는 도구가 될 수 있다는 문제의식에서 출발한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "5b920431-a5e4-4fc6-9da2-6a2b673f5e76",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "특히 의료화(medicalization)에 대한 비판은 정신의학이 정상과 비정상의 경계를 설정하는 사회적 권한을 갖는다는 점에 주목한다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "aho2008medicalizing",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "frawley2025medicalization",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 이 비판은 화학적 강박 논의에서 직접적인 결론을 제공하지는 않지만, 약물 투여가 치료와 통제 사이에서 어떻게 의미가 달라질 수 있는지를 이해하는 데 중요하다. 따라서 화학적 강박에 대한 윤리적 검토는 약물의 효과와 부작용만이 아니라, 누가 어떤 목적과 권한으로 약물을 투여하는가를 함께 물어야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2c7c5d06-1b19-46f3-aa5b-8c1eb479b0b9",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "원칙주의와 제한적 허용 모델",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0d252931-eb4b-4928-a0e0-ff30d5b6cf63",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "원칙주의의 의의와 한계",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "33f0a199-1e0f-460f-b61d-9c6ce85288cf",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Beauchamp와 Childress의 원칙주의(principlism)는 자율성 존중, 악행 금지, 선행, 정의라는 네 가지 원칙을 통해 생명의료윤리의 갈등을 분석한다.[beauchamp2019principles] 이 틀은 정신과 응급상황에서의 화학적 강박 논의에도 유용하다. 자율성 존중은 환자의 치료 거부권을 보호하도록 요구하며, 악행 금지는 강압적 개입으로 인한 신체적·심리적 위해를 피하도록 요구한다. 하지만 선행 원칙은 환자의 증상 완화와 안전 회복을 촉구하며, 정의는 환자뿐 아니라 다른 환자, 의료진, 가족 등 제3자의 권리와 안전도 고려하도록 요구한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "288ec6c5-b6c8-4d74-ab9a-72ccfe024863",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "원칙주의는 이 네가지 원칙을 ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "prima facie",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " 의무, 즉 ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "\"다른 조건이 동일하다면(상호 충돌이 없다면) 구속력을 갖는, 그러나 다른 의무와 충돌할 때는 우선 순위가 조정될 수 있는 조건부 의무”로 본다. 따라서 ",
+        "styles": {
+          "textColor": "rgb(30, 27, 75)",
+          "backgroundColor": "rgb(231, 226, 248)"
+        }
+      },
+      {
+        "type": "text",
+        "text": "특정 상황과 맥락에서 원칙들이 서로 충돌할 때는 우선순위 조정과 균형 잡기가 필요하다. 하지만 이는 원칙주의의 장점이자 동시에 한계이기도 하다. 우선순위 조정과 균형 잡기가 강조되지만, 위기 현장에서 누가 어떤 절차로 순위를 결정해야 하는지에 대해서는 충분한 윤리적 잣대나 제도적 해답을 제공하지 않는다.[shea2020principlisms] 바로 이 지점에서 화학적 강박의 제한적 허용 조건과 PAD의 필요성이 등장한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d84da8ad-e6b6-43cf-8adb-ea9214f10ae1",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "자율성 존중",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "0ca37c7c-416f-4233-83f2-83789b8ca156",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "자율성 존중은 환자가 충분한 정보에 근거하여 자신의 치료에 대해 결정할 권리를 의미한다. 그러나 정신과 응급상황에서는 자율성(autonomy)과 함께 의사결정 능력(decision-making capacity)을 고려해야 한다. 자율성은 개인이 자신의 가치와 선호에 따라 삶을 형성할 권리이지만, 의사결정 능력은 특정 시점에 자신이 내리는 결정이 자신이 지향하는 삶의 모습을 만들어가는데 도움이 되는지를 판단할 수 있는 능력이다. 이는 자신이 놓인 상황과 맥락을 이해하고, 이를 결정 과정에 적용하며, 결과를 추론하고, 선택을 표현할 수 있는 기능적 능력이다.[appelbaum2007assessment]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6554f579-2938-4bfa-a1c6-1266ce4df087",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "급성 정신증, 섬망, 극심한 조증, 중증 물질중독, 심각한 자살 또는 타해 위험 상태에서는 의사결정 능력이 일시적으로 손상될 수 있다. 따라서 환자가 치료를 거부할 때, 이 결정이 환자의 장기적 가치와 선호를 충실히 반영하는지 판단하기 어렵다. 다만 의사결정 능력의 손상은 자의적으로 추정되어서는 안 되며, 가능한한 객관적으로 평가되고 기록되어야 한다. 또한 회복 후에 환자가 강압적 치료의 필요성을 수긍했다는 사실만으로, 그 개입이 자동으로 정당화되는 것도 아니다. 사후 수긍은 중요한 평가 자료일 수 있지만, 정당화의 핵심은 개입 당시의 조건과 절차에 있다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "dce60199-3a49-4c62-ab1c-f3ba717a6013",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "악행 금지",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c8459ece-4bb8-4a2a-9548-c894bae071e3",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박은 신체적 부작용, 심리적 외상, 치료관계 손상, 가족과 의료진의 고통을 유발할 수 있다는 점에서 필요악 정도로 이해되곤 한다. 따라서 악행 금지의 원칙에 따르면 가급적 피해야 하는 절차이다.[frueh2005special][georgieva2011patients][franks2021physical] 그러나 분명히 개입하지 않아서 생기는 해악도 있다. 환자가 심각한 자해나 타해 위험에 처해 있고, 비강압적 방법이 실패했거나 불가능한 상황에서 의료진이 아무 조치도 하지 않는다면, 그것 역시 분명한 악행이 되어버린다.[resnick2019malpractice][becker2020implied]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "79dfed59-4635-4cf1-9a44-3ef935fb3b87",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "따라서 악행 금지의 원칙을 따른다고 해서, 단순히 “강압적 치료는 하지 않겠다”라고 자위해서는 안 된다. 이 상황에서는 어쩔 수 없이 개입해서 생기는 위해와 개입하지 않아서 생기는 위해를 저울질 할 수 밖에 없다. 이 비교는 화학적 강박을 쉽게 정당화하는 구실이 아니라, 강압적 치료를 하지 않는 것 역시 윤리적 책임을 질 수 있음을 명확히 하기 위한 것이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "470ee615-a27c-40ac-b40e-877e702f45f7",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "선행",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "692a9ce8-5651-4f00-a596-84db411689c6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "선행은 환자의 이익을 증진하고 회복을 돕는 의무를 의미한다. 급성 초조와 폭력 상황에서 약물학적 개입의 목표는 환자를 처벌하거나 소란을 피하기 위한 것이 아니라, 극심한 고통과 위험을 완화하고, 환자가 다시 의사소통과 판단을 할 수 있는 상태로 회복하도록 돕는 것이어야 한다. 따라서 약물 선택과 용량은 행동 통제가 아니라 안전 회복과 의사결정 능력 회복이라는 치료적 목표에 맞추어 최소한으로 이루어져야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "749a5de8-ad24-4ed2-a46c-a2308bdd1922",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이 점에서 “화학적 강박”을 행하는 의료진의 태도와 마음 자세가 중요하다. 같은 절차라도 환자의 치료와 회복을 위해 사용되는지, 아니면 기관의 편의와 통제를 위해 사용되는지에 따라 윤리적 성격이 달라진다. 선행의 원칙은 약물 개입이 단기적 진정 효과만이 아니라 이후 치료동맹, 환자의 경험, 장기적 회복을 함께 고려해야 한다는 점을 요구한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9f5e767c-7495-4a7f-9b82-8b2d6df7e3fb",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정의",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "e77026e7-f0d2-493c-8873-5dbe7e9a6425",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정의의 원칙은 화학적 강박이 차별적으로 적용되지 않아야 한다는 요구를 포함한다. 정신질환을 이유로만 화학적 강박을 당하는 것은 차별에 해당할 수 있으며[bergan2024right], 미국과 같은 다인종 국가에서는 화학적 강박 사용이 인종, 성별, 사회경제적 지위에 따라 불균등하게 분포한다는 근거도 있다.[belayneh2024prevalence] 의료 인력과 정신건강 자원의 부족 때문에 강제적 개입이 반복된다면, 이는 개별 임상의의 판단 문제를 넘어 사회 전체의 자원 분배 정의와 연결된다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3b786ca6-4399-4a24-a0bd-e2a545636983",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "하지만 동시에 정의는 제3자의 권리도 고려할 것을 요구한다. 환자의 초조와 공격성이 의료진을 포함한 제 3자의 권리를 침해한다면 이를 방관하는 것은 정의롭지 못한 일일 것이다. 다만 이 기준은 단순한 불편, 소란, 언어적 적대, 치료 거부 자체에 적용되어서는 안 된다. 제3자의 권리는 구체적이고 임박한 신체적 위해가 있을 때에만 화학적 강박 정당화의 일부가 될 수 있다. 신체적 공격이 이미 시작되었거나 객관적으로 임박한 상황에서 피해자의 안전을 방관하는 것은 정의 원칙에서는 받아들이기 어려운 일이다.[chieze2021]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d2c1f156-6841-4fb8-8c20-20da91c67684",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "제한적 허용의 누적 조건",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d53ee3c1-692d-4c99-a465-48430e51b599",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 원칙주의의 4 원칙을 화학적 강박에 적용할 때, 의료진이 주장할 수 있는 것은 이 원칙들을 최대한 훼손하지 않는 어떤 조건들을 만족시킬 때, 화학적 강박을 제한적으로 허용해달라는 것이다. 이 조건들은 가장 중요한 것부터 덜 중요한 것으로 열거할 수 있으며, 부합하는 조건들이 많으면 많을수록 화학적 강박을 허용할 수 있다고 보는 입장이다.[hem2016][crutchfield2022the][steinert2023using]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "75af5b0d-4a2e-466c-aeca-d6135b2a361e",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "의사결정 능력의 실질적 손상",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ": 환자가 응급 상황에서 치료 결정에 필요한 정보를 이해하고, 자신의 상황에 적용하며, 결과를 추론하고, 선택을 안정적으로 표현할 능력이 실질적으로 손상되어 있어야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "5f659149-1fd1-4f41-ac6b-b73e54878396",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "임박하고 중대한 신체적 위해",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ": 환자 자신 또는 타인에게 구체적이고 임박한 신체적 위해가 예상되어야 한다. 단순한 치료 거부, 언어적 적대, 병동 질서 저해만으로는 충분하지 않다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "f822e527-edff-4df5-a75a-ee94ba990bdd",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "비강압적 대안의 실패 또는 불가능",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ": 언어적 진정, 환경 조절, 감각 조절, 지지적 면담, 가족 또는 신뢰 인물의 개입 등 덜 침습적인 방법이 시도되었으나 실패했거나, 위해의 임박성 때문에 시도할 수 없는 상황이어야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b5641e00-3dcf-41e7-9e4a-bc15133a6cc5",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "최소 약물 및 최소 용량",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ": 약물의 종류, 용량, 투여 경로는 행동 통제가 아니라 안전 회복과 의사결정 능력 회복을 목적으로 최소한으로 선택되어야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "c43f7473-a1f5-43b9-b231-12046dc5cf7f",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "기록과 사후 설명",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ": 개입의 이유, 대안 시도 여부, 의사결정 능력 평가, 약물 선택의 근거, 환자의 반응이 기록되어야 하며, 회복 후 환자에게 설명되고 가능한 경우 치료 계획에 반영되어야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "010e200f-0138-4940-b842-db75a9155137",
+    "type": "numberedListItem",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "독립적 검토",
+        "styles": {
+          "bold": true
+        }
+      },
+      {
+        "type": "text",
+        "text": ": 반복적 사용, 고위험 사례, 이견이 있었던 사례는 독립적 또는 다학제적 검토를 받아야 한다. 이는 남용, 차별적 적용, 절차적 불투명성을 줄이기 위한 최소한의 보호장치이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "24ee50c2-2e5c-4a8d-bbc9-c1f786442f45",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "누적 조건이라는 의미는 6가지 조건을 모두 만족해야만 한다는 뜻보다는, 선행 조건이 만족되고 후행 조건이 부가되면 점점 더 정당한 조치에 가까와진다는 의미이다. 이 조건들은 화학적 강박을 정당화하기 위해 명분을 찾는 것이 아니라, 오히려 사용 가능성을 좁히기 위한 자정 장치이다. 화학적 강박은 원칙적으로 회피되어야 하지만, 이를 절대주의적으로 해석하여 예외 없이 금지한다면 오히려 환자의 안정기 자율성, 제3자의 신체 불가침성, 의료진의 악행 금지 의무 등이 모두 훼손될 우려가 있다.[prinsen2008can] 따라서 원칙주의의 ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "prima facie",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": " 구조를 빌려 다중 의무 충돌 사태의 돌파구를 마련하고자 한 것이다.[beauchamp2019principles]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "da9f52e4-8eee-4793-80d9-736ae88643f6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "다만 이러한 누적 조건을 마련해도 그 하나하나의 조건을 평가하는 것이 여전히 의료진이라면, 화학적 강박은 계속해서 권력 비대칭과 인권 침해 논란에서 자유롭지 못할 것이다.[shea2020principlisms] 이 구조적 공백을 메우기 위해서는 위기가 닥치기 전에 환자의 의사를 타진하여 이를 명문화하는 장치가 필요하다. 현재 의사결정 능력을 보유한 환자가, 미래에 닥칠 지도 모르는 위기 상황에서 자신에게 허용되거나 금지될 처우를 미리 정해두는 정신건강 사전의향서(PAD)는, 균형 잡기의 권리와 책임을 부분적으로 환자에게 되돌려주는 메커니즘이다.[scholten2019psychiatric] ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2972e265-3f61-47c0-aa9e-bffffc36f57b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "rgb(55, 65, 81)",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Szmukler(",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "szmukler2019capacity",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ")는 환자가 표현하는 “의지”를 ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "지속적, 통합적 가치 체계, “선호”를 특정 시점의 욕구로 구별",
+        "styles": {
+          "textColor": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "type": "text",
+        "text": "하며, 가치관을 반영한 지속적 의지(학업을 마치고자 함, 가족과의 관계를 유지하고자 함, 재발을 피하고자 함)와 급성기에 표현된 선호(약물 거부)가 충돌할 때, 후자만을 절대화하는 것은 환자에게 선행을 배푸는 것이라 할 수 없다고 논하고 있다. 이런 관점에서 PAD는 자율성의 시간적 확장인 동시에, “지속적 의지”를 제도화하는 장치이기도 하다.[szmukler2019capacity]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2719a650-b421-406b-84f5-a88befd09dcd",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신건강 사전 의향서",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8d91a495-b9b8-4ffc-9fbe-09257166d323",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "개념적 정의",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1b584d58-cea0-4212-bb2c-3a7fa1862c15",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "PAD는 의사결정 능력을 갖춘 성인이 미래의 정신과적 위기 상황에서 자신의 치료 선호도를 미리 명시하거나, 자신을 대리할 의사결정자를 지정하는 법적 또는 준법적 문서이다.[swanson2006facilitated][scholten2019psychiatric] 여기에는 위기 카드(crisis cards), 공동 위기 계획(joint crisis plans, JCP), 자기구속 지시(self-binding directives, 일명 율리시스 계약) 등 다양한 형태가 포함된다.[gaillard2023the] PAD는 공유 의사결정(shared decision making)의 정신과적 적용으로 볼 수 있다. 안정기에 충분한 의사결정 능력을 가진 당사자가 의료진과 함께 미래의 위기 상황을 어떻게 다룰지 미리 논의하고 기록하는 방식이기 때문이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "af6474ca-a00b-4b8b-bebe-2cb139214b9f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "화학적 강박 논쟁에서 PAD가 중요한 이유는 위기 시점의 거부와 안정기 의사를 구분하여, 강제의 정당화 주체를 의료진에서 환자 자신으로 부분적으로 이전시키기 때문이다. 즉 PAD는 화학적 강박을 허용하기 위한 일반적 면허가 아니라, 어떤 상황에서 어떤 약물이나 개입을 허용하거나 거부할 것인지에 대한 환자의 선행 의사를 명확히 함으로써 응급상황의 윤리적 불확실성을 줄이는 장치이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "93aead55-d001-471d-9041-b2630f4667ea",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "강압적 치료와 관련하여 가장 논쟁적인 형태는 율리시스 계약(Ulysses contract)이라 불리는 자기구속 지시이다.[stephenson2023selfbinding] 이는 그리스 신화에서 율리시스가 세이렌의 노래를 들으면서도 배를 좌초시키지 않기 위해 선원들에게 자신을 돛대에 묶고, 나중에 아무리 풀어달라고 해도 들어주지 말라고 명령한 이야기에서 유래한다. 정신과적 맥락에서는 안정기 환자가 미래의 위기 상황에서 자신이 치료를 거부하더라도 특정 치료를 시행해 달라고 사전에 요청하는 형태를 뜻한다. 그러나 모든 PAD가 자기구속을 의미하는 것은 아니다. 일부 PAD는 특정 치료를 피하거나, 특정 약물의 부작용 경험을 기록하거나, 선호하는 병원과 대리인을 지정하는 방식으로 작동한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a4027197-c799-4f39-9a0e-cf559b868d79",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "율리시스 계약은 유망한 타협안이지만, 미래 자율성을 침해할 수 있다는 반론을 피할 수 없다. 따라서 자기구속 지시가 정당성을 갖기 위해서는 유효기간, 구체적 발동 조건, 철회 가능 시점, 독립 상담, 대리인 확인, 정기적 갱신, 사후 검토 같은 안전장치가 필요하다. 특히 “모든 치료를 거부한다” 또는 “어떤 경우에도 강제 투약을 허용한다”와 같은 포괄적 문구는 임상적·법적 불확실성을 키우므로, 가능한 한 구체적 상황과 선호 약물, 금기 약물, 신뢰할 수 있는 의사결정 지원자를 명시해야 한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3817678e-eec7-4452-a4d1-3dbb2968bc8f",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "제도 현황",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6d78f700-bfcd-4fb8-81f7-5e50b4bd9cce",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 4,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "미국",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a80b55cb-05d7-4e3e-ab13-5ed8e4fde5bc",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신과 이외의 의료 영역에서 사전 의향서의 역사는 깊다. 미국에서는 1970년대부터 주 정부 차원의 사전 의향서 제도가 마련되었고, 1990년 제정된 환자 자기결정법(Patient Self-Determination Act)은 연방법 차원에서 입원 환자에게 사전 의향서 제도를 설명하고 기관 정책을 수립하도록 요구하였다.[cox1994advance]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b1df0f01-45df-420b-9a01-d93022fc7877",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신과 영역에서의 제도화는 더디게 진행되었지만, 현재 약 3분의 2의 주에서 정신건강 관련 사전 의향서 입법이 이루어졌다.[zelle2015advance] 특히 버지니아 주의 입법은 율리시스 계약을 명문화하여, 위기 상황에서 본인이 거부 의사를 표현하더라도 사전에 지정한 치료를 계속하도록 하는 조항을 포함한다.[zelle2015advance] 미국 사례가 시사하는 바는 PAD의 실효성이 단순한 문서 작성이 아니라 법적 구속력, 위기 시 철회 가능성, 임상의의 면책 범위, 절차 요건의 명확성에 달려 있다는 점이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "cf00bd22-d0b0-4292-8ef3-8a794f913049",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 4,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "영국",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8a286570-50ca-48a0-b560-355c891edd3e",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "영국에서는 2005년 Mental Capacity Act가 제정되어 개인이 미리 자신의 치료에 관한 의사를 표명할 수 있는 길을 제도적으로 열었다.[halliday2009advance] 이 법은 법적 구속력이 있는 사전 거부(advance decision)와 대리 의사결정 권한을 부여하는 제도를 포함한다. 반면 공동 위기 계획(JCP)은 환자와 의료진이 위기 상황의 대응 전략을 사전에 합의하는 임상적 문서로서, 법적 구속력의 성격은 advance decision과 다르다.[farrelly2015improving]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1104c82b-d772-418e-9de0-e4e66a6b5356",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "따라서 영국 사례는 PAD라는 큰 범주 안에서도 법적 구속력이 있는 사전거부, 대리인 지정, 임상적 합의문이 구분되어야 함을 보여준다. 화학적 강박 논의에서 중요한 것은 이들 문서가 위기 시점의 현재 선호와 안정기의 선행 의사가 충돌할 때 어떤 효력을 가지는지, 그리고 의료진이 이를 따랐을 때 어떤 법적 보호를 받는지이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ddb24930-23a5-4349-895e-1ff7209569c4",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "법리적 해석",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "676764ca-852e-40a2-80ea-fc78837621c2",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "PAD의 법적 구속력은 관할 지역마다 크게 다르며, 일반 의학에서의 사전 의향서보다 제한된 효력을 지니는 경향이 있다. 이는 정신질환에 대한 편견과 낙인, 강압적 치료에 대한 논란, 의사결정 능력 판단의 어려움, 온정적 간섭주의의 위험이 복합적으로 작용하기 때문이다.[gloeckler2025an]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "eccf9d6d-cafd-4821-9a64-7112d2ed0952",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "핵심 쟁점은 안정기 자아의 선행 의사와 위기 시점의 현재 선호가 충돌할 때 어느 쪽을 존중할 것인가이다. 법적 능력(legal capacity)과 의사결정 능력(decision-making capacity)의 구분도 이 문제와 연결된다. CRPD는 의사결정 능력이 제한되었다고 해서 법적 능력을 박탈해서는 안 된다는 입장을 취하지만, 이러한 해석이 PAD가 가장 필요한 상황에서 오히려 PAD의 효력을 약화시킬 수 있다는 비판도 있다.[gloeckler2025an]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1bcd478a-330c-42bc-812d-1d7f91ff9fdd",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "율리시스 계약의 법리적 해석은 계약 체결 당시의 시점 1과 위기 발생 당시의 시점 2를 구분한다. 시점 1에서는 환자가 온전한 의사결정 능력을 지니고 PAD를 작성한다. 시점 2에서는 위기 상태에서 현재의 치료 거부 또는 상반된 선호가 표현된다. 충분성 관점(sufficiency view)은 시점 2에서 내린 소망도 온전한 의사결정으로 인정된다면 율리시스 계약은 무효가 된다고 본다.[brock1993a] 반면 무력화 관점(defeater view)은 시점 1의 소망이 더 지속적이고 진정한 선호를 반영하므로, 시점 2에 일정한 의사결정 능력이 남아 있더라도 계약은 유효할 수 있다고 본다.[spellecy2003reviving]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "6739b7e5-9690-4578-8b44-8c25d65ea8bc",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "Davis([davis2008how])는 의료진이 시점 1과 시점 2의 소망 중 어느 쪽을 존중할지 고민하는 방식 자체가 모두 과거에 매달린 관점이라고 비판한다. 그는 통시적이고 전향적인 관점을 강조하며, 계약의 주체가 시간을 관통하여 자신이 원하는 방식으로 자신의 삶과 치료를 형성할 수 있도록 돕는 것이 중요하다고 주장한다. 이 논리에 따르면 시점 1에 체결한 계약이 환자가 통시적으로 원해온 삶의 방향과 더 부합한다면, 이를 집행하는 것이 자율성의 침해가 아니라 자율성의 시간적 실현일 수 있다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3abab433-6f93-4c68-868e-737dd5ebbf15",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "한국에서의 적용 가능성",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "b1fea895-9fd1-4705-96f3-549bca321f11",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "아시아의 임상 경험은 PAD 도입에 사회적·문화적 장벽이 존재함을 보여준다. PAD는 개인의 자율성과 미래 지향적 의사결정을 전제로 하지만, 많은 아시아 사회에서는 가족 중심 의사결정 전통이 강하다. 따라서 개인이 사전에 결정을 해두더라도 위기 시 가족이 반발할 수 있으며, 이는 PAD의 실질적 효력을 약화시킬 수 있다. 또한 유교권 문화의 온정적 간섭주의 역시 중요한 장애물이다. 환자의 최선의 이익을 의료진이나 가족이 결정하는 관행은 환자의 선행 의사를 존중하려는 시도와 충돌할 수 있다. 제도적·교육적 기반의 부족 역시 중요한 요인이다.[poremski2019psychiatric]",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "ddc16fb6-8b40-4540-95e1-10e0506bb992",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "한국에서도 유사한 쟁점이 예상된다. 현재 시행 중인 사전연명의료의향서는 PAD와 동일한 제도는 아니지만, 안정기 의사를 미래 의료 상황에 반영하려는 제도라는 점에서 참고가 된다. 다만 절차를 갖추어 작성하더라도 임종 시점의 해석, 가족과 의료진의 이견, 환자의 철회 의사와 당시 의사결정 능력 평가 등에서 분쟁이 발생할 수 있다.[lee2020life] 이러한 경험은 정신과 PAD 도입에서도 문서의 형식적 작성만으로는 충분하지 않고, 발동 조건과 철회 조건, 가족과 대리인의 역할, 의료진의 책임 범위가 명확히 규정되어야 함을 시사한다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "72ce76fa-5f8f-4ea8-b42b-4d62d679707b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신과 영역에서의 PAD 도입은 국내에서도 논의가 시작되었고, 정신건강복지 관련 기본 계획에서 “PAD 도입 추진 검토”가 제안된 바 있으나 아직 구체적 입법 단계에는 이르지 못한 것으로 보인다.[park2026pad] 실제 입법이 이루어진다 하더라도 해결해야 할 문제는 많다. 전술한 율리시스 계약 조항을 한국 법문화 안에서 어떻게 강제할 수 있는지, 환자가 충분히 합리적으로 PAD를 작성하도록 어떤 지원을 제공할 것인지, PAD를 준수하여 의료진이 특정 치료를 하지 않았을 때 발생할 수 있는 법적 책임을 어떻게 배분할 것인지, 환자가 모든 치료를 포괄적으로 거부한 경우 이를 어디까지 존중할 것인지가 핵심 쟁점이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "73478127-d1f5-43a1-9ccc-c4615aa942a0",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "필요성",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "3e5394bb-1827-4a7d-beee-d475faa0ac8b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 현실적 난제에도 불구하고 PAD는 화학적 강박을 포함한 강압적 치료의 남용을 구조적으로 완화할 수 있는 유력한 제도 중 하나이다. 그 의의는 화학적 강박을 무조건 금지하거나 허용하는 데 있지 않다. 오히려 환자가 안정기에 표현한 자율적 의사를 법적·임상적 판단의 중심에 놓음으로써, 원칙주의의 균형 잡기와 공유 의사결정의 원리를 연결하는 데 있다. 한국 정신의료의 맥락에서 PAD 도입은 강압적 치료를 단순히 금지시키거나, 사고 발생 시 의료진의 책임을 면하게 하는 수단이 아니라, 위기 상황 관리의 패러다임을 “통제”에서 “사전 합의”로 전환하는 제도적 계기가 될 수 있다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "133aa86d-4bc6-4782-9cb6-72f7ad397b5c",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]
