@@ -11,14 +11,11 @@ sources:
   - "1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science.pdf"
   - "2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry.pdf"
   - "2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820.pdf"
-  - "2014 - Shorter - The History of Psychiatry as Clinical Science.pdf"
   - "2015 - Brock - Presentism and Diversity in the History of Psychology.pdf"
   - "2015 - Deasy - What is Presentism.pdf"
   - "2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic.pdf"
   - "2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology.pdf"
   - "2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”.pdf"
-  - "2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History.pdf"
-  - "2023 - Hilton - Our values and our historical understanding of psychiatrists.pdf"
   - "2023 - Miller - Theory of History, Epistemic Transformations, and Presentism.pdf"
   - "2024 - Arya - Racism in psychiatry and the case of presentism.pdf"
 papers:
@@ -26,39 +23,41 @@ papers:
   - "1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science"
   - "2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry"
   - "2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820"
-  - "2014 - Shorter - The History of Psychiatry as Clinical Science"
   - "2015 - Brock - Presentism and Diversity in the History of Psychology"
   - "2015 - Deasy - What is Presentism"
   - "2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic"
   - "2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology"
   - "2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”"
-  - "2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History"
-  - "2023 - Hilton - Our values and our historical understanding of psychiatrists"
   - "2023 - Miller - Theory of History, Epistemic Transformations, and Presentism"
   - "2024 - Arya - Racism in psychiatry and the case of presentism"
 ---
 # Presentism
 
 ## Why It Matters
-* Determines how historical figures in psychiatry and psychology are judged by modern clinical standards.
-* Highlights the tension between objective [[historiography]] and the tendency to project current values onto the past.
-* Shapes the interpretation of "failed" or "obsolete" theories within the history of science.
+- Presentism is central to debates in historiography, especially for fields like psychology and psychiatry, where the temptation to judge past theories by current standards is strong.
+- The archive contains 11 sources that critically examine how presentism shapes – and distorts – historical understanding, making it a key methodological concern.
+- Ongoing discussions about racism, diversity, and the relevance of history to present-day practice rely on nuanced views of presentism.
 
 ## Key Positions
+
 | Position | Core claim | Key sources |
-| :--- | :--- | :--- |
-| **Rejection/Critique** | Presentism distorts history by applying modern standards to past contexts. | [[1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences]], [[2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”]] |
-| **Methodological Nuance** | Presentism is not binary; there are various forms and "latent" versions in historiography. | [[2015 - Deasy - What is Presentism]], [[2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820]], [[2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology]] |
-| **Disciplinary Application** | Presentism specifically skews the history of psychiatry, psychology, and racial interpretations. | [[2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry]], [[2015 - Brock - Presentism and Diversity in the History of Psychology]], [[2024 - Arya - Racism in psychiatry and the case of presentism]] |
-| **Synthesis/Alternative** | Seeking a path beyond the dichotomy of presentism and historicism. | [[1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science]], [[2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History]] |
+|----------|------------|-------------|
+| Classic critique | Presentism imposes current values on the past, producing anachronistic histories; historicism is the corrective. | [[1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences]], [[1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science]] |
+| Re-evaluation / defense | Presentism can be fruitful, making history relevant for contemporary issues like diversity or social progress. | [[2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”]], [[2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic]] |
+| Forms and typology | Presentism is not monolithic; different forms (e.g., historiographical, epistemological) require separate analysis. | [[2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology]], [[2023 - Miller - Theory of History, Epistemic Transformations, and Presentism]] |
+| Case studies in psychiatry | Presentism shapes interpretations of psychiatric figures, institutions, and racial biases in the field. | [[2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry]], [[2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820]], [[2024 - Arya - Racism in psychiatry and the case of presentism]] |
+| Diversity and inclusion | Presentism can be used to recover marginalized voices and perspectives often erased by traditional historicism. | [[2015 - Brock - Presentism and Diversity in the History of Psychology]] |
+| Metaphysical presentism | A distinct philosophical thesis: only present objects exist (relevant for temporal ontology, not historiography). | [[2015 - Deasy - What is Presentism]] |
 
 ## Sub-topics
-* [[historiography]]
+None (no existing concept article is a more specific sub-topic of presentism).
 
 ## Related concepts
-* [[historicism]]
+- [[historicism]]
+- [[historiography]]
 
 ## Open questions
-* Can a "history for the present" exist without falling into the traps of presentism?
-* To what extent do current ethical values inevitably color the historical understanding of psychiatric practitioners?
-* Is presentism in the history of psychology actually a "futuristic" endeavor?
+- Is presentism always a historiographical pitfall, or can it be legitimately used to make history speak to current moral and political concerns?
+- How should historians of psychiatry balance presentist relevance with the demand for contextual accuracy?
+- Does the metaphysical definition of presentism (Deasy) have any bearing on historiographical presentism, or are they unrelated?
+- What criteria distinguish productive presentism from anachronistic distortion, especially in cases involving racism and diversity?

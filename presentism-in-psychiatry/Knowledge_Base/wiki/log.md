@@ -2,6 +2,12 @@
 
 ## 2026-04-26
 
+- compile | all concepts + entities: generated: 17; skipped (up to date): 3
+
+- scan | source sync: synced: 75; new: 0; removed: 0
+
+- compile | all concepts + entities: generated: 1; skipped (up to date): 19
+
 - compile | all concepts + entities: generated: 2; skipped (up to date): 18
 
 - compile | all concepts + entities: generated: 18; skipped (up to date): 0

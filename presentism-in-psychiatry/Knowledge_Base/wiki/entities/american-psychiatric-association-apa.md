@@ -12,25 +12,27 @@ papers:
   - "006-6-the-decline-and-fall-of-dynamic-psychiatry"
   - "007-7-diagnostic-psychiatry"
   - "009-9-the-successes-and-failures-of-the-dsm-revolution"
-  - "011-chapter-eleven"
+  - "012-chapter-twelve"
   - "2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003"
   - "2014 - Shorter - The History of Psychiatry as Clinical Science"
+  - "2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’"
   - "A History of Psychiatry - 09"
   - "From Madness to Mental Health - 15"
 ---
 # American Psychiatric Association (APA)
 
 ## What It Is
-The American Psychiatric Association (APA) is the primary professional governing body for psychiatry in the United States. It is most notable for developing and maintaining the Diagnostic and Statistical Manual of Mental Disorders (DSM), establishing the medical standards for psychiatric diagnosis and care.
+The American Psychiatric Association (APA) is the leading professional organization for psychiatrists in the United States and the publisher of the *Diagnostic and Statistical Manual of Mental Disorders* (DSM) series. In this literature, it matters as the institutional gatekeeper of psychiatric classification—its decisions (e.g., removing homosexuality from the DSM, rejecting dimensional scales) have shaped both clinical practice and public understandings of mental illness.
 
 ## Role in the Literature
-- In [[001-1-puzzles-of-mental-illness]]: Authors and maintainers of the DSM and modern medical standards for mental disorders.
-- In [[005-5-mental-illness-becomes-ubiquitous]]: Creator of the DSM-I and DSM-II and driver of the shift from inpatient to outpatient care.
-- In [[006-6-the-decline-and-fall-of-dynamic-psychiatry]]: A professional body that shifted its diagnostic standards following a legitimacy crisis.
-- In [[007-7-diagnostic-psychiatry]]: The governing body that managed the transition to diagnostic psychiatry and published the DSM series.
-- In [[009-9-the-successes-and-failures-of-the-dsm-revolution]]: The body responsible for publishing the DSM and managing its revision processes.
-- In [[011-chapter-eleven]]: A professional organization that experienced a surge in membership and a shift toward psychoanalytic leadership after WWII.
-- In [[2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003]]: The central subject of study whose presidential narratives shaped the profession's identity.
-- In [[2014 - Shorter - The History of Psychiatry as Clinical Science]]: Publisher of the DSM and the target of nosological critique.
-- In [[A History of Psychiatry - 09]]: The governing body responsible for professional psychiatric standards and the DSM.
-- In [[From Madness to Mental Health - 15]]: The body responsible for the publication of the DSM.
+- In [[001-1-puzzles-of-mental-illness]]: Identified as the authors of the DSM and the maintainers of the modern medical standard for mental disorders.
+- In [[005-5-mental-illness-becomes-ubiquitous]]: Published DSM-I and DSM-II; received President Truman's letter linking sanity to peace.
+- In [[006-6-the-decline-and-fall-of-dynamic-psychiatry]]: Faced an existential crisis and voted to remove homosexuality from DSM-II.
+- In [[007-7-diagnostic-psychiatry]]: Described as the governing body that published the DSM series and managed the transition to diagnostic psychiatry.
+- In [[009-9-the-successes-and-failures-of-the-dsm-revolution]]: The professional organization whose Assembly voted to reject the dimensional scales proposed for DSM-5, demonstrating clinician resistance to research-driven reform.
+- In [[012-chapter-twelve]]: Granted honorary membership to journalist Albert Deutsch for his exposés of asylum conditions.
+- In [[2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003]]: Treated as the central organization whose official presidential speeches are analyzed.
+- In [[2014 - Shorter - The History of Psychiatry as Clinical Science]]: Referred to as the publisher of the DSM and the institutional entity responsible for the diagnostic classification Shorter criticizes.
+- In [[2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’]]: Mentioned as the organisation of which Raymond Sackler was a Life Fellow, demonstrating the profession's historical entanglement with the family.
+- In [[A History of Psychiatry - 09]]: Presented as the central professional body that developed and sponsored the DSM series.
+- In [[From Madness to Mental Health - 15]]: Identified as the publisher of the DSM, whose membership grew dramatically post-war.

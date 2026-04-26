@@ -7,16 +7,16 @@ related: []
 created: 2026-04-26
 updated: 2026-04-26
 papers:
-  - "2015 - Brock - Presentism and Diversity in the History of Psychology"
   - "2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions."
+  - "2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”"
   - "From Madness to Mental Health - 15"
 ---
 # American Psychological Association (APA)
 
 ## What It Is
-The American Psychological Association (APA) is the leading professional organization representing psychologists in the United States. It serves as a central authority for psychological practice, research, and the professionalization of the field. In the provided literature, it is referenced as a publisher and a benchmark for the growth and historiography of psychology.
+The American Psychological Association (APA) is the leading professional organization for psychologists in the United States, encompassing research, practice, and education. In the literature on the history of psychology, it serves as both a publisher of key historiographical debates and a professional body whose growth and internal divisions reflect broader trends in the field, such as the so-called Psychoboom.
 
 ## Role in the Literature
-* In [[2015 - Brock - Presentism and Diversity in the History of Psychology]]: Mentioned in the context of the Wundt centennial and American priority claims.
-* In [[2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.]]: Cited as the publisher and the professional body hosting debates on historiography.
-* In [[From Madness to Mental Health - 15]]: Used as a metric for the "Psychoboom" through its membership growth.
+- In [[2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.]]: The APA is described as the publisher and professional body that hosted a historiographical debate on the nature of the history of psychology.
+- In [[2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”]]: The APA provides the institutional context for the professional activities of John B. Watson and his founding of a history division within the organization.
+- In [[From Madness to Mental Health - 15]]: The APA’s membership growth is cited as a key indicator of the Psychoboom, the dramatic expansion of psychology as a profession in the mid-20th century.

@@ -1,43 +1,48 @@
 ---
 type: "concept"
-title: "Deinstitutionalization"
+title: "deinstitutionalization"
 tags: []
 related:
 created: 2026-04-26
 updated: 2026-04-26
 sources:
-  - "2012 - Engstrom - History of psychiatry and its institutions.pdf"
-  - "2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States.pdf"
-  - "Between Sanity and Madness/006-6-the-decline-and-fall-of-dynamic-psychiatry.md"
+  - "Between Sanity and Madness/010-10-the-past-and-future-of-mental-illness.md"
   - "From Madness to Mental Health/From Madness to Mental Health - 14.pdf"
   - "Madness in Civilization/012-chapter-twelve.md"
 papers:
-  - "006-6-the-decline-and-fall-of-dynamic-psychiatry"
+  - "010-10-the-past-and-future-of-mental-illness"
   - "012-chapter-twelve"
-  - "2012 - Engstrom - History of psychiatry and its institutions"
-  - "2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States"
   - "From Madness to Mental Health - 14"
 ---
-# Deinstitutionalization
+# deinstitutionalization
 
 ## Why It Matters
-* Traces the systemic shift from long-term asylum confinement to community-based care.
-* Examines the intersection of psychiatric practice, public policy, and civil rights.
-* Provides a historical lens to analyze the decline of institutional models in psychosis treatment.
+- Deinstitutionalization is a central historical event in psychiatry, but its outcomes are widely considered a failure, leading to transinstitutionalization rather than community care.
+- Understanding the true drivers (fiscal and social policy, not pharmacotherapy) challenges the common narrative that psychotropic drugs enabled the asylum closures.
+- The concept links directly to critiques of psychiatric power, as represented by the antipsychiatry movement, and raises unresolved questions about how society should treat severe mental illness.
 
 ## Key Positions
 | Position | Core claim | Key sources |
-| :--- | :--- | :--- |
-| Institutional Decline | The collapse of the traditional asylum system and "dynamic psychiatry." | [[006-6-the-decline-and-fall-of-dynamic-psychiatry]], [[012-chapter-twelve]] |
-| Systemic Reform | Deinstitutionalization as part of larger cycles of reform in US psychosis treatment. | [[2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States]] |
-| Historical Evolution | The structural transformation of psychiatric institutions over time. | [[2012 - Engstrom - History of psychiatry and its institutions]] |
-| Clinical Transition | The shift from institutional management to outpatient mental health. | [[From Madness to Mental Health - 14]] |
+|----------|------------|-------------|
+| Deinstitutionalization as failed reform | Deinstitutionalization did not improve outcomes or reduce mortality; it simply relocated patients. | [[010-10-the-past-and-future-of-mental-illness]], [[012-chapter-twelve]] |
+| Transinstitutionalization outcome | Former asylum patients ended up in prisons and homeless shelters, not in community mental health services. | [[012-chapter-twelve]], [[010-10-the-past-and-future-of-mental-illness]] |
+| Fiscal/policy drivers, not drugs | The primary cause was budget-cutting and changes in social welfare, not the introduction of antipsychotics. | [[012-chapter-twelve]] |
+| Antipsychiatry critique (institutions) | Foundational critiques by Fanon, Szasz, and Basaglia argue that psychiatric institutions are oppressive and conceptually flawed. | [[From Madness to Mental Health - 14]] |
+| Anti-psychiatry internal diversity | These critiques are heterogeneous: colonial, epistemological, and institutional; they do not form a single doctrine. | [[From Madness to Mental Health - 14]] |
+
+## Sub-topics
+- [[anti-psychiatry]]
+- [[asylum]]
+- [[moral-treatment]] (as the earlier reform that deinstitutionalization replaced or contrasted with)
 
 ## Related concepts
-* [[anti-psychiatry]]
-* [[medicalization]]
+- [[biomedical-model]]
+- [[medicalization]]
+- [[nosology]]
+- [[psychiatric-classification]]
+- [[presentism]] (applied to judging past deinstitutionalization)
 
 ## Open questions
-* To what extent was deinstitutionalization driven by clinical success versus economic and political pressure?
-* How did the transition to community care impact the long-term outcomes for patients previously in asylums?
-* What role did the evolution of psychiatric classification play in the decision to release patients from institutions?
+- Could deinstitutionalization have succeeded with adequate funding and community-based alternatives, or was it inherently flawed?
+- To what extent does transinstitutionalization reflect a failure of policy design versus a broader societal lack of political will?
+- How should the heterogeneity of antipsychiatry critiques (colonial, legal, institutional) inform contemporary efforts to reform mental health systems?

@@ -1,46 +1,47 @@
 ---
 type: "concept"
-title: "Historicism"
+title: "historicism"
 tags: []
 related:
-  - "Presentism"
+  - "presentism"
+  - "historiography"
 created: 2026-04-26
 updated: 2026-04-26
 sources:
-  - "1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences.pdf"
-  - "1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science.pdf"
-  - "2014 - McPartland - Historicism.pdf"
-  - "2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology.pdf"
-  - "2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”.pdf"
+  - "2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry.pdf"
+  - "2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past.pdf"
+  - "2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History.pdf"
 papers:
-  - "1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences"
-  - "1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science"
-  - "2014 - McPartland - Historicism"
-  - "2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology"
-  - "2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”"
+  - "2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry"
+  - "2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past"
+  - "2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History"
 ---
-# Historicism
+# historicism
 
 ## Why It Matters
-* Essential for evaluating the methodology of [[historiography]] within the behavioral and social sciences.
-* Provides a critical counterpoint to the tendency of projecting modern values onto the past.
-* Shapes how researchers interpret the evolution of scientific and medical paradigms over time.
+- The choice between historicism and presentism shapes how historians interpret past events and which sources they value.
+- Burnham’s call for a contextual, institutional approach argues that historicist methods remain essential for rigorous historiography.
+- The rigid historicism‑presentism dichotomy is itself a historical product, as Bashkow et al. show, complicating any simple methodological allegiance.
+- The post‑2016 crisis of democracy has normalized presentism, challenging historicist orthodoxy while raising questions about whose present is being centered.
 
 ## Key Positions
+
 | Position | Core claim | Key sources |
-| :--- | :--- | :--- |
-| Critique of Presentism | Historicism serves as a necessary corrective to the distortions caused by presentist frameworks. | [[1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences]], [[2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”]] |
-| Methodological Synthesis | The goal is to move beyond the binary of presentism vs. historicism to better understand social science history. | [[1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science]] |
-| Epistemological Review | Rethinking historical epistemology to address various forms of presentism in the history of science. | [[2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology]] |
-| Conceptual Definition | Establishing the foundational meaning and application of historicism. | [[2014 - McPartland - Historicism]] |
+|---|---|---|
+| Historicist contextualism | The future of the history of psychiatry should be guided by a contextual, institutional approach rooted in historicist methods. | [[2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry]] |
+| Enlightened presentism | The rigid historicism‑presentism dichotomy is a historical artifact; “enlightened presentism” can recover neglected ancestors to nourish current theory. | [[2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past]] |
+| Critique of presentism’s turn | The post‑2016 normalization of presentism in the history profession is marked by provincial Eurocentrism and lacks consensus on whose present matters. | [[2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History]] |
 
 ## Sub-topics
-* [[historiography]]
+
+*(No existing concept articles are more specific sub‑topics of historicism.)*
 
 ## Related concepts
-* [[presentism]]
+- [[presentism]]
+- [[historiography]]
 
 ## Open questions
-* To what extent can a historian truly eliminate presentism while maintaining a functional a-historical perspective?
-* How should the "limits" of historicism be defined to avoid distorting the historical record?
-* Is the traditional rejection of presentism still valid for "history for the present," or is a hybrid approach necessary?
+- Is the historicist ideal of “understanding the past on its own terms” still viable when contemporary crises openly demand present‑oriented histories?
+- Can “enlightened presentism” genuinely transcend the historicism‑presentism dichotomy, or does it simply privilege a different present?
+- How can historians avoid the provincial Eurocentrism that Steinmetz‑Jenkins identifies in the recent presentist turn?
+- What institutional or contextual methods from Burnham’s proposal remain useful if the profession increasingly embraces presentist frameworks?

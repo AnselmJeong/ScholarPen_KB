@@ -27,14 +27,15 @@ papers:
   wiki_slug: 001-chapter-one
   summary_path: sources/001-chapter-one.md
   llm_keywords:
-  - Madness vs. Mental Illness
-  - Unreason
-  - Aliénisme
-  - Retrospective diagnosis
-  - Social warrant
-  - Professionalization of psychiatry
-  - Socio-cultural dimensions of madness
-  - Psychiatric categories
+  - madness
+  - retrospective-diagnosis
+  - psychiatric-authority
+  - stigma
+  - social-constructionism
+  - dsm-controversy
+  - medicalization
+  - unreason
+  one_line_finding: Madness is indelibly part of civilization, not outside it, and 'madness' is historically more appropriate than 'mental illness' for understanding unreason's cultural and social dimensions.
 - id: 002-2-before-psychiatry
   title: 002-2-before-psychiatry
   authors:
@@ -45,14 +46,17 @@ papers:
   wiki_slug: 002-2-before-psychiatry
   summary_path: sources/002-2-before-psychiatry.md
   llm_keywords:
-  - Contextualism in Diagnosis
-  - Humoral Theory
-  - Melancholia
-  - Hippocratic School
-  - Galenic Medical Culture
-  - Pre-modern psychiatry
-  - Rationalist theories of the soul
-  - '"Without cause" criterion'
+  - contextual diagnosis
+  - without cause criterion
+  - melancholia
+  - humoral theory
+  - mania
+  - Hippocratic medicine
+  - Galenic medicine
+  - supernatural causation
+  - proportionality
+  - Platonic psychology
+  one_line_finding: 'Ancient Greeks defined mental disorder contextually: madness was behavior without rational cause or disproportionate to circumstances, a criterion that persisted from Hippocrates through Robert Burton.'
 - id: 002-chapter-two
   title: 002-chapter-two
   authors:
@@ -63,16 +67,17 @@ papers:
   wiki_slug: 002-chapter-two
   summary_path: sources/002-chapter-two.md
   llm_keywords:
-  - Humoral Theory
-  - Divine Madness
+  - humoral theory
+  - melancholia
+  - mania
+  - hysteria
+  - sacred disease
+  - divine madness
   - Hippocratic Corpus
-  - Supernaturalism
-  - Temple medicine
-  - Melancholy
-  - Hysteria
-  - Prophetic Madness
-  - Naturalism
-  - Ancient psychiatry
+  - ancient Greece
+  - ancient Israel
+  - wandering womb
+  one_line_finding: The ancient world saw simultaneous supernatural and Hippocratic naturalistic explanations for madness, with the brain as its seat and categories like melancholia and mania already emerging.
 - id: 003-3-a-biological-century
   title: 003-3-a-biological-century
   authors:
@@ -118,16 +123,17 @@ papers:
   wiki_slug: 004-4-freud-s-transformation-of-normality
   summary_path: sources/004-4-freud-s-transformation-of-normality.md
   llm_keywords:
-  - Transformation of normality
-  - Psychoanalysis
-  - Repression
+  - psychoanalysis
+  - normality
+  - pathology
   - Oedipus complex
-  - Parapraxes
-  - Neurotic anxiety
-  - Transference
-  - Psychic reality
-  - Incest taboo
-  - Pathologizing the ordinary
+  - nosology
+  - medicalization
+  - hysteria
+  - suggestion
+  - iatrogenesis
+  - diagnosis
+  one_line_finding: Freud's psychoanalysis blurred the boundary between normality and neurosis by embedding pathology in universal human dynamics while using life-cycle stage and context to distinguish them.
 - id: 004-chapter-four
   title: 004-chapter-four
   authors:
@@ -156,16 +162,17 @@ papers:
   wiki_slug: 005-5-mental-illness-becomes-ubiquitous
   summary_path: sources/005-5-mental-illness-becomes-ubiquitous.md
   llm_keywords:
-  - Ego Psychology
-  - Neo-Freudianism
-  - PIE Principles
-  - Psychobiological Model
-  - Mental Hygiene Movement
-  - Dimensional View of Mental Illness
-  - Environmentalism (Psychiatry)
-  - DSM-I - DSM-II
-  - Functional reactions
-  - Hereditarian view
+  - ubiquity of mental illness
+  - postwar psychiatry
+  - dynamic psychiatry
+  - DSM-I
+  - DSM-II
+  - ego psychology
+  - neo-Freudianism
+  - mental hygiene movement
+  - personality disorders
+  - dimensional view
+  one_line_finding: Between 1939 and the mid-1960s, the definition of mental illness expanded to include nearly everyone, driven by psychoanalysis, WWII psychiatry, DSM-I/II, and federal policy.
 - id: 005-chapter-five
   title: 005-chapter-five
   authors:
@@ -214,16 +221,16 @@ papers:
   wiki_slug: 006-chapter-six
   summary_path: sources/006-chapter-six.md
   llm_keywords:
-  - The English Malady
-  - Nervous Pathology
-  - Animal Magnetism
-  - Mechanical Philosophy
-  - Humoral Theory
-  - Fluidum
-  - Hypochondria
-  - Sensibility
-  - Bedlam madness
-  - Disease of Civilization
+  - nervous disorders
+  - english malady
+  - hysteria
+  - hypochondria
+  - animal magnetism
+  - exorcism
+  - george cheyne
+  - medicalization
+  - moral treatment
+  one_line_finding: George Cheyne reframed nervous disorders as a disease of civilization, transforming them from a social reproach into a status symbol among the English elite.
 - id: 007-7-diagnostic-psychiatry
   title: 007-7-diagnostic-psychiatry
   authors:
@@ -291,16 +298,17 @@ papers:
   wiki_slug: 008-chapter-eight
   summary_path: sources/008-chapter-eight.md
   llm_keywords:
-  - Degeneration Theory
-  - Disease of Civilization
-  - Moral Treatment
-  - Alienism
-  - Lamarckism
-  - Social Death
-  - Revolutiana
-  - Inheritance of acquired characteristics
-  - Inquisitions in Lunacy
-  - Physiognomy
+  - degeneration theory
+  - moral treatment
+  - chronicity
+  - patient protest
+  - alienism
+  - anti-psychiatry
+  - physiognomy
+  - wrongful confinement
+  - Lamarckian inheritance
+  - asylum
+  one_line_finding: Degeneration theory was adopted by alienists as a defensive ideological response to the failure of moral treatment and the chronic accumulation of asylum patients, reinterpreting madness as inherited biological deterioration.
 - id: 009-9-the-successes-and-failures-of-the-dsm-revolution
   title: 009-9-the-successes-and-failures-of-the-dsm-revolution
   authors:
@@ -311,15 +319,17 @@ papers:
   wiki_slug: 009-9-the-successes-and-failures-of-the-dsm-revolution
   summary_path: sources/009-9-the-successes-and-failures-of-the-dsm-revolution.md
   llm_keywords:
-  - Psychiatric nosology
-  - Diagnostic reliability vs validity
-  - Categorical diagnostic model
-  - Dimensional model
-  - Validity gap
-  - Medicalization
-  - A-contextual epidemiological surveys
-  - Psychiatric classification
-  - DSM-III revolution
+  - DSM-III
+  - diagnostic validity
+  - psychiatric nosology
+  - medicalization
+  - neo-kraepelinian
+  - dimensionalization
+  - epidemiological fallacy
+  - reliability
+  - a-contextual diagnosis
+  - categorical diagnosis
+  one_line_finding: The DSM-III revolution achieved enormous institutional and cultural success but failed scientifically because its symptom-based categories lacked validity, conflating normal distress with mental disorder.
 - id: 009-chapter-nine
   title: 009-chapter-nine
   authors:
@@ -348,16 +358,16 @@ papers:
   wiki_slug: 010-10-the-past-and-future-of-mental-illness
   summary_path: sources/010-10-the-past-and-future-of-mental-illness.md
   llm_keywords:
-  - Psychiatric nosology
-  - Symptom-based diagnosis
-  - Gene-environment interaction
-  - Epigenetics
-  - Research Domain Criteria (RDC)
-  - Knowledge wipeouts
-  - Biomedical model
-  - Dimensionalization
-  - Brain-disease model
-  - DSM-critique
+  - dsm-iii
+  - biomedical-model
+  - deinstitutionalization
+  - medicalization
+  - nosology
+  - gene-environment-interaction
+  - epigenetics
+  - transinstitutionalization
+  - psychiatric-classification
+  one_line_finding: 'The history of psychiatry reveals no steady progress: symptom-based DSM classifications lack validity, deinstitutionalization failed leading to transinstitutionalization, and the biomedical revolution has not improved outcomes or reduced mortality.'
 - id: 010-chapter-ten
   title: 010-chapter-ten
   authors:
@@ -384,14 +394,16 @@ papers:
   wiki_slug: 011-chapter-eleven
   summary_path: sources/011-chapter-eleven.md
   llm_keywords:
-  - Psychoanalysis
-  - Ego Psychology
-  - Combat exhaustion
-  - War neurosis
-  - Therapeutic community
-  - Talk cure
-  - Somatic treatments
-  - Attachment theory
+  - psychoanalysis
+  - war-neurosis
+  - ego-psychology
+  - attachment-theory
+  - medicalization
+  - americanization
+  - therapeutic-community
+  - PTSD
+  - freudian-theory
+  one_line_finding: Psychoanalysis achieved its greatest professional and cultural influence in post-WWII America, but its success was contingent on war, wealth, and a diluted, optimistic reinterpretation of Freud's original theories.
 - id: 012-chapter-twelve
   title: 012-chapter-twelve
   authors:
@@ -402,16 +414,17 @@ papers:
   wiki_slug: 012-chapter-twelve
   summary_path: sources/012-chapter-twelve.md
   llm_keywords:
-  - Deinstitutionalization
-  - Total institutions
-  - Institutional neurosis
-  - Drug Myth
-  - Community care
-  - Care in custody
-  - Anti-psychiatry
-  - Psychopharmacology
-  - Basaglia Law
-  - Board and care homes
+  - deinstitutionalization
+  - psychopharmacology
+  - total institution
+  - anti-psychiatry
+  - community care
+  - transinstitutionalization
+  - fiscal incentives
+  - chlorpromazine
+  - asylum
+  - social policy
+  one_line_finding: Deinstitutionalization was driven primarily by social policy and fiscal incentives, not psychotropic drugs, and has resulted in transinstitutionalization to prisons and homeless shelters.
 - id: 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
   title: On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
   authors:
@@ -479,14 +492,14 @@ papers:
   wiki_slug: 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
   summary_path: sources/2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry.md
   llm_keywords:
-  - Historiography of psychiatry
-  - Critical history
-  - Whig interpretation
-  - Institutional power
-  - Social constructions of mental illness
-  - Medical historiography
-  - Sociological analysis of medicine
-  - Institutional control
+  - presentism
+  - historicism
+  - historiography
+  - institutional-history
+  - biological-psychiatry
+  - jack-pressman-legacy
+  - future-directions
+  one_line_finding: Burnham argues that Pressman's contextual, institutional approach should guide the future historiography of psychiatry.
 - id: 2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry
   title: Eugen Bleuler's Place in the History of Psychiatry
   authors:
@@ -535,14 +548,17 @@ papers:
   wiki_slug: 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
   summary_path: sources/2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003.md
   llm_keywords:
-  - Professional self-definition
-  - Professionalizing purpose of memory
-  - Mental hygiene
-  - Social psychiatry
-  - Historiography
   - American Psychiatric Association
-  - Neurobiological integration
-  - Professional identity construction
+  - professional memory
+  - presentism
+  - historiography
+  - selective memory
+  - professionalization
+  - psychiatric history
+  - presidential addresses
+  - mental hygiene
+  - eugenics
+  one_line_finding: APA presidents used history selectively across 120 years of addresses to construct a professional identity, omitting controversial episodes like eugenics and lobotomy while emphasizing a humanitarian tradition.
 - id: 2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
   title: A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
   authors:
@@ -590,14 +606,16 @@ papers:
   wiki_slug: 2014 - Shorter - The History of Psychiatry as Clinical Science
   summary_path: sources/2014 - Shorter - The History of Psychiatry as Clinical Science.md
   llm_keywords:
-  - Clinical science (history)
-  - Nosology
-  - Presentism
-  - Iron Triangle
-  - Symptom Pool
-  - Catatonic syndrome
-  - Psychopathology
-  - Diagnostic artifacts
+  - presentism
+  - nosology
+  - melancholia
+  - symptom-pool
+  - catatonia
+  - antipsychiatry
+  - clinical-science
+  - dsm-critique
+  - disease-entity-realism
+  one_line_finding: Historians of psychiatry can function as clinical scientists by using historical data to correct current diagnostic classification and inform patient care.
 - id: 2015 - Brock - Presentism and Diversity in the History of Psychology
   title: Presentism and Diversity in the History of Psychology
   authors:
@@ -701,16 +719,15 @@ papers:
   wiki_slug: 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
   summary_path: sources/2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics.md
   llm_keywords:
-  - Historical presentism
-  - Intellectual presentism
-  - Bioethics discourse
-  - Whig history
-  - Informed consent
-  - Vulnerable populations
-  - Belmont Report
-  - Canadian eugenics
-  - Historiography
-  - Human subjects research
+  - presentism
+  - historiography
+  - eugenics
+  - bioethics
+  - human subjects
+  - vulnerable populations
+  - Newfoundland
+  - terminological presentism
+  one_line_finding: Medical historians risk presentism by applying modern bioethical categories (informed consent, vulnerable subjects) to past eugenic practices, leading to moral complacency rather than genuine historical understanding.
 - id: 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
   title: The “new history of psychology” and the uses and abuses of dichotomies
   authors:
@@ -739,16 +756,17 @@ papers:
   wiki_slug: 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
   summary_path: sources/2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s.md
   llm_keywords:
-  - Biological psychiatry
-  - Psychopathy
-  - Degeneration
-  - Mental hygiene
-  - Constitutional flaw
-  - Social control
-  - Medicalization of trauma
-  - Present-centered historical approach
-  - Hereditary burden
+  - hereditarian explanation
+  - child psychiatry
+  - psychopathy
+  - degeneration theory
+  - constitutional psychopathy
+  - present-centred selection criteria
+  - socioeconomic factors
+  - patient records
+  - Pitkäniemi Hospital
   - Finnish psychiatry
+  one_line_finding: Finnish child psychiatrists (1920s-1950s) interpreted severe behavioural problems as hereditary defects, not socioeconomic conditions, even when documenting poverty and family instability.
 - id: 2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”
   title: On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”
   authors:
@@ -794,14 +812,17 @@ papers:
   wiki_slug: 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
   summary_path: sources/2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry.md
   llm_keywords:
-  - Phenomenological psychiatry
-  - Ichzeit-Weltzeit
-  - Durée (Duration)
-  - Temporal synthesis
-  - Time-sense
-  - Syntony
-  - Psychopathologies of time
-  - Subjective internal duration
+  - time
+  - psychiatry
+  - phenomenology
+  - Bergson
+  - Minkowski
+  - temporality
+  - psychopathology
+  - depression
+  - schizophrenia
+  - lived time
+  one_line_finding: Early 20th-century psychiatrists defined mental illness as a breakdown in synthesis between subjective and objective time, using altered future orientation as a key diagnostic criterion.
 - id: 2019 - Houston - Past and “pastism” in the history of psychiatry
   title: Past and “pastism” in the history of psychiatry
   authors:
@@ -830,14 +851,17 @@ papers:
   wiki_slug: 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
   summary_path: sources/2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850.md
   llm_keywords:
-  - Mind-brain dualism
-  - Alienism
-  - Nosology
-  - Moral Therapy
-  - Brain-based localization
-  - Association of Ideas
-  - Animal Spirits
-  - History of psychiatry
+  - history of psychiatry
+  - moral therapy
+  - nosology
+  - mind-brain dualism
+  - alienism
+  - Enlightenment medicine
+  - asylum
+  - psychiatric profession
+  - integrative pluralism
+  - historiography of psychiatry
+  one_line_finding: Psychiatry emerged from a contingent convergence of mind, brain, and asylum developments, with an inherent mind-brain dualism constituting its professional identity.
 - id: 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
   title: Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
   authors:
@@ -848,15 +872,17 @@ papers:
   wiki_slug: 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
   summary_path: sources/2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past.md
   llm_keywords:
-  - Vergangenheitsbewältigung
-  - Eugenics
-  - Racial hygiene
-  - Structural racism
-  - Colonial legacy
-  - Cognitive dissonance
-  - British exceptionalism
-  - Imperialist oppression
-  - Psychiatric ethics
+  - vergangenheitsbewältigung
+  - cognitive-dissonance
+  - eugenics
+  - degeneration-theory
+  - structural-racism
+  - culture-wars
+  - british-empire
+  - professional-identity
+  - historiography
+  - royal-college-of-psychiatrists
+  one_line_finding: UK psychiatry must engage in Vergangenheitsbewältigung—honest reckoning with its eugenic, racist, and homophobic past—to overcome cognitive dissonance and build a more authentic professional future.
 - id: 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
   title: Introduction; Whose Present Which History
   authors:
@@ -867,14 +893,15 @@ papers:
   wiki_slug: 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
   summary_path: sources/2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History.md
   llm_keywords:
-  - Presentism
-  - Regimes of Historicity
-  - Global Intellectual History
-  - Eurocentric Provincialism
-  - Genealogical Approach
-  - Decentered History
-  - Contemporary History
-  - Turn to the Present
+  - presentism
+  - historicism
+  - historiography
+  - Eurocentrism
+  - temporality
+  - genealogical-history
+  - modernization-theory
+  - paths-not-taken
+  one_line_finding: The post-2016 crisis of democracy normalized presentism in the history profession, but this turn is marked by provincial Eurocentrism and no consensus on whose present is of concern.
 - id: 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
   title: Cycles of reform in the history of psychosis treatment in the United States
   authors:
@@ -905,14 +932,14 @@ papers:
   wiki_slug: 2023 - Hilton - Our values and our historical understanding of psychiatrists
   summary_path: sources/2023 - Hilton - Our values and our historical understanding of psychiatrists.md
   llm_keywords:
-  - Contextualism
-  - Presentism
-  - Focal sepsis
-  - Eugenics
-  - Historiography
-  - Beneficence and non-maleficence
-  - Medical ethics
-  - Psychiatry history
+  - presentism
+  - contextualism
+  - focal-sepsis
+  - eugenics
+  - medical-ethics
+  - historiographic-method
+  - vergangenheitsbewaeltigung
+  one_line_finding: Historical understanding of psychiatry requires contextualizing past practices within their own societal and scientific frameworks rather than judging by present values.
 - id: 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
   title: Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
   authors:
@@ -959,14 +986,17 @@ papers:
   wiki_slug: 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
   summary_path: sources/2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’.md
   llm_keywords:
-  - Jetztzeit
-  - Dialectical reversal
-  - Interventional fervour
-  - Professional continuity
-  - Clinical hubris
-  - Medical ethics
-  - Psychiatric history
-  - The Arcades Project
+  - jetztzeit
+  - purdue-pharma
+  - sackler-family
+  - henry-cotton
+  - professional-identity
+  - historical-methodology
+  - discovery-history
+  - cognitive-dissonance
+  - opioid-crisis
+  - nazi-euthanasia
+  one_line_finding: Ikkos argues that the primary driver of historical inquiry in psychiatry should be discovery of uncomfortable truths, not fear of unfair blame, invoking Benjamin's Jetztzeit.
 - id: 2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission
   title: Beyond presentism; Memory studies, deep history and the challenges of transmission
   authors:
@@ -1233,14 +1263,15 @@ papers:
   wiki_slug: From Madness to Mental Health - 06
   summary_path: sources/From Madness to Mental Health - 06.md
   llm_keywords:
-  - Moral Treatment
-  - Nosology
-  - Monomania
-  - Psychosomatic medicine
-  - Clinical observation
-  - Traitement Moral
-  - Psychischer Arzt
-  - Romanticism in psychiatry
+  - moral-treatment
+  - monomania
+  - nosology
+  - psychosomatic
+  - antiphlogisticism
+  - romanticism
+  - enlightenment
+  - alienism
+  one_line_finding: French and German reformers (Pinel, Esquirol, Heinroth) established moral treatment, monomania, and the psychosomatic concept, laying foundations for modern psychiatric practice.
 - id: From Madness to Mental Health - 07
   title: From Madness to Mental Health - 07
   authors:
@@ -1306,16 +1337,17 @@ papers:
   wiki_slug: From Madness to Mental Health - 11
   summary_path: sources/From Madness to Mental Health - 11.md
   llm_keywords:
-  - Somatic turn
-  - Hydrotherapy
-  - Eugenics
-  - Malaria inoculation
-  - Neurosyphilis
-  - General paresis
-  - Degeneracy theory
-  - Race-biology
-  - Compulsory sterilization
-  - Empirical method (psychiatry)
+  - eugenics
+  - degeneration-theory
+  - hydrotherapy
+  - malaria-inoculation
+  - compulsory-sterilization
+  - non-specific-therapy
+  - patient-narrative
+  - manic-depressive
+  - general-paresis
+  - buck-v-bell
+  one_line_finding: This source presents four primary documents illustrating the stark contrasts in early 20th-century psychiatry between coercive social control (eugenics, sterilization) and therapeutic innovation (hydrotherapy, malaria inoculation).
 - id: From Madness to Mental Health - 12
   title: From Madness to Mental Health - 12
   authors:
@@ -1364,16 +1396,17 @@ papers:
   wiki_slug: From Madness to Mental Health - 14
   summary_path: sources/From Madness to Mental Health - 14.md
   llm_keywords:
-  - Antipsychiatry
-  - Deinstitutionalization
-  - Social Psychiatry
-  - The Myth of Mental Illness
-  - North African Syndrome
-  - Situational Diagnosis
-  - Medical Model
-  - Colonial Psychiatry
-  - Custodial Psychiatry
-  - Social Determinants of Health
+  - antipsychiatry
+  - social-psychiatry
+  - deinstitutionalization
+  - colonial-psychiatry
+  - medicalization
+  - therapeutic-community
+  - nosology
+  - institutional-violence
+  - democratic-psychiatry
+  - myth-of-mental-illness
+  one_line_finding: This chapter collects three foundational antipsychiatry critiques—Fanon's colonial psychiatry, Szasz's epistemological challenge to mental illness, and Basaglia's institutional analysis—revealing the movement's internal heterogeneity.
 - id: From Madness to Mental Health - 15
   title: From Madness to Mental Health - 15
   authors:

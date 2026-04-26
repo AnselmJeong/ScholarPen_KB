@@ -31,111 +31,115 @@ keywords:
     count: 1
     papers:
     - 001-1-puzzles-of-mental-illness
-  Aliénisme:
+  dsm-controversy:
     count: 1
     papers:
     - 001-chapter-one
-  Madness vs. Mental Illness:
+  madness:
     count: 1
     papers:
     - 001-chapter-one
-  Professionalization of psychiatry:
-    count: 2
+  medicalization:
+    count: 7
     papers:
     - 001-chapter-one
-    - A History of Psychiatry - 02
-  Psychiatric categories:
-    count: 1
-    papers:
-    - 001-chapter-one
-  Retrospective diagnosis:
-    count: 1
-    papers:
-    - 001-chapter-one
-  Social warrant:
-    count: 1
-    papers:
-    - 001-chapter-one
-  Socio-cultural dimensions of madness:
-    count: 1
-    papers:
-    - 001-chapter-one
-  Unreason:
-    count: 1
-    papers:
-    - 001-chapter-one
-  '"Without cause" criterion':
-    count: 1
-    papers:
-    - 002-2-before-psychiatry
-  Contextualism in Diagnosis:
-    count: 1
-    papers:
-    - 002-2-before-psychiatry
-  Galenic Medical Culture:
-    count: 1
-    papers:
-    - 002-2-before-psychiatry
-  Hippocratic School:
-    count: 1
-    papers:
-    - 002-2-before-psychiatry
-  Humoral Theory:
-    count: 3
-    papers:
-    - 002-2-before-psychiatry
-    - 002-chapter-two
+    - 004-4-freud-s-transformation-of-normality
     - 006-chapter-six
-  Melancholia:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+    - 010-10-the-past-and-future-of-mental-illness
+    - 011-chapter-eleven
+    - From Madness to Mental Health - 14
+  psychiatric-authority:
+    count: 1
+    papers:
+    - 001-chapter-one
+  retrospective-diagnosis:
+    count: 1
+    papers:
+    - 001-chapter-one
+  social-constructionism:
+    count: 1
+    papers:
+    - 001-chapter-one
+  stigma:
+    count: 1
+    papers:
+    - 001-chapter-one
+  unreason:
+    count: 1
+    papers:
+    - 001-chapter-one
+  Galenic medicine:
+    count: 1
+    papers:
+    - 002-2-before-psychiatry
+  Hippocratic medicine:
+    count: 1
+    papers:
+    - 002-2-before-psychiatry
+  Platonic psychology:
+    count: 1
+    papers:
+    - 002-2-before-psychiatry
+  contextual diagnosis:
+    count: 1
+    papers:
+    - 002-2-before-psychiatry
+  humoral theory:
+    count: 2
+    papers:
+    - 002-2-before-psychiatry
+    - 002-chapter-two
+  mania:
+    count: 2
+    papers:
+    - 002-2-before-psychiatry
+    - 002-chapter-two
+  melancholia:
     count: 3
     papers:
     - 002-2-before-psychiatry
-    - 004-chapter-four
-    - From Madness to Mental Health - 04
-  Pre-modern psychiatry:
+    - 002-chapter-two
+    - 2014 - Shorter - The History of Psychiatry as Clinical Science
+  proportionality:
     count: 1
     papers:
     - 002-2-before-psychiatry
-  Rationalist theories of the soul:
+  supernatural causation:
     count: 1
     papers:
     - 002-2-before-psychiatry
-  Ancient psychiatry:
-    count: 2
-    papers:
-    - 002-chapter-two
-    - From Madness to Mental Health - 03
-  Divine Madness:
+  without cause criterion:
     count: 1
     papers:
-    - 002-chapter-two
+    - 002-2-before-psychiatry
   Hippocratic Corpus:
     count: 1
     papers:
     - 002-chapter-two
-  Hysteria:
+  ancient Greece:
+    count: 1
+    papers:
+    - 002-chapter-two
+  ancient Israel:
+    count: 1
+    papers:
+    - 002-chapter-two
+  divine madness:
+    count: 1
+    papers:
+    - 002-chapter-two
+  hysteria:
     count: 3
     papers:
     - 002-chapter-two
-    - 009-chapter-nine
-    - From Madness to Mental Health - 03
-  Melancholy:
+    - 004-4-freud-s-transformation-of-normality
+    - 006-chapter-six
+  sacred disease:
     count: 1
     papers:
     - 002-chapter-two
-  Naturalism:
-    count: 1
-    papers:
-    - 002-chapter-two
-  Prophetic Madness:
-    count: 1
-    papers:
-    - 002-chapter-two
-  Supernaturalism:
-    count: 1
-    papers:
-    - 002-chapter-two
-  Temple medicine:
+  wandering womb:
     count: 1
     papers:
     - 002-chapter-two
@@ -148,20 +152,17 @@ keywords:
     papers:
     - 003-3-a-biological-century
   Degeneration Theory:
-    count: 3
+    count: 2
     papers:
     - 003-3-a-biological-century
-    - 008-chapter-eight
     - 010-chapter-ten
   Moral Treatment:
-    count: 6
+    count: 4
     papers:
     - 003-3-a-biological-century
     - 007-chapter-seven
-    - 008-chapter-eight
     - 2000 - Beer et al. - History of psychiatric disorders and treatments
     - 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
-    - From Madness to Mental Health - 06
   Neurasthenia:
     count: 4
     papers:
@@ -206,45 +207,41 @@ keywords:
     count: 1
     papers:
     - 003-chapter-three
-  Incest taboo:
-    count: 1
-    papers:
-    - 004-4-freud-s-transformation-of-normality
-  Neurotic anxiety:
-    count: 1
-    papers:
-    - 004-4-freud-s-transformation-of-normality
   Oedipus complex:
     count: 1
     papers:
     - 004-4-freud-s-transformation-of-normality
-  Parapraxes:
+  diagnosis:
     count: 1
     papers:
     - 004-4-freud-s-transformation-of-normality
-  Pathologizing the ordinary:
+  iatrogenesis:
     count: 1
     papers:
     - 004-4-freud-s-transformation-of-normality
-  Psychic reality:
+  normality:
     count: 1
     papers:
     - 004-4-freud-s-transformation-of-normality
-  Psychoanalysis:
+  nosology:
+    count: 6
+    papers:
+    - 004-4-freud-s-transformation-of-normality
+    - 010-10-the-past-and-future-of-mental-illness
+    - 2014 - Shorter - The History of Psychiatry as Clinical Science
+    - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
+    - From Madness to Mental Health - 06
+    - From Madness to Mental Health - 14
+  pathology:
+    count: 1
+    papers:
+    - 004-4-freud-s-transformation-of-normality
+  psychoanalysis:
     count: 2
     papers:
     - 004-4-freud-s-transformation-of-normality
     - 011-chapter-eleven
-  Repression:
-    count: 2
-    papers:
-    - 004-4-freud-s-transformation-of-normality
-    - 009-chapter-nine
-  Transference:
-    count: 1
-    papers:
-    - 004-4-freud-s-transformation-of-normality
-  Transformation of normality:
+  suggestion:
     count: 1
     papers:
     - 004-4-freud-s-transformation-of-normality
@@ -266,6 +263,11 @@ keywords:
     papers:
     - 004-chapter-four
     - From Madness to Mental Health - 04
+  Melancholia:
+    count: 2
+    papers:
+    - 004-chapter-four
+    - From Madness to Mental Health - 04
   Naturalization of madness:
     count: 1
     papers:
@@ -278,44 +280,43 @@ keywords:
     count: 1
     papers:
     - 004-chapter-four
-  DSM-I - DSM-II:
+  DSM-I:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Dimensional View of Mental Illness:
+  DSM-II:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Ego Psychology:
-    count: 2
-    papers:
-    - 005-5-mental-illness-becomes-ubiquitous
-    - 011-chapter-eleven
-  Environmentalism (Psychiatry):
+  dimensional view:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Functional reactions:
+  dynamic psychiatry:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Hereditarian view:
+  ego psychology:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Mental Hygiene Movement:
+  mental hygiene movement:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Neo-Freudianism:
+  neo-Freudianism:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  PIE Principles:
+  personality disorders:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
-  Psychobiological Model:
+  postwar psychiatry:
+    count: 1
+    papers:
+    - 005-5-mental-illness-becomes-ubiquitous
+  ubiquity of mental illness:
     count: 1
     papers:
     - 005-5-mental-illness-becomes-ubiquitous
@@ -360,18 +361,16 @@ keywords:
     papers:
     - 005-chapter-five
   Anti-psychiatry:
-    count: 4
+    count: 3
     papers:
     - 006-6-the-decline-and-fall-of-dynamic-psychiatry
-    - 012-chapter-twelve
     - 2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
     - 2019 - Houston - Past and “pastism” in the history of psychiatry
   Biomedical model:
-    count: 4
+    count: 3
     papers:
     - 006-6-the-decline-and-fall-of-dynamic-psychiatry
     - 007-7-diagnostic-psychiatry
-    - 010-10-the-past-and-future-of-mental-illness
     - From Madness to Mental Health - 15
   Community Mental Health Centers (CMHCs):
     count: 2
@@ -379,19 +378,18 @@ keywords:
     - 006-6-the-decline-and-fall-of-dynamic-psychiatry
     - 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
   DSM-III:
-    count: 3
+    count: 4
     papers:
     - 006-6-the-decline-and-fall-of-dynamic-psychiatry
     - 007-7-diagnostic-psychiatry
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
     - From Madness to Mental Health - 15
   Deinstitutionalization:
-    count: 5
+    count: 3
     papers:
     - 006-6-the-decline-and-fall-of-dynamic-psychiatry
-    - 012-chapter-twelve
     - 2012 - Engstrom - History of psychiatry and its institutions
     - 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
-    - From Madness to Mental Health - 14
   Dynamic psychiatry:
     count: 2
     papers:
@@ -405,40 +403,32 @@ keywords:
     count: 1
     papers:
     - 006-6-the-decline-and-fall-of-dynamic-psychiatry
-  Animal Magnetism:
+  animal magnetism:
     count: 1
     papers:
     - 006-chapter-six
-  Bedlam madness:
+  english malady:
     count: 1
     papers:
     - 006-chapter-six
-  Disease of Civilization:
+  exorcism:
+    count: 1
+    papers:
+    - 006-chapter-six
+  george cheyne:
+    count: 1
+    papers:
+    - 006-chapter-six
+  hypochondria:
+    count: 1
+    papers:
+    - 006-chapter-six
+  moral treatment:
     count: 2
     papers:
     - 006-chapter-six
     - 008-chapter-eight
-  Fluidum:
-    count: 1
-    papers:
-    - 006-chapter-six
-  Hypochondria:
-    count: 1
-    papers:
-    - 006-chapter-six
-  Mechanical Philosophy:
-    count: 1
-    papers:
-    - 006-chapter-six
-  Nervous Pathology:
-    count: 1
-    papers:
-    - 006-chapter-six
-  Sensibility:
-    count: 1
-    papers:
-    - 006-chapter-six
-  The English Malady:
+  nervous disorders:
     count: 1
     papers:
     - 006-chapter-six
@@ -464,10 +454,9 @@ keywords:
     - 007-7-diagnostic-psychiatry
     - A History of Psychiatry - 09
   Psychiatric classification:
-    count: 3
+    count: 2
     papers:
     - 007-7-diagnostic-psychiatry
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
     - 2000 - Beer et al. - History of psychiatric disorders and treatments
   Reliability vs validity:
     count: 1
@@ -499,10 +488,9 @@ keywords:
     papers:
     - 007-chapter-seven
   Total institutions:
-    count: 2
+    count: 1
     papers:
     - 007-chapter-seven
-    - 012-chapter-twelve
   BRAIN Initiative:
     count: 1
     papers:
@@ -539,68 +527,77 @@ keywords:
     count: 1
     papers:
     - 008-8-biology-re-emerges
-  Alienism:
+  Lamarckian inheritance:
+    count: 1
+    papers:
+    - 008-chapter-eight
+  alienism:
     count: 3
     papers:
     - 008-chapter-eight
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-    - A History of Psychiatry - 05
-  Inheritance of acquired characteristics:
-    count: 1
-    papers:
-    - 008-chapter-eight
-  Inquisitions in Lunacy:
-    count: 1
-    papers:
-    - 008-chapter-eight
-  Lamarckism:
-    count: 1
-    papers:
-    - 008-chapter-eight
-  Physiognomy:
-    count: 1
-    papers:
-    - 008-chapter-eight
-  Revolutiana:
-    count: 1
-    papers:
-    - 008-chapter-eight
-  Social Death:
-    count: 1
-    papers:
-    - 008-chapter-eight
-  A-contextual epidemiological surveys:
-    count: 1
-    papers:
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
-  Categorical diagnostic model:
-    count: 1
-    papers:
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
-  DSM-III revolution:
-    count: 1
-    papers:
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
-  Diagnostic reliability vs validity:
-    count: 1
-    papers:
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
-  Dimensional model:
-    count: 1
-    papers:
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
-  Medicalization:
-    count: 3
-    papers:
-    - 009-9-the-successes-and-failures-of-the-dsm-revolution
-    - A History of Psychiatry - 09
-    - From Madness to Mental Health - 15
-  Psychiatric nosology:
+    - From Madness to Mental Health - 06
+  anti-psychiatry:
     count: 2
     papers:
+    - 008-chapter-eight
+    - 012-chapter-twelve
+  asylum:
+    count: 3
+    papers:
+    - 008-chapter-eight
+    - 012-chapter-twelve
+    - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
+  chronicity:
+    count: 1
+    papers:
+    - 008-chapter-eight
+  degeneration theory:
+    count: 2
+    papers:
+    - 008-chapter-eight
+    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  patient protest:
+    count: 1
+    papers:
+    - 008-chapter-eight
+  physiognomy:
+    count: 1
+    papers:
+    - 008-chapter-eight
+  wrongful confinement:
+    count: 1
+    papers:
+    - 008-chapter-eight
+  a-contextual diagnosis:
+    count: 1
+    papers:
     - 009-9-the-successes-and-failures-of-the-dsm-revolution
-    - 010-10-the-past-and-future-of-mental-illness
-  Validity gap:
+  categorical diagnosis:
+    count: 1
+    papers:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+  diagnostic validity:
+    count: 1
+    papers:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+  dimensionalization:
+    count: 1
+    papers:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+  epidemiological fallacy:
+    count: 1
+    papers:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+  neo-kraepelinian:
+    count: 1
+    papers:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+  psychiatric nosology:
+    count: 1
+    papers:
+    - 009-9-the-successes-and-failures-of-the-dsm-revolution
+  reliability:
     count: 1
     papers:
     - 009-9-the-successes-and-failures-of-the-dsm-revolution
@@ -612,7 +609,16 @@ keywords:
     count: 1
     papers:
     - 009-chapter-nine
+  Hysteria:
+    count: 2
+    papers:
+    - 009-chapter-nine
+    - From Madness to Mental Health - 03
   Psychodynamic analysis:
+    count: 1
+    papers:
+    - 009-chapter-nine
+  Repression:
     count: 1
     papers:
     - 009-chapter-nine
@@ -624,38 +630,37 @@ keywords:
     count: 1
     papers:
     - 009-chapter-nine
-  Brain-disease model:
+  biomedical-model:
     count: 1
     papers:
     - 010-10-the-past-and-future-of-mental-illness
-  DSM-critique:
+  deinstitutionalization:
+    count: 3
+    papers:
+    - 010-10-the-past-and-future-of-mental-illness
+    - 012-chapter-twelve
+    - From Madness to Mental Health - 14
+  dsm-iii:
     count: 1
     papers:
     - 010-10-the-past-and-future-of-mental-illness
-  Dimensionalization:
+  epigenetics:
     count: 1
     papers:
     - 010-10-the-past-and-future-of-mental-illness
-  Epigenetics:
+  gene-environment-interaction:
     count: 1
     papers:
     - 010-10-the-past-and-future-of-mental-illness
-  Gene-environment interaction:
+  psychiatric-classification:
     count: 1
     papers:
     - 010-10-the-past-and-future-of-mental-illness
-  Knowledge wipeouts:
-    count: 1
+  transinstitutionalization:
+    count: 2
     papers:
     - 010-10-the-past-and-future-of-mental-illness
-  Research Domain Criteria (RDC):
-    count: 1
-    papers:
-    - 010-10-the-past-and-future-of-mental-illness
-  Symptom-based diagnosis:
-    count: 1
-    papers:
-    - 010-10-the-past-and-future-of-mental-illness
+    - 012-chapter-twelve
   Insulin Shock Therapy:
     count: 1
     papers:
@@ -672,60 +677,59 @@ keywords:
     count: 1
     papers:
     - 010-chapter-ten
-  Attachment theory:
+  PTSD:
     count: 1
     papers:
     - 011-chapter-eleven
-  Combat exhaustion:
+  americanization:
     count: 1
     papers:
     - 011-chapter-eleven
-  Somatic treatments:
+  attachment-theory:
+    count: 1
+    papers:
+    - 011-chapter-eleven
+  ego-psychology:
+    count: 1
+    papers:
+    - 011-chapter-eleven
+  freudian-theory:
+    count: 1
+    papers:
+    - 011-chapter-eleven
+  therapeutic-community:
     count: 2
     papers:
     - 011-chapter-eleven
-    - 2000 - Beer et al. - History of psychiatric disorders and treatments
-  Talk cure:
+    - From Madness to Mental Health - 14
+  war-neurosis:
     count: 1
     papers:
     - 011-chapter-eleven
-  Therapeutic community:
-    count: 1
-    papers:
-    - 011-chapter-eleven
-  War neurosis:
-    count: 1
-    papers:
-    - 011-chapter-eleven
-  Basaglia Law:
+  chlorpromazine:
     count: 1
     papers:
     - 012-chapter-twelve
-  Board and care homes:
+  community care:
     count: 1
     papers:
     - 012-chapter-twelve
-  Care in custody:
+  fiscal incentives:
     count: 1
     papers:
     - 012-chapter-twelve
-  Community care:
+  psychopharmacology:
     count: 1
     papers:
     - 012-chapter-twelve
-  Drug Myth:
+  social policy:
     count: 1
     papers:
     - 012-chapter-twelve
-  Institutional neurosis:
+  total institution:
     count: 1
     papers:
     - 012-chapter-twelve
-  Psychopharmacology:
-    count: 2
-    papers:
-    - 012-chapter-twelve
-    - A History of Psychiatry - 08
   Historicism:
     count: 5
     papers:
@@ -747,20 +751,17 @@ keywords:
     papers:
     - 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
   Presentism:
-    count: 14
+    count: 11
     papers:
     - 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
     - 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science
     - 2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry
     - 2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
-    - 2014 - Shorter - The History of Psychiatry as Clinical Science
     - 2015 - Brock - Presentism and Diversity in the History of Psychology
     - 2015 - Deasy - What is Presentism
     - 2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic
     - 2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology
     - 2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”
-    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-    - 2023 - Hilton - Our values and our historical understanding of psychiatrists
     - 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
     - 2024 - Arya - Racism in psychiatry and the case of presentism
   Reasonableness vs. Rationality:
@@ -768,19 +769,17 @@ keywords:
     papers:
     - 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
   Whig history:
-    count: 2
+    count: 1
     papers:
     - 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
-    - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
   Analytical realm:
     count: 1
     papers:
     - 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science
   Contextualism:
-    count: 2
+    count: 1
     papers:
     - 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science
-    - 2023 - Hilton - Our values and our historical understanding of psychiatrists
   Historiography of social science:
     count: 1
     papers:
@@ -818,12 +817,9 @@ keywords:
     papers:
     - 2000 - Beer et al. - History of psychiatric disorders and treatments
   Nosology:
-    count: 4
+    count: 1
     papers:
     - 2000 - Beer et al. - History of psychiatric disorders and treatments
-    - 2014 - Shorter - The History of Psychiatry as Clinical Science
-    - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-    - From Madness to Mental Health - 06
   Post-traumatic Neurosis:
     count: 1
     papers:
@@ -832,43 +828,58 @@ keywords:
     count: 1
     papers:
     - 2000 - Beer et al. - History of psychiatric disorders and treatments
+  Somatic treatments:
+    count: 1
+    papers:
+    - 2000 - Beer et al. - History of psychiatric disorders and treatments
   Whig History:
     count: 1
     papers:
     - 2000 - Beer et al. - History of psychiatric disorders and treatments
-  Critical history:
+  biological-psychiatry:
     count: 1
     papers:
     - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-  Historiography of psychiatry:
-    count: 2
-    papers:
-    - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-    - 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
-  Institutional control:
+  future-directions:
     count: 1
     papers:
     - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-  Institutional power:
+  historicism:
+    count: 3
+    papers:
+    - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
+    - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
+    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  historiography:
+    count: 7
+    papers:
+    - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
+    - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+    - 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
+    - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
+    - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  institutional-history:
     count: 1
     papers:
     - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-  Medical historiography:
+  jack-pressman-legacy:
     count: 1
     papers:
     - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-  Social constructions of mental illness:
-    count: 1
+  presentism:
+    count: 9
     papers:
     - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-  Sociological analysis of medicine:
-    count: 1
-    papers:
-    - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
-  Whig interpretation:
-    count: 1
-    papers:
-    - 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
+    - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+    - 2014 - Shorter - The History of Psychiatry as Clinical Science
+    - 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
+    - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
+    - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
+    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+    - 2023 - Hilton - Our values and our historical understanding of psychiatrists
+    - 2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission
   Affectivity:
     count: 1
     papers:
@@ -926,10 +937,9 @@ keywords:
     papers:
     - 2012 - Engstrom - History of psychiatry and its institutions
   Social psychiatry:
-    count: 2
+    count: 1
     papers:
     - 2012 - Engstrom - History of psychiatry and its institutions
-    - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
   Therapeutic governance:
     count: 1
     papers:
@@ -938,32 +948,35 @@ keywords:
     count: 1
     papers:
     - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
-  Historiography:
+  eugenics:
     count: 5
     papers:
     - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
-    - 2015 - Brock - Presentism and Diversity in the History of Psychology
     - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-    - 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
     - 2023 - Hilton - Our values and our historical understanding of psychiatrists
-  Mental hygiene:
-    count: 2
-    papers:
-    - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
-    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Neurobiological integration:
+    - From Madness to Mental Health - 11
+  mental hygiene:
     count: 1
     papers:
     - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
-  Professional identity construction:
+  presidential addresses:
     count: 1
     papers:
     - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
-  Professional self-definition:
+  professional memory:
     count: 1
     papers:
     - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
-  Professionalizing purpose of memory:
+  professionalization:
+    count: 1
+    papers:
+    - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+  psychiatric history:
+    count: 1
+    papers:
+    - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+  selective memory:
     count: 1
     papers:
     - 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
@@ -1024,27 +1037,28 @@ keywords:
     count: 1
     papers:
     - 2014 - McPartland - Historicism
-  Catatonic syndrome:
+  antipsychiatry:
+    count: 2
+    papers:
+    - 2014 - Shorter - The History of Psychiatry as Clinical Science
+    - From Madness to Mental Health - 14
+  catatonia:
     count: 1
     papers:
     - 2014 - Shorter - The History of Psychiatry as Clinical Science
-  Clinical science (history):
+  clinical-science:
     count: 1
     papers:
     - 2014 - Shorter - The History of Psychiatry as Clinical Science
-  Diagnostic artifacts:
+  disease-entity-realism:
     count: 1
     papers:
     - 2014 - Shorter - The History of Psychiatry as Clinical Science
-  Iron Triangle:
+  dsm-critique:
     count: 1
     papers:
     - 2014 - Shorter - The History of Psychiatry as Clinical Science
-  Psychopathology:
-    count: 1
-    papers:
-    - 2014 - Shorter - The History of Psychiatry as Clinical Science
-  Symptom Pool:
+  symptom-pool:
     count: 1
     papers:
     - 2014 - Shorter - The History of Psychiatry as Clinical Science
@@ -1053,9 +1067,15 @@ keywords:
     papers:
     - 2015 - Brock - Presentism and Diversity in the History of Psychology
   Eurocentrism:
-    count: 1
+    count: 2
     papers:
     - 2015 - Brock - Presentism and Diversity in the History of Psychology
+    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  Historiography:
+    count: 2
+    papers:
+    - 2015 - Brock - Presentism and Diversity in the History of Psychology
+    - 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
   Indigenised psychology:
     count: 1
     papers:
@@ -1145,21 +1165,10 @@ keywords:
     count: 1
     papers:
     - 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
-  historiography:
-    count: 2
-    papers:
-    - 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
-    - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
   internalism:
     count: 1
     papers:
     - 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
-  presentism:
-    count: 3
-    papers:
-    - 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
-    - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
-    - 2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission
   whig-history:
     count: 1
     papers:
@@ -1197,35 +1206,23 @@ keywords:
     papers:
     - 2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology
     - 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
-  Belmont Report:
+  Newfoundland:
     count: 1
     papers:
     - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Bioethics discourse:
+  bioethics:
     count: 1
     papers:
     - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Canadian eugenics:
+  human subjects:
     count: 1
     papers:
     - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Historical presentism:
+  terminological presentism:
     count: 1
     papers:
     - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Human subjects research:
-    count: 1
-    papers:
-    - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Informed consent:
-    count: 1
-    papers:
-    - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Intellectual presentism:
-    count: 1
-    papers:
-    - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
-  Vulnerable populations:
+  vulnerable populations:
     count: 1
     papers:
     - 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
@@ -1253,40 +1250,39 @@ keywords:
     count: 1
     papers:
     - 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
-  Biological psychiatry:
-    count: 2
-    papers:
-    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-    - A History of Psychiatry - 07
-  Constitutional flaw:
-    count: 1
-    papers:
-    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Degeneration:
-    count: 1
-    papers:
-    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
   Finnish psychiatry:
     count: 1
     papers:
     - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Hereditary burden:
+  Pitkäniemi Hospital:
     count: 1
     papers:
     - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Medicalization of trauma:
+  child psychiatry:
     count: 1
     papers:
     - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Present-centered historical approach:
+  constitutional psychopathy:
     count: 1
     papers:
     - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Psychopathy:
+  hereditarian explanation:
     count: 1
     papers:
     - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
-  Social control:
+  patient records:
+    count: 1
+    papers:
+    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  present-centred selection criteria:
+    count: 1
+    papers:
+    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  psychopathy:
+    count: 1
+    papers:
+    - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  socioeconomic factors:
     count: 1
     papers:
     - 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
@@ -1318,10 +1314,6 @@ keywords:
     count: 1
     papers:
     - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
-  historicism:
-    count: 1
-    papers:
-    - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
   intellectual-genealogies:
     count: 1
     papers:
@@ -1330,35 +1322,44 @@ keywords:
     count: 1
     papers:
     - 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
-  Durée (Duration):
+  Bergson:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Ichzeit-Weltzeit:
+  Minkowski:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Phenomenological psychiatry:
+  depression:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Psychopathologies of time:
+  lived time:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Subjective internal duration:
+  phenomenology:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Syntony:
+  psychiatry:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Temporal synthesis:
+  psychopathology:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
-  Time-sense:
+  schizophrenia:
+    count: 1
+    papers:
+    - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
+  temporality:
+    count: 2
+    papers:
+    - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
+    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  time:
     count: 1
     papers:
     - 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
@@ -1388,94 +1389,78 @@ keywords:
     count: 1
     papers:
     - 2019 - Houston - Past and “pastism” in the history of psychiatry
-  Animal Spirits:
+  Enlightenment medicine:
     count: 1
     papers:
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-  Association of Ideas:
+  historiography of psychiatry:
     count: 1
     papers:
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-  Brain-based localization:
+  history of psychiatry:
     count: 1
     papers:
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-  History of psychiatry:
+  integrative pluralism:
     count: 1
     papers:
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-  Mind-brain dualism:
+  mind-brain dualism:
     count: 1
     papers:
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-  Moral Therapy:
+  moral therapy:
     count: 1
     papers:
     - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
-  British exceptionalism:
+  psychiatric profession:
+    count: 1
+    papers:
+    - 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
+  british-empire:
     count: 1
     papers:
     - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Cognitive dissonance:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Colonial legacy:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Eugenics:
-    count: 3
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-    - 2023 - Hilton - Our values and our historical understanding of psychiatrists
-    - From Madness to Mental Health - 11
-  Imperialist oppression:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Psychiatric ethics:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Racial hygiene:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Structural racism:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Vergangenheitsbewältigung:
-    count: 1
-    papers:
-    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
-  Contemporary History:
-    count: 1
-    papers:
-    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-  Decentered History:
-    count: 1
-    papers:
-    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-  Eurocentric Provincialism:
-    count: 1
-    papers:
-    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-  Genealogical Approach:
-    count: 1
-    papers:
-    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-  Global Intellectual History:
-    count: 1
-    papers:
-    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-  Regimes of Historicity:
+  cognitive-dissonance:
     count: 2
     papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+    - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
+  culture-wars:
+    count: 1
+    papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  degeneration-theory:
+    count: 2
+    papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+    - From Madness to Mental Health - 11
+  professional-identity:
+    count: 2
+    papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+    - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
+  royal-college-of-psychiatrists:
+    count: 1
+    papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  structural-racism:
+    count: 1
+    papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  vergangenheitsbewältigung:
+    count: 1
+    papers:
+    - 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  genealogical-history:
+    count: 1
+    papers:
     - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
-    - 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
-  Turn to the Present:
+  modernization-theory:
+    count: 1
+    papers:
+    - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  paths-not-taken:
     count: 1
     papers:
     - 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
@@ -1508,20 +1493,23 @@ keywords:
     papers:
     - 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
     - A History of Psychiatry - 06
-  Beneficence and non-maleficence:
+  contextualism:
     count: 1
     papers:
     - 2023 - Hilton - Our values and our historical understanding of psychiatrists
-  Focal sepsis:
+  focal-sepsis:
     count: 1
     papers:
     - 2023 - Hilton - Our values and our historical understanding of psychiatrists
-  Medical ethics:
-    count: 2
+  historiographic-method:
+    count: 1
     papers:
     - 2023 - Hilton - Our values and our historical understanding of psychiatrists
-    - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  Psychiatry history:
+  medical-ethics:
+    count: 1
+    papers:
+    - 2023 - Hilton - Our values and our historical understanding of psychiatrists
+  vergangenheitsbewaeltigung:
     count: 1
     papers:
     - 2023 - Hilton - Our values and our historical understanding of psychiatrists
@@ -1534,6 +1522,10 @@ keywords:
     papers:
     - 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
   Hagiographic representations:
+    count: 1
+    papers:
+    - 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
+  Historiography of psychiatry:
     count: 1
     papers:
     - 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
@@ -1585,31 +1577,35 @@ keywords:
     count: 1
     papers:
     - 2023 - Hoerger - The Fate of the Dead
-  Clinical hubris:
+  discovery-history:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  Dialectical reversal:
+  henry-cotton:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  Interventional fervour:
+  historical-methodology:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  Jetztzeit:
+  jetztzeit:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  Professional continuity:
+  nazi-euthanasia:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  Psychiatric history:
+  opioid-crisis:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
-  The Arcades Project:
+  purdue-pharma:
+    count: 1
+    papers:
+    - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
+  sackler-family:
     count: 1
     papers:
     - 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
@@ -1658,6 +1654,10 @@ keywords:
     papers:
     - 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
   Ideals of Inquiry:
+    count: 1
+    papers:
+    - 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
+  Regimes of Historicity:
     count: 1
     papers:
     - 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
@@ -1741,6 +1741,10 @@ keywords:
     count: 1
     papers:
     - A History of Psychiatry - 02
+  Professionalization of psychiatry:
+    count: 1
+    papers:
+    - A History of Psychiatry - 02
   Therapeutic asylum:
     count: 2
     papers:
@@ -1804,15 +1808,18 @@ keywords:
     papers:
     - A History of Psychiatry - 04
     - A History of Psychiatry - 07
+  Alienism:
+    count: 1
+    papers:
+    - A History of Psychiatry - 05
   Doctrine of degeneration:
     count: 1
     papers:
     - A History of Psychiatry - 05
   Hydrotherapy:
-    count: 2
+    count: 1
     papers:
     - A History of Psychiatry - 05
-    - From Madness to Mental Health - 11
   Nerve-specialism:
     count: 1
     papers:
@@ -1857,6 +1864,10 @@ keywords:
     count: 1
     papers:
     - A History of Psychiatry - 06
+  Biological psychiatry:
+    count: 1
+    papers:
+    - A History of Psychiatry - 07
   Depatterning:
     count: 1
     papers:
@@ -1870,10 +1881,9 @@ keywords:
     papers:
     - A History of Psychiatry - 07
   Neurosyphilis:
-    count: 2
+    count: 1
     papers:
     - A History of Psychiatry - 07
-    - From Madness to Mental Health - 11
   Organic psychiatry:
     count: 1
     papers:
@@ -1907,6 +1917,10 @@ keywords:
     count: 1
     papers:
     - A History of Psychiatry - 08
+  Psychopharmacology:
+    count: 1
+    papers:
+    - A History of Psychiatry - 08
   Quantitative genetics:
     count: 1
     papers:
@@ -1931,6 +1945,11 @@ keywords:
     count: 1
     papers:
     - A History of Psychiatry - 09
+  Medicalization:
+    count: 2
+    papers:
+    - A History of Psychiatry - 09
+    - From Madness to Mental Health - 15
   Neo-Kraepelinians:
     count: 1
     papers:
@@ -1948,6 +1967,10 @@ keywords:
     papers:
     - A History of Psychiatry - 09
   Allopathic treatment:
+    count: 1
+    papers:
+    - From Madness to Mental Health - 03
+  Ancient psychiatry:
     count: 1
     papers:
     - From Madness to Mental Health - 03
@@ -1991,35 +2014,34 @@ keywords:
     count: 1
     papers:
     - From Madness to Mental Health - 04
-  Clinical observation:
+  antiphlogisticism:
     count: 1
     papers:
     - From Madness to Mental Health - 06
-  Monomania:
+  enlightenment:
     count: 1
     papers:
     - From Madness to Mental Health - 06
-  Psychischer Arzt:
+  monomania:
     count: 1
     papers:
     - From Madness to Mental Health - 06
-  Psychosomatic medicine:
+  moral-treatment:
     count: 1
     papers:
     - From Madness to Mental Health - 06
-  Romanticism in psychiatry:
+  psychosomatic:
     count: 1
     papers:
     - From Madness to Mental Health - 06
-  Traitement Moral:
+  romanticism:
     count: 1
     papers:
     - From Madness to Mental Health - 06
   Antipsychiatry:
-    count: 2
+    count: 1
     papers:
     - From Madness to Mental Health - 07
-    - From Madness to Mental Health - 14
   Colonial psychiatry:
     count: 1
     papers:
@@ -2096,31 +2118,35 @@ keywords:
     count: 1
     papers:
     - From Madness to Mental Health - 10
-  Compulsory sterilization:
+  buck-v-bell:
     count: 1
     papers:
     - From Madness to Mental Health - 11
-  Degeneracy theory:
+  compulsory-sterilization:
     count: 1
     papers:
     - From Madness to Mental Health - 11
-  Empirical method (psychiatry):
+  general-paresis:
     count: 1
     papers:
     - From Madness to Mental Health - 11
-  General paresis:
+  hydrotherapy:
     count: 1
     papers:
     - From Madness to Mental Health - 11
-  Malaria inoculation:
+  malaria-inoculation:
     count: 1
     papers:
     - From Madness to Mental Health - 11
-  Race-biology:
+  manic-depressive:
     count: 1
     papers:
     - From Madness to Mental Health - 11
-  Somatic turn:
+  non-specific-therapy:
+    count: 1
+    papers:
+    - From Madness to Mental Health - 11
+  patient-narrative:
     count: 1
     papers:
     - From Madness to Mental Health - 11
@@ -2196,35 +2222,23 @@ keywords:
     count: 1
     papers:
     - From Madness to Mental Health - 13
-  Colonial Psychiatry:
+  colonial-psychiatry:
     count: 1
     papers:
     - From Madness to Mental Health - 14
-  Custodial Psychiatry:
+  democratic-psychiatry:
     count: 1
     papers:
     - From Madness to Mental Health - 14
-  Medical Model:
+  institutional-violence:
     count: 1
     papers:
     - From Madness to Mental Health - 14
-  North African Syndrome:
+  myth-of-mental-illness:
     count: 1
     papers:
     - From Madness to Mental Health - 14
-  Situational Diagnosis:
-    count: 1
-    papers:
-    - From Madness to Mental Health - 14
-  Social Determinants of Health:
-    count: 1
-    papers:
-    - From Madness to Mental Health - 14
-  Social Psychiatry:
-    count: 1
-    papers:
-    - From Madness to Mental Health - 14
-  The Myth of Mental Illness:
+  social-psychiatry:
     count: 1
     papers:
     - From Madness to Mental Health - 14
