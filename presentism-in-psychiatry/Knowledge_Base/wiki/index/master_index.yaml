@@ -1,0 +1,1397 @@
+papers:
+- id: 001-1-puzzles-of-mental-illness
+  title: 001-1-puzzles-of-mental-illness
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/001-1-puzzles-of-mental-illness.md
+  source_type: markdown
+  wiki_slug: 001-1-puzzles-of-mental-illness
+  summary_path: sources/001-1-puzzles-of-mental-illness.md
+  llm_keywords:
+  - Harmful Dysfunction
+  - Biomedical Model
+  - Cultural Relativism
+  - Incomprehensibility
+  - DSM-5
+  - Socio-Political Myth
+  - Mental Health Sociology
+  - Sanity vs Madness Boundary
+- id: 001-chapter-one
+  title: 001-chapter-one
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/001-chapter-one.md
+  source_type: markdown
+  wiki_slug: 001-chapter-one
+  summary_path: sources/001-chapter-one.md
+  llm_keywords:
+  - Madness vs. Mental Illness
+  - Unreason
+  - Aliénisme
+  - Retrospective diagnosis
+  - Social warrant
+  - Professionalization of psychiatry
+  - Socio-cultural dimensions of madness
+  - Psychiatric categories
+- id: 002-2-before-psychiatry
+  title: 002-2-before-psychiatry
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/002-2-before-psychiatry.md
+  source_type: markdown
+  wiki_slug: 002-2-before-psychiatry
+  summary_path: sources/002-2-before-psychiatry.md
+  llm_keywords:
+  - Contextualism in Diagnosis
+  - Humoral Theory
+  - Melancholia
+  - Hippocratic School
+  - Galenic Medical Culture
+  - Pre-modern psychiatry
+  - Rationalist theories of the soul
+  - '"Without cause" criterion'
+- id: 002-chapter-two
+  title: 002-chapter-two
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/002-chapter-two.md
+  source_type: markdown
+  wiki_slug: 002-chapter-two
+  summary_path: sources/002-chapter-two.md
+  llm_keywords:
+  - Humoral Theory
+  - Divine Madness
+  - Hippocratic Corpus
+  - Supernaturalism
+  - Temple medicine
+  - Melancholy
+  - Hysteria
+  - Prophetic Madness
+  - Naturalism
+  - Ancient psychiatry
+- id: 003-3-a-biological-century
+  title: 003-3-a-biological-century
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/003-3-a-biological-century.md
+  source_type: markdown
+  wiki_slug: 003-3-a-biological-century
+  summary_path: sources/003-3-a-biological-century.md
+  llm_keywords:
+  - Moral Treatment
+  - Biomedical Paradigm
+  - Degeneration Theory
+  - Course-and-Outcome Classification
+  - Neurasthenia
+  - Phrenology
+  one_line_finding: Psychiatry transitioned from utopian 'moral treatment' to a biomedical paradigm that reduced mental illness to organic brain disease, though it continued to rely on common-sense 'without cause' criteria for diagnosis.
+- id: 003-chapter-three
+  title: 003-chapter-three
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/003-chapter-three.md
+  source_type: markdown
+  wiki_slug: 003-chapter-three
+  summary_path: sources/003-chapter-three.md
+  llm_keywords:
+  - Galenism
+  - Humoral Imbalance
+  - Hagiotherapy
+  - Translation Movement
+  - Academy of Gundishapur
+  - Canon of Medicine
+  - Jinn
+  - Medieval Psychiatry
+- id: 004-4-freud-s-transformation-of-normality
+  title: 004-4-freud-s-transformation-of-normality
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/004-4-freud-s-transformation-of-normality.md
+  source_type: markdown
+  wiki_slug: 004-4-freud-s-transformation-of-normality
+  summary_path: sources/004-4-freud-s-transformation-of-normality.md
+  llm_keywords:
+  - Transformation of normality
+  - Psychoanalysis
+  - Repression
+  - Oedipus complex
+  - Parapraxes
+  - Neurotic anxiety
+  - Transference
+  - Psychic reality
+  - Incest taboo
+  - Pathologizing the ordinary
+- id: 004-chapter-four
+  title: 004-chapter-four
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/004-chapter-four.md
+  source_type: markdown
+  wiki_slug: 004-chapter-four
+  summary_path: sources/004-chapter-four.md
+  llm_keywords:
+  - Melancholia
+  - Humoralism
+  - Naturalization of madness
+  - Senecan fury
+  - Black bile
+  - Demonic possession
+  - Suffocation of the mother
+  - Galenic medical theory
+- id: 005-5-mental-illness-becomes-ubiquitous
+  title: 005-5-mental-illness-becomes-ubiquitous
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/005-5-mental-illness-becomes-ubiquitous.md
+  source_type: markdown
+  wiki_slug: 005-5-mental-illness-becomes-ubiquitous
+  summary_path: sources/005-5-mental-illness-becomes-ubiquitous.md
+  llm_keywords:
+  - Ego Psychology
+  - Neo-Freudianism
+  - PIE Principles
+  - Psychobiological Model
+  - Mental Hygiene Movement
+  - Dimensional View of Mental Illness
+  - Environmentalism (Psychiatry)
+  - DSM-I - DSM-II
+  - Functional reactions
+  - Hereditarian view
+- id: 005-chapter-five
+  title: 005-chapter-five
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/005-chapter-five.md
+  source_type: markdown
+  wiki_slug: 005-chapter-five
+  summary_path: sources/005-chapter-five.md
+  llm_keywords:
+  - Great Confinement
+  - Trade in lunacy
+  - False confinement
+  - Marketization of madness
+  - Lettres de cachet
+  - Interdiction
+  - Institutionalization of madness
+  - Social control of the idle
+  - Public voyeurism
+  - Cultural commodity of madness
+- id: 006-6-the-decline-and-fall-of-dynamic-psychiatry
+  title: 006-6-the-decline-and-fall-of-dynamic-psychiatry
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/006-6-the-decline-and-fall-of-dynamic-psychiatry.md
+  source_type: markdown
+  wiki_slug: 006-6-the-decline-and-fall-of-dynamic-psychiatry
+  summary_path: sources/006-6-the-decline-and-fall-of-dynamic-psychiatry.md
+  llm_keywords:
+  - Dynamic psychiatry
+  - Anti-psychiatry
+  - Biomedical model
+  - Deinstitutionalization
+  - Medical legitimacy
+  - DSM-III
+  - Psychogenic reactions
+  - Community Mental Health Centers (CMHCs)
+- id: 006-chapter-six
+  title: 006-chapter-six
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/006-chapter-six.md
+  source_type: markdown
+  wiki_slug: 006-chapter-six
+  summary_path: sources/006-chapter-six.md
+  llm_keywords:
+  - The English Malady
+  - Nervous Pathology
+  - Animal Magnetism
+  - Mechanical Philosophy
+  - Humoral Theory
+  - Fluidum
+  - Hypochondria
+  - Sensibility
+  - Bedlam madness
+  - Disease of Civilization
+- id: 007-7-diagnostic-psychiatry
+  title: 007-7-diagnostic-psychiatry
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/007-7-diagnostic-psychiatry.md
+  source_type: markdown
+  wiki_slug: 007-7-diagnostic-psychiatry
+  summary_path: sources/007-7-diagnostic-psychiatry.md
+  llm_keywords:
+  - Diagnostic psychiatry
+  - DSM-III
+  - Dynamic psychiatry
+  - Feighner criteria
+  - Reliability vs validity
+  - Disease specificity
+  - Biomedical model
+  - Psychiatric classification
+  - Operational criteria
+  - Major Depressive Disorder (MDD)
+- id: 007-chapter-seven
+  title: 007-chapter-seven
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/007-chapter-seven.md
+  source_type: markdown
+  wiki_slug: 007-chapter-seven
+  summary_path: sources/007-chapter-seven.md
+  llm_keywords:
+  - The Great Confinement
+  - Moral Treatment
+  - Imperial Psychiatry
+  - Total institutions
+  - Language of Nerves
+  - Cult of Curability
+  - Asylum medicine
+  - Institutionalization
+- id: 008-8-biology-re-emerges
+  title: 008-8-biology-re-emerges
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/008-8-biology-re-emerges.md
+  source_type: markdown
+  wiki_slug: 008-8-biology-re-emerges
+  summary_path: sources/008-8-biology-re-emerges.md
+  llm_keywords:
+  - Bio-bio-bio model
+  - Genetic nonspecificity
+  - Polygenic influence
+  - GWAS (Genome-Wide Association Studies)
+  - Biopsychosocial model
+  - DSM (Diagnostic and Statistical Manual of Mental Disorders)
+  - Phenotype vs. Genotype
+  - Medical model (Psychiatry)
+  - BRAIN Initiative
+- id: 008-chapter-eight
+  title: 008-chapter-eight
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/008-chapter-eight.md
+  source_type: markdown
+  wiki_slug: 008-chapter-eight
+  summary_path: sources/008-chapter-eight.md
+  llm_keywords:
+  - Degeneration Theory
+  - Disease of Civilization
+  - Moral Treatment
+  - Alienism
+  - Lamarckism
+  - Social Death
+  - Revolutiana
+  - Inheritance of acquired characteristics
+  - Inquisitions in Lunacy
+  - Physiognomy
+- id: 009-9-the-successes-and-failures-of-the-dsm-revolution
+  title: 009-9-the-successes-and-failures-of-the-dsm-revolution
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/009-9-the-successes-and-failures-of-the-dsm-revolution.md
+  source_type: markdown
+  wiki_slug: 009-9-the-successes-and-failures-of-the-dsm-revolution
+  summary_path: sources/009-9-the-successes-and-failures-of-the-dsm-revolution.md
+  llm_keywords:
+  - Psychiatric nosology
+  - Diagnostic reliability vs validity
+  - Categorical diagnostic model
+  - Dimensional model
+  - Validity gap
+  - Medicalization
+  - A-contextual epidemiological surveys
+  - Psychiatric classification
+  - DSM-III revolution
+- id: 009-chapter-nine
+  title: 009-chapter-nine
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/009-chapter-nine.md
+  source_type: markdown
+  wiki_slug: 009-chapter-nine
+  summary_path: sources/009-chapter-nine.md
+  llm_keywords:
+  - Demi-fous
+  - Neurasthenia
+  - Diagnostic creep
+  - The Rest Cure
+  - Hysteria
+  - Repression
+  - Somatic neurology
+  - Psychodynamic analysis
+- id: 010-10-the-past-and-future-of-mental-illness
+  title: 010-10-the-past-and-future-of-mental-illness
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Between Sanity and Madness/010-10-the-past-and-future-of-mental-illness.md
+  source_type: markdown
+  wiki_slug: 010-10-the-past-and-future-of-mental-illness
+  summary_path: sources/010-10-the-past-and-future-of-mental-illness.md
+  llm_keywords:
+  - Psychiatric nosology
+  - Symptom-based diagnosis
+  - Gene-environment interaction
+  - Epigenetics
+  - Research Domain Criteria (RDC)
+  - Knowledge wipeouts
+  - Biomedical model
+  - Dimensionalization
+  - Brain-disease model
+  - DSM-critique
+- id: 010-chapter-ten
+  title: 010-chapter-ten
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/010-chapter-ten.md
+  source_type: markdown
+  wiki_slug: 010-chapter-ten
+  summary_path: sources/010-chapter-ten.md
+  llm_keywords:
+  - Somatic Psychiatry
+  - Shell Shock
+  - Degeneration Theory
+  - Surgical Bacteriology
+  - Insulin Shock Therapy
+  one_line_finding: The interwar period saw a shift toward aggressive somatic treatments in psychiatry, driven by a crisis of professional legitimacy and the exploitation of captive patient populations.
+- id: 011-chapter-eleven
+  title: 011-chapter-eleven
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/011-chapter-eleven.md
+  source_type: markdown
+  wiki_slug: 011-chapter-eleven
+  summary_path: sources/011-chapter-eleven.md
+  llm_keywords:
+  - Psychoanalysis
+  - Ego Psychology
+  - Combat exhaustion
+  - War neurosis
+  - Therapeutic community
+  - Talk cure
+  - Somatic treatments
+  - Attachment theory
+- id: 012-chapter-twelve
+  title: 012-chapter-twelve
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Madness in Civilization/012-chapter-twelve.md
+  source_type: markdown
+  wiki_slug: 012-chapter-twelve
+  summary_path: sources/012-chapter-twelve.md
+  llm_keywords:
+  - Deinstitutionalization
+  - Total institutions
+  - Institutional neurosis
+  - Drug Myth
+  - Community care
+  - Care in custody
+  - Anti-psychiatry
+  - Psychopharmacology
+  - Basaglia Law
+  - Board and care homes
+- id: 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
+  title: On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
+  authors:
+  - Stocking
+  year: 1965
+  pdf_path: 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences.pdf
+  source_type: pdf
+  wiki_slug: 1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences
+  summary_path: sources/1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences.md
+  llm_keywords:
+  - Presentism
+  - Historicism
+  - Whig history
+  - Pre-paradigmatic science
+  - Historiography of behavioral sciences
+  - Reasonableness vs. Rationality
+  - Kuhn's structure of scientific revolutions
+- id: 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science
+  title: Beyond Presentism and HIstoricism; Understanding the History of Social Science
+  authors:
+  - Seidman
+  year: 1983
+  pdf_path: 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science.pdf
+  source_type: pdf
+  wiki_slug: 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science
+  summary_path: sources/1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science.md
+  llm_keywords:
+  - Presentism
+  - Historicism
+  - Intentionalism
+  - Postpositivism
+  - Whiggish history
+  - New Historicism
+  - Analytical realm
+  - Ideological realm
+  - Historiography of social science
+  - Contextualism
+- id: 2000 - Beer et al. - History of psychiatric disorders and treatments
+  title: History of psychiatric disorders and treatments
+  authors:
+  - Beer et al.
+  year: 2000
+  pdf_path: 2000 - Beer et al. - History of psychiatric disorders and treatments.pdf
+  source_type: pdf
+  wiki_slug: 2000 - Beer et al. - History of psychiatric disorders and treatments
+  summary_path: sources/2000 - Beer et al. - History of psychiatric disorders and treatments.md
+  llm_keywords:
+  - Cultural Determinism
+  - Moral Treatment
+  - Whig History
+  - Revisionist History
+  - Nosology
+  - De-institutionalization
+  - Post-traumatic Neurosis
+  - Somatic treatments
+  - Epistemological awareness
+  - Psychiatric classification
+- id: 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
+  title: Jack Pressman and the Future of the History of Psychiatry
+  authors:
+  - Burnham
+  year: 2000
+  pdf_path: 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry.pdf
+  source_type: pdf
+  wiki_slug: 2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry
+  summary_path: sources/2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry.md
+  llm_keywords:
+  - Historiography of psychiatry
+  - Critical history
+  - Whig interpretation
+  - Institutional power
+  - Social constructions of mental illness
+  - Medical historiography
+  - Sociological analysis of medicine
+  - Institutional control
+- id: 2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry
+  title: Eugen Bleuler's Place in the History of Psychiatry
+  authors:
+  - Berrios
+  year: 2011
+  pdf_path: 2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry.pdf
+  source_type: pdf
+  wiki_slug: 2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry
+  summary_path: sources/2011 - Berrios - Eugen Bleuler's Place in the History of Psychiatry.md
+  llm_keywords:
+  - Pantheonization
+  - Linear historiography
+  - Presentism
+  - Natural kind
+  - Psychogenesis
+  - Dementia praecox
+  - Physiogenic vs psychogenic origins
+  - Zurich School
+  - Affectivity
+  - Positivist psychiatry
+- id: 2012 - Engstrom - History of psychiatry and its institutions
+  title: History of psychiatry and its institutions
+  authors:
+  - Engstrom
+  year: 2012
+  pdf_path: 2012 - Engstrom - History of psychiatry and its institutions.pdf
+  source_type: pdf
+  wiki_slug: 2012 - Engstrom - History of psychiatry and its institutions
+  summary_path: sources/2012 - Engstrom - History of psychiatry and its institutions.md
+  llm_keywords:
+  - Asylum culture
+  - Deinstitutionalization
+  - Therapeutic governance
+  - Carceral narratives
+  - Psychotropic self
+  - Medical pluralism
+  - Social psychiatry
+  - Material culture in psychiatry
+- id: 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+  title: History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+  authors:
+  - Hirshbein
+  year: 2014
+  pdf_path: 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003.pdf
+  source_type: pdf
+  wiki_slug: 2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003
+  summary_path: sources/2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003.md
+  llm_keywords:
+  - Professional self-definition
+  - Professionalizing purpose of memory
+  - Mental hygiene
+  - Social psychiatry
+  - Historiography
+  - American Psychiatric Association
+  - Neurobiological integration
+  - Professional identity construction
+- id: 2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
+  title: A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
+  authors:
+  - Houston
+  year: 2014
+  pdf_path: 2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820.pdf
+  source_type: pdf
+  wiki_slug: 2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820
+  summary_path: sources/2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820.md
+  llm_keywords:
+  - Latent historiography
+  - Early modern psychiatry
+  - Social constructionism
+  - Presentism
+  - Teleology
+  - Neo-revisionism
+  - Micro-history
+  - Anti-psychiatry
+  - Modernization theory
+- id: 2014 - McPartland - Historicism
+  title: Historicism
+  authors:
+  - McPartland
+  year: 2014
+  pdf_path: 2014 - McPartland - Historicism.pdf
+  source_type: pdf
+  wiki_slug: 2014 - McPartland - Historicism
+  summary_path: sources/2014 - McPartland - Historicism.md
+  llm_keywords:
+  - Historicism
+  - Genetic Method of Explanation
+  - Historical Relativism
+  - Weltanschauung
+  - Grundnorm
+  - Historical School of Law
+  - Pure Theory of Law
+  - Crisis of Historicism
+- id: 2014 - Shorter - The History of Psychiatry as Clinical Science
+  title: The History of Psychiatry as Clinical Science
+  authors:
+  - Shorter
+  year: 2014
+  pdf_path: 2014 - Shorter - The History of Psychiatry as Clinical Science.pdf
+  source_type: pdf
+  wiki_slug: 2014 - Shorter - The History of Psychiatry as Clinical Science
+  summary_path: sources/2014 - Shorter - The History of Psychiatry as Clinical Science.md
+  llm_keywords:
+  - Clinical science (history)
+  - Nosology
+  - Presentism
+  - Iron Triangle
+  - Symptom Pool
+  - Catatonic syndrome
+  - Psychopathology
+  - Diagnostic artifacts
+- id: 2015 - Brock - Presentism and Diversity in the History of Psychology
+  title: Presentism and Diversity in the History of Psychology
+  authors:
+  - Brock
+  year: 2015
+  pdf_path: 2015 - Brock - Presentism and Diversity in the History of Psychology.pdf
+  source_type: pdf
+  wiki_slug: 2015 - Brock - Presentism and Diversity in the History of Psychology
+  summary_path: sources/2015 - Brock - Presentism and Diversity in the History of Psychology.md
+  llm_keywords:
+  - Presentism
+  - Historiography
+  - Reflexive discourse
+  - Priority claims
+  - Indigenised psychology
+  - Eurocentrism
+  - Epistemic categories
+  - Long past vs short history
+- id: 2015 - Deasy - What is Presentism
+  title: What is Presentism
+  authors:
+  - Deasy
+  year: 2015
+  pdf_path: 2015 - Deasy - What is Presentism.pdf
+  source_type: pdf
+  wiki_slug: 2015 - Deasy - What is Presentism
+  summary_path: sources/2015 - Deasy - What is Presentism.md
+  llm_keywords:
+  - Presentism
+  - A-theory
+  - B-theory
+  - Transientism
+  - Pastism
+  - Permanentism
+  - Actualism
+  - Ontology of time
+  - Restrictor Principle
+  - Modal metaphysics
+- id: 2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic
+  title: Could Presentism in the Histories of Psychology Actually be Futuristic
+  authors:
+  - Valsiner, Brinkmann
+  year: 2015
+  pdf_path: 2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic.pdf
+  source_type: pdf
+  wiki_slug: 2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic
+  summary_path: sources/2015 - Valsiner, Brinkmann - Could Presentism in the Histories of Psychology Actually be Futuristic.md
+  llm_keywords:
+  - Open-ended normativity
+  - Origin myths
+  - Presentism
+  - Epistemic markets
+  - De-essentialization
+  - Historiography of psychology
+  - Cultural psychology
+  - Discipline-building
+- id: 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
+  title: The new history of psychology; Some (different) answers to Lovett’s five questions.
+  authors:
+  - Brock
+  year: 2016
+  pdf_path: 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions..pdf
+  source_type: pdf
+  wiki_slug: 2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.
+  summary_path: sources/2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions..md
+  llm_keywords:
+  - historiography
+  - internalism
+  - externalism
+  - presentism
+  - whig-history
+  - critical-history
+  one_line_finding: Brock argues that the 'New History' of psychology represents a fundamental methodological shift toward externalism and critical analysis, countering Lovett's claim that it is a distinction without a difference.
+- id: 2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology
+  title: Forms of presentism in the history of science. Rethinking the project of historical epistemology
+  authors:
+  - Loison
+  year: 2016
+  pdf_path: 2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology.pdf
+  source_type: pdf
+  wiki_slug: 2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology
+  summary_path: sources/2016 - Loison - Forms of presentism in the history of science. Rethinking the project of historical epistemology.md
+  llm_keywords:
+  - Presentism
+  - Historical epistemology
+  - Whiggism
+  - Critical presentism
+  - Empirical presentism
+  - Descriptive presentism
+  - Causal-narrative presentism
+  - Normative presentism
+  - Historicism
+  - Historiography of science
+- id: 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
+  title: The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
+  authors:
+  - Connor
+  year: 2017
+  pdf_path: 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics.pdf
+  source_type: pdf
+  wiki_slug: 2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics
+  summary_path: sources/2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics.md
+  llm_keywords:
+  - Historical presentism
+  - Intellectual presentism
+  - Bioethics discourse
+  - Whig history
+  - Informed consent
+  - Vulnerable populations
+  - Belmont Report
+  - Canadian eugenics
+  - Historiography
+  - Human subjects research
+- id: 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
+  title: The “new history of psychology” and the uses and abuses of dichotomies
+  authors:
+  - Watrin
+  year: 2017
+  pdf_path: 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies.pdf
+  source_type: pdf
+  wiki_slug: 2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies
+  summary_path: sources/2017 - Watrin - The “new history of psychology” and the uses and abuses of dichotomies.md
+  llm_keywords:
+  - New history of psychology
+  - Historiography
+  - Internalism vs. externalism
+  - Presentism vs. historicism
+  - Whiggism
+  - Critical historiography
+  - Textbook historiography
+  - Great Men vs. Zeitgeist
+- id: 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  title: Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  authors:
+  - Parhi
+  year: 2018
+  pdf_path: 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s.pdf
+  source_type: pdf
+  wiki_slug: 2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s
+  summary_path: sources/2018 - Parhi - Heredity as a burden; causes of children’s behavioural problems in Finnish psychiatry between the 1920s and 1950s.md
+  llm_keywords:
+  - Biological psychiatry
+  - Psychopathy
+  - Degeneration
+  - Mental hygiene
+  - Constitutional flaw
+  - Social control
+  - Medicalization of trauma
+  - Present-centered historical approach
+  - Hereditary burden
+  - Finnish psychiatry
+- id: 2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”
+  title: On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”
+  authors:
+  - Bashkow
+  year: 2019
+  pdf_path: 2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”.pdf
+  source_type: pdf
+  wiki_slug: 2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”
+  summary_path: sources/2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”.md
+  llm_keywords:
+  - Presentism
+  - Historicism
+  - Historiography of anthropology
+  - Teleological narrative
+  - Scientific positivism
+  - Enlightened presentism
+  - Naïve positivism
+  - History of the behavioral sciences
+- id: 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
+  title: Voicing the Ancestors; Readings for the Present from Anthropology's Past
+  authors:
+  - Bashkow et al.
+  year: 2019
+  pdf_path: 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past.pdf
+  source_type: pdf
+  wiki_slug: 2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past
+  summary_path: sources/2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past.md
+  llm_keywords:
+  - presentism
+  - historicism
+  - historiography
+  - intellectual-genealogies
+  - anthropology-history
+  - scientific-paradigms
+  one_line_finding: The rigid dichotomy between presentism and historicism is a historical artifact; 'enlightened presentism' allows the recovery of neglected ancestors to nourish current theory.
+- id: 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
+  title: Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
+  authors:
+  - Fryxell
+  year: 2019
+  pdf_path: 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry.pdf
+  source_type: pdf
+  wiki_slug: 2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry
+  summary_path: sources/2019 - Fryxell - Psychopathologies of time; Defining mental illness in early 20th-century psychiatry.md
+  llm_keywords:
+  - Phenomenological psychiatry
+  - Ichzeit-Weltzeit
+  - Durée (Duration)
+  - Temporal synthesis
+  - Time-sense
+  - Syntony
+  - Psychopathologies of time
+  - Subjective internal duration
+- id: 2019 - Houston - Past and “pastism” in the history of psychiatry
+  title: Past and “pastism” in the history of psychiatry
+  authors:
+  - Houston
+  year: 2019
+  pdf_path: 2019 - Houston - Past and “pastism” in the history of psychiatry.pdf
+  source_type: pdf
+  wiki_slug: 2019 - Houston - Past and “pastism” in the history of psychiatry
+  summary_path: sources/2019 - Houston - Past and “pastism” in the history of psychiatry.md
+  llm_keywords:
+  - Pastism
+  - Psychiatric historiography
+  - Anti-psychiatry
+  - Bio-reductionism
+  - Moral therapy
+  - Teleological approach
+  - Early modern medicine
+  - Social control narratives
+- id: 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
+  title: The Emergence of Psychiatry; 1650–1850
+  authors:
+  - Kendler et al.
+  year: 2022
+  pdf_path: 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850.pdf
+  source_type: pdf
+  wiki_slug: 2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850
+  summary_path: sources/2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850.md
+  llm_keywords:
+  - Mind-brain dualism
+  - Alienism
+  - Nosology
+  - Moral Therapy
+  - Brain-based localization
+  - Association of Ideas
+  - Animal Spirits
+  - History of psychiatry
+- id: 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  title: Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  authors:
+  - Lepping, Poole
+  year: 2022
+  pdf_path: 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past.pdf
+  source_type: pdf
+  wiki_slug: 2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past
+  summary_path: sources/2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past.md
+  llm_keywords:
+  - Vergangenheitsbewältigung
+  - Eugenics
+  - Racial hygiene
+  - Structural racism
+  - Colonial legacy
+  - Cognitive dissonance
+  - British exceptionalism
+  - Imperialist oppression
+  - Psychiatric ethics
+- id: 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  title: Introduction; Whose Present Which History
+  authors:
+  - Steinmetz‐Jenkins
+  year: 2022
+  pdf_path: 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History.pdf
+  source_type: pdf
+  wiki_slug: 2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History
+  summary_path: sources/2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History.md
+  llm_keywords:
+  - Presentism
+  - Regimes of Historicity
+  - Global Intellectual History
+  - Eurocentric Provincialism
+  - Genealogical Approach
+  - Decentered History
+  - Contemporary History
+  - Turn to the Present
+- id: 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
+  title: Cycles of reform in the history of psychosis treatment in the United States
+  authors:
+  - George et al.
+  year: 2023
+  pdf_path: 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States.pdf
+  source_type: pdf
+  wiki_slug: 2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States
+  summary_path: sources/2023 - George et al. - Cycles of reform in the history of psychosis treatment in the United States.md
+  llm_keywords:
+  - Cycles of reform
+  - Deinstitutionalization
+  - Coordinated Specialty Care (CSC)
+  - Early psychosis
+  - Moral Treatment
+  - Mental Hygiene
+  - Community Mental Health Centers (CMHCs)
+  - Assertive Community Treatment (ACT)
+  - Disability trap
+  - Critical period
+- id: 2023 - Hilton - Our values and our historical understanding of psychiatrists
+  title: Our values and our historical understanding of psychiatrists
+  authors:
+  - Hilton
+  year: 2023
+  pdf_path: 2023 - Hilton - Our values and our historical understanding of psychiatrists.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Hilton - Our values and our historical understanding of psychiatrists
+  summary_path: sources/2023 - Hilton - Our values and our historical understanding of psychiatrists.md
+  llm_keywords:
+  - Contextualism
+  - Presentism
+  - Focal sepsis
+  - Eugenics
+  - Historiography
+  - Beneficence and non-maleficence
+  - Medical ethics
+  - Psychiatry history
+- id: 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
+  title: Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
+  authors:
+  - Hilton
+  year: 2023
+  pdf_path: 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’
+  summary_path: sources/2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’.md
+  llm_keywords:
+  - Historiography of psychiatry
+  - Hagiographic representations
+  - Critical historical analysis
+  - Institutional memory
+  - Objective historical discovery
+  - Social control theory
+  - Professional ethics in history
+  - Academic impartiality
+- id: 2023 - Hoerger - The Fate of the Dead
+  title: The Fate of the Dead
+  authors:
+  - Hoerger
+  year: 2023
+  pdf_path: 2023 - Hoerger - The Fate of the Dead.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Hoerger - The Fate of the Dead
+  summary_path: sources/2023 - Hoerger - The Fate of the Dead.md
+  llm_keywords:
+  - Politics of redemption
+  - Weak messianic power
+  - Left Conservatism
+  - The Guilted Age
+  - Historical injustice
+  - Memory politics
+  - Transitional justice
+  - Redress of historical injustice
+- id: 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
+  title: Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
+  authors:
+  - Ikkos
+  year: 2023
+  pdf_path: 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
+  summary_path: sources/2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’.md
+  llm_keywords:
+  - Jetztzeit
+  - Dialectical reversal
+  - Interventional fervour
+  - Professional continuity
+  - Clinical hubris
+  - Medical ethics
+  - Psychiatric history
+  - The Arcades Project
+- id: 2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission
+  title: Beyond presentism; Memory studies, deep history and the challenges of transmission
+  authors:
+  - Kennedy, Silverstein
+  year: 2023
+  pdf_path: 2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission
+  summary_path: sources/2023 - Kennedy, Silverstein - Beyond presentism; Memory studies, deep history and the challenges of transmission.md
+  llm_keywords:
+  - presentism
+  - deep history
+  - deep present
+  - soft technologies of memory
+  - decoloniality
+  - cultural memory
+  - Anthropocene
+  one_line_finding: Memory studies must move beyond Eurocentric 'presentism' by integrating 'deep history' and shifting from a model of linear replication to one of relational activation in the 'deep present'.
+- id: 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
+  title: Theory of History, Epistemic Transformations, and Presentism
+  authors:
+  - Miller
+  year: 2023
+  pdf_path: 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Miller - Theory of History, Epistemic Transformations, and Presentism
+  summary_path: sources/2023 - Miller - Theory of History, Epistemic Transformations, and Presentism.md
+  llm_keywords:
+  - Conceptual History (Begriffsgeschichte)
+  - Epistemic Transformation
+  - Presentism
+  - Elective Traditions
+  - Regimes of Historicity
+  - Ideals of Inquiry
+  - Iberian Atlantic
+  - Eurocentric analytical categories
+- id: 2024 - Arya - Racism in psychiatry and the case of presentism
+  title: Racism in psychiatry and the case of presentism
+  authors:
+  - Arya
+  year: 2024
+  pdf_path: 2024 - Arya - Racism in psychiatry and the case of presentism.pdf
+  source_type: pdf
+  wiki_slug: 2024 - Arya - Racism in psychiatry and the case of presentism
+  summary_path: sources/2024 - Arya - Racism in psychiatry and the case of presentism.md
+  llm_keywords:
+  - Presentism
+  - Decolonization
+  - Cultural Psychiatry
+  - White Privilege
+  - Syncretic Approach
+  - Colonial Hegemony
+  - Historiography of Psychiatry
+  - Critical Reflexivity
+- id: 2025 - Banerjee - Presenteeism; A hidden phenomenon with many shades of gray
+  title: Presenteeism; A hidden phenomenon with many shades of gray
+  authors:
+  - Banerjee
+  year: 2025
+  pdf_path: 2025 - Banerjee - Presenteeism; A hidden phenomenon with many shades of gray.pdf
+  source_type: pdf
+  wiki_slug: 2025 - Banerjee - Presenteeism; A hidden phenomenon with many shades of gray
+  summary_path: sources/2025 - Banerjee - Presenteeism; A hidden phenomenon with many shades of gray.md
+  llm_keywords:
+  - Sickness presenteeism
+  - Health-Performance Framework of Presenteeism (HPFP)
+  - Sickness absenteeism
+  - Absenteeism-presenteeism
+  - Cultural presenteeism
+  - Productivity loss
+  - Biometric attendance systems
+  - Occupational medicine
+- id: A History of Psychiatry - 02
+  title: A History of Psychiatry - 02
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 02.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 02
+  summary_path: sources/A History of Psychiatry - 02.md
+  llm_keywords:
+  - Moral therapy
+  - Therapeutic asylum
+  - Custodial asylum
+  - Alienists
+  - Grand Confinement
+  - Professionalization of psychiatry
+  - Institutional regulation
+  - Pre-psychiatric era
+- id: A History of Psychiatry - 03
+  title: A History of Psychiatry - 03
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 03.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 03
+  summary_path: sources/A History of Psychiatry - 03.md
+  llm_keywords:
+  - Moral therapy
+  - Therapeutic asylum
+  - Redistribution effect
+  - Social constructionism
+  - Medical police
+  - Custodial warehouses
+  - Moral treatment
+  - Psychiatric pathology
+- id: A History of Psychiatry - 04
+  title: A History of Psychiatry - 04
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 04.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 04
+  summary_path: sources/A History of Psychiatry - 04.md
+  llm_keywords:
+  - First Biological Psychiatry
+  - Clinical-pathological method
+  - Cerebral localization
+  - Degeneration theory
+  - Therapeutic nihilism
+  - Griesinger model
+  - Brain mythology
+  - Medicalization of mental illness
+  - Iron laws of hysteria
+- id: A History of Psychiatry - 05
+  title: A History of Psychiatry - 05
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 05.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 05
+  summary_path: sources/A History of Psychiatry - 05.md
+  llm_keywords:
+  - Neurasthenia
+  - Odium psychiatricum
+  - Doctrine of degeneration
+  - Rest cure
+  - Hydrotherapy
+  - Nerve-specialism
+  - Alienism
+  - Psychohydraulics
+- id: A History of Psychiatry - 06
+  title: A History of Psychiatry - 06
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 06.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 06
+  summary_path: sources/A History of Psychiatry - 06.md
+  llm_keywords:
+  - Psychoanalytic Hiatus
+  - Sexual Reductionism
+  - Cathartic Therapy
+  - Transference-Neurosis
+  - Medical Monopoly
+  - Mental Hygiene
+  - Professional Exit Strategy
+  - Biological Trajectory of Psychiatry
+- id: A History of Psychiatry - 07
+  title: A History of Psychiatry - 07
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 07.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 07
+  summary_path: sources/A History of Psychiatry - 07.md
+  llm_keywords:
+  - Therapeutic nihilism
+  - Neurosyphilis
+  - Malarial fever cure
+  - Prolonged sleep (Dauernarkose)
+  - Insulin shock therapy
+  - Depatterning
+  - Psychic driving
+  - Biological psychiatry
+  - Organic psychiatry
+- id: A History of Psychiatry - 08
+  title: A History of Psychiatry - 08
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 08.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 08
+  summary_path: sources/A History of Psychiatry - 08.md
+  llm_keywords:
+  - Second Biological Psychiatry
+  - Quantitative genetics
+  - Psychopharmacology
+  - Psychogenic theories
+  - Monozygotic vs. Dizygotic Concordance
+  - Twin and adoption studies
+  - Neurotransmitters
+  - Chlorpromazine
+  - Schizophrenogenic mother
+  - Chemical substrates
+- id: A History of Psychiatry - 09
+  title: A History of Psychiatry - 09
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: A History of Psychiatry/A History of Psychiatry - 09.pdf
+  source_type: pdf
+  wiki_slug: A History of Psychiatry - 09
+  summary_path: sources/A History of Psychiatry - 09.md
+  llm_keywords:
+  - Neo-Kraepelinians
+  - Operational criteria
+  - Diagnostic scientism
+  - Medicalization
+  - Pathologization
+  - Descriptive medical model
+  - Psychodynamic theory
+  - Psychiatric nomenclature
+- id: From Madness to Mental Health - 03
+  title: From Madness to Mental Health - 03
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 03.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 03
+  summary_path: sources/From Madness to Mental Health - 03.md
+  llm_keywords:
+  - Divine madness
+  - Humoral theory
+  - Somaticism
+  - Hysteria
+  - Wandering womb
+  - Allopathic treatment
+  - Religious ecstasy
+  - Ancient psychiatry
+- id: From Madness to Mental Health - 04
+  title: From Madness to Mental Health - 04
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 04.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 04
+  summary_path: sources/From Madness to Mental Health - 04.md
+  llm_keywords:
+  - Humoralism
+  - Melancholia
+  - Black bile
+  - Lovesickness ('Ishq)
+  - Temperament Restoration
+  - Psychosomatic link
+  - Folly
+  - Medieval medicine
+- id: From Madness to Mental Health - 06
+  title: From Madness to Mental Health - 06
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 06.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 06
+  summary_path: sources/From Madness to Mental Health - 06.md
+  llm_keywords:
+  - Moral Treatment
+  - Nosology
+  - Monomania
+  - Psychosomatic medicine
+  - Clinical observation
+  - Traitement Moral
+  - Psychischer Arzt
+  - Romanticism in psychiatry
+- id: From Madness to Mental Health - 07
+  title: From Madness to Mental Health - 07
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 07.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 07
+  summary_path: sources/From Madness to Mental Health - 07.md
+  llm_keywords:
+  - Moral treatment
+  - Patient agency
+  - Colonial psychiatry
+  - Antipsychiatry
+  - Delusions of falsehood
+  - Institutionalization
+  - Moral vs. Physical causes of insanity
+  - Involuntary commitment
+- id: From Madness to Mental Health - 08
+  title: From Madness to Mental Health - 08
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 08.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 08
+  summary_path: sources/From Madness to Mental Health - 08.md
+  llm_keywords:
+  - Phrenology
+  - Neurasthenia
+  - Cortical sensory theory
+  - Inversio sexualis
+  - Brain localization
+  - Cerebrasthenia
+  - Myelasthenia
+  - Counter-irritation
+  - Medicalization of behavior
+  - Physiological substrates
+- id: From Madness to Mental Health - 10
+  title: From Madness to Mental Health - 10
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 10.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 10
+  summary_path: sources/From Madness to Mental Health - 10.md
+  llm_keywords:
+  - shell-shock
+  - traumatic-neuroses
+  - military-psychiatry
+  - suggestibility
+  - anxiety-neurosis
+  - re-education
+  one_line_finding: War neurosis manifests differently by rank, with privates prone to suggestible hysteria and officers to anxiety neurosis driven by repression and responsibility.
+- id: From Madness to Mental Health - 11
+  title: From Madness to Mental Health - 11
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 11.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 11
+  summary_path: sources/From Madness to Mental Health - 11.md
+  llm_keywords:
+  - Somatic turn
+  - Hydrotherapy
+  - Eugenics
+  - Malaria inoculation
+  - Neurosyphilis
+  - General paresis
+  - Degeneracy theory
+  - Race-biology
+  - Compulsory sterilization
+  - Empirical method (psychiatry)
+- id: From Madness to Mental Health - 12
+  title: From Madness to Mental Health - 12
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 12.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 12
+  summary_path: sources/From Madness to Mental Health - 12.md
+  llm_keywords:
+  - Race Hygiene
+  - Psychiatric Eugenics
+  - T-4 Program
+  - Lebensunwertes Leben
+  - Compulsory Sterilization
+  - 14f13 Program
+  - Productive Activity
+  - Hereditary Health Court
+- id: From Madness to Mental Health - 13
+  title: From Madness to Mental Health - 13
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 13.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 13
+  summary_path: sources/From Madness to Mental Health - 13.md
+  llm_keywords:
+  - Political abuse of psychiatry
+  - Reformist delusions
+  - Dialectical materialism
+  - Forensic psychiatry
+  - Declaration of Hawaii
+  - World Psychiatric Association (WPA)
+  - Serbsky Institute
+  - Paranoid development
+  - Pathologization of dissent
+  - Clinical objectivity
+- id: From Madness to Mental Health - 14
+  title: From Madness to Mental Health - 14
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 14.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 14
+  summary_path: sources/From Madness to Mental Health - 14.md
+  llm_keywords:
+  - Antipsychiatry
+  - Deinstitutionalization
+  - Social Psychiatry
+  - The Myth of Mental Illness
+  - North African Syndrome
+  - Situational Diagnosis
+  - Medical Model
+  - Colonial Psychiatry
+  - Custodial Psychiatry
+  - Social Determinants of Health
+- id: From Madness to Mental Health - 15
+  title: From Madness to Mental Health - 15
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: From Madness to Mental Health/From Madness to Mental Health - 15.pdf
+  source_type: pdf
+  wiki_slug: From Madness to Mental Health - 15
+  summary_path: sources/From Madness to Mental Health - 15.md
+  llm_keywords:
+  - The Psychoboom
+  - Client-Centered Therapy
+  - Cognitive-Behavioral Therapy
+  - Biomedical model
+  - DSM-III
+  - Chlorpromazine
+  - Automatic thoughts
+  - Custodial asylum care
+  - Medicalization
+  - Recovery models
+last_updated: '2026-04-26'

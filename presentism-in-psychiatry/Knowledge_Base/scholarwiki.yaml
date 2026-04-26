@@ -1,0 +1,7 @@
+raw_dir: ./raw/sources
+summaries_dir: ./wiki/sources
+wiki_dir: ./wiki
+llm:
+  provider: ollama
+  model: gemma4:31b-cloud
+concept_threshold: 3
