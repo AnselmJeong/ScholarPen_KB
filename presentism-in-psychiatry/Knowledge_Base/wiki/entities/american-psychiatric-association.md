@@ -4,23 +4,21 @@ title: "American Psychiatric Association"
 entity_type: "org"
 tags: []
 related: []
-created: 2026-04-26
-updated: 2026-04-26
+created: 2026-04-30
+updated: 2026-04-30
 papers:
   - "001-chapter-one"
-  - "008-chapter-eight"
-  - "2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’"
-  - "A History of Psychiatry - 03"
-  - "A History of Psychiatry - 06"
+  - "011-chapter-eleven"
+  - "A History of Psychiatry - 09"
+  - "From Madness to Mental Health - 15"
 ---
 # American Psychiatric Association
 
 ## What It Is
-The American Psychiatric Association is a professional organization dedicated to the standardization of psychiatric diagnosis and the oversight of the field's practitioners. It is primarily recognized as the authority responsible for the publication of the DSM. In this literature, it serves as a focal point for discussing the historical evolution and professional shifts within psychiatry.
+The American Psychiatric Association (APA) is the professional organization representing psychiatrists in the United States, best known for publishing the *Diagnostic and Statistical Manual of Mental Disorders* (DSM). Its dramatic mid-century membership growth—from under 5,000 in 1948 to over 27,000 by 1976—reflects the expansion and professionalization of psychiatry as a medical specialty. In the literature surveyed, the APA serves as a key institutional actor whose authority, internal conflicts, and political lobbying shape the contested domain of psychiatric classification.
 
 ## Role in the Literature
-- In [[001-chapter-one]]: The authority responsible for the DSM and the standardization of psychiatric diagnosis.
-- In [[008-chapter-eight]]: A professional body descending from an 1844 Philadelphia association.
-- In [[2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’]]: Noted for its historical ties to the Sackler family.
-- In [[A History of Psychiatry - 03]]: A professional body emerging from early asylum efforts.
-- In [[A History of Psychiatry - 06]]: The professional body that tracked the membership shift from asylum-based to private practitioners.
+- In [[001-chapter-one]]: The APA's DSM is discussed as emblematic of psychiatry's contested authority and the controversies surrounding psychiatric classification.
+- In [[011-chapter-eleven]]: The APA was profoundly reshaped by psychoanalysis, with its membership growing from under 5,000 (1948) to over 27,000 (1976) and analysts occupying the presidency.
+- In [[A History of Psychiatry - 09]]: The APA appears as a central actor in DSM development and political lobbying for market share.
+- In [[From Madness to Mental Health - 15]]: The APA’s membership grew from 2,423 to 18,407 between 1940 and 1970, and it is identified as the publisher of the DSM.

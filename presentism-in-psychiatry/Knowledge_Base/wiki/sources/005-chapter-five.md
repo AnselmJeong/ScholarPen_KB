@@ -1,76 +1,77 @@
-```yaml
 ---
 type: source
-title: "Madhouses and Mad-Doctors: Changing Responses to Madness"
-created: 2026-04-26
-updated: 2026-04-26
-tags: [madhouses, trade in lunacy, false confinement, great confinement, private madhouses, Bedlam, representation of madness, 18th century psychiatry, consumer society, lettres de cachet]
+title: "Madhouses and Mad-Doctors"
+created: 2026-04-30
+updated: 2026-04-30
+tags: [trade in lunacy, false confinement, Great Confinement, madhouses, Bedlam, Salpêtrière, representation of madness, gothic novel, mad scene, moral architecture]
 related: []
 sources: ["Madness in Civilization/005-chapter-five.md"]
-one_line_finding: "The rise of madhouses in 18th-century Europe was driven more by commercial and social control motives than by medical advancement, as madness became both a commodity and a source of public fear."
+one_line_finding: "The 'Great Confinement' thesis is overstated; English madhouses were commercial enterprises that operated under a cloud of suspicion about false confinement."
 ---
-```
 
-# Madhouses and Mad-Doctors: Changing Responses to Madness
+# Madhouses and Mad-Doctors
 
 ## Summary
 
-This chapter examines the emergence of specialized institutions for the mad in 17th- and 18th-century Europe, arguing that this development was not primarily medical but rather social, commercial, and political. It challenges Michel Foucault's influential "Great Confinement" thesis by marshalling demographic evidence from French institutions like the Salpêtrière and Montpellier, showing that the mad were only a small fraction of those institutionalized alongside beggars, prostitutes, and the idle poor. Most care for the insane still fell to families, who used rough expedients like chaining relatives in attics or cellars.
+This chapter examines the emergence and operation of madhouses in seventeenth- and eighteenth-century Europe, focusing on England and France, and argues that the development of institutional responses to madness was driven primarily by commercial and social forces rather than medical or humanitarian ones. The author draws on a wide range of sources—archival records, legal cases, literary works, visual art, and opera—to reconstruct the lived reality of confinement and the cultural anxieties that surrounded it.
 
-The chapter traces the rise of private madhouses in England as part of a "trade in lunacy" driven by consumer demand from affluent families seeking to manage troublesome relatives discreetly and protect family honour. Entrepreneurs from diverse backgrounds—clergymen, widows, apothecaries, physicians—entered this unregulated business, with some amassing considerable fortunes. The Dutch *dolhuizen* offered a contrasting model, funded through public lotteries rather than private profit.
+The chapter directly challenges Michel Foucault's influential thesis of a "Great Confinement" in the classical age, showing that the mad formed only a small fraction of those incarcerated in *Hôpitaux généraux* and that most mentally ill people remained with families, in jails, or in poorhouses. In England, a distinct "trade in lunacy" arose as entrepreneurial individuals—ranging from clergymen to apothecaries to widows—began operating private madhouses for profit, capitalizing on families' desires to discreetly remove troublesome relatives.
 
-A central contribution of the chapter is its analysis of how madness was commodified in art, opera, and literature. William Hogarth's *A Rake's Progress*, Handel's *Orlando*, Mozart's *Idomeneo*, gothic novels like Eliza Haywood's *The Distress'd Orphan*, and sentimental novels like Henry Mackenzie's *The Man of Feeling* all exploited mad figures to attract paying audiences. These representations shaped public perceptions of insanity as terrifying, pitiable, or entertaining. The chapter concludes by highlighting the tension between the madhouse as a potential site of treatment and as a locus of fear, abuse, and scandal—a duality that would fuel later reform movements.
+A central finding is that these madhouses operated under persistent suspicion of false confinement. Contemporary pamphlets, lawsuits, and novels repeatedly dramatized the fear that sane people, especially women, were being locked up by scheming relatives or corrupt keepers. Cultural representations—from Hogarth's *A Rake's Progress* to gothic novels and operatic mad scenes—both reflected and amplified these anxieties, shaping public perceptions of asylums as places of horror, titillation, and injustice. The chapter argues that the unregulated state of the mad-business, while permitting abuses, also allowed for experimental approaches to treatment that would later be systematized.
 
 ## Key Entities
 
-- **Bethlem Royal Hospital (Bedlam)** (org) — iconic London asylum, symbol of both charity and scandal; its new 1676 building featured Cibber's sculptures of Melancholy and Raving Madness
-- **St Luke's Hospital for Lunatics** (org) — deliberately plain charity asylum founded in 1751 as a contrast to Bedlam's ostentation
-- **Hôpital général (Salpêtrière)** (org) — Parisian general hospital housing over 10,000 inmates by 1790, with mad constituting only 1/10 of the population; used to critique Foucault's "Great Confinement"
-- **Dolhuizen ('s-Hertogenbosch, Amsterdam)** (org) — early Dutch madhouses, tiny in scale, funded through public lotteries with elaborate prize drawings
-- **Private Madhouses (Whitmore House, White House, Red House)** (org) — profit-driven institutions central to the English "trade in lunacy," often adapted from decaying mansions
-- **"A Rake's Progress"** (tool) — Hogarth's series of eight paintings and engravings depicting Tom Rakewell's descent into madness at Bedlam as the wages of sin
-- **"Orlando" / "Idomeneo"** (tool) — operas by Handel (1733) and Mozart (1781) featuring mad scenes that used musical devices to convey mental disintegration
-- **"The Distress'd Orphan"** (tool) — Eliza Haywood's 1726 gothic novella about false confinement in a madhouse, continuously in print throughout the 18th century
+- **Bedlam (Bethlehem Hospital)** (org) — The iconic English asylum, rebuilt in 1676 in Moorfields; a symbol of both charitable benevolence and horrific spectacle.
+- **St Luke's Hospital** (org) — Founded in 1751 as a plainer, more sober competitor to Bedlam; deliberately austere architecture.
+- **Salpêtrière** (org) — The largest of the French *Hôpitaux généraux*; housed a diverse population including a small minority of insane women.
+- **Amsterdam Dolhuis** (org) — A specialized madhouse founded in 1562, expanded via lottery in 1617; model of Dutch commercial approach.
+- **Charenton Asylum** (org) — French institution where the Marquis de Sade was confined; later central to reform debates.
+- **Whitmore House / White House / Red House** (org) — Large private madhouses in London, owned by Thomas Warburton; housed hundreds of patients by 1815.
 
 ## Key Concepts
 
-- **Great Confinement** — Michel Foucault's thesis that the 17th-18th centuries saw mass incarceration of the mad; the chapter argues this overstates the evidence by showing institutionalized populations were heterogeneous and mad were a minority
-- **Trade in Lunacy** — the commercial enterprise of confining and managing the mad for profit in 18th-century England, driven by family demand for discreet removal of troublesome relatives
-- **Madness as Commodity** — the use of mad figures in art, opera, and literature to attract paying audiences, making insanity a marketable cultural product
-- **False Confinement** — the fear that sane people were imprisoned in madhouses by family members for convenience or malice, a recurring theme in gothic fiction and public discourse
-- **Maisons de santé** — French private madhouses associated with abuse via *lettres de cachet*, euphemistically named "health houses"
-- **Lettre de cachet** — royal warrant authorizing indefinite detention without judicial appeal, used for mad individuals and political prisoners alike; abolished in 1790
-- **Interdiction** — formal French legal proceeding before a magistrate to authorize confinement of a mad person and protect their property; expensive and often avoided
-- **Sentimental Novel** — literary genre using madhouse visits to display the refined sensibility of the protagonist, as in Mackenzie's *The Man of Feeling*
+- **Trade in lunacy** — The commercialization of madhouse-keeping in eighteenth-century England, where entrepreneurs operated private asylums for profit, serving families who sought discreet removal of mad relatives.
+- **False confinement** — The alleged or actual practice of locking up sane individuals (often women) in madhouses for family convenience, inheritance, or to silence inconvenient persons; a persistent theme in lawsuits and literature.
+- **Great Confinement** — Foucault's thesis that the seventeenth and eighteenth centuries saw the mass incarceration of the insane, which the author argues is "vastly overstated" based on demographic evidence.
+- **Moral vs. utilitarian architecture** — The shift from Bedlam's ornate façade to St Luke's "plainness and simplicity," reflecting changing aesthetics of charity and efficiency.
+- **Mad scene** — A recognized operatic set piece (e.g., Handel's *Orlando*, Mozart's *Idomeneo*, Donizetti's *Lucia di Lammermoor*) using musical devices to depict mental disintegration.
+- **Madness as spectacle** — The practice of visiting Bedlam for entertainment, depicted by Hogarth and criticized by sentimental novelists.
 
 ## Main Arguments & Findings
 
-- **Core claim**: The 17th-18th centuries did not see a "Great Confinement" of the mad; they were a minority among the institutionalized poor.
-  - Evidence: Data from Salpêtrière (mad were 1/10 of inmates in 1790) and Montpellier (only 25 cells for a city of 30,000); most mad were cared for by families or chained at home
-  - Strength: Strongly supported by demographic evidence and local case studies; effectively challenges Foucault's generalization but limited to Western Europe
+- **Core claim: Foucault's "Great Confinement" thesis is vastly overstated.**
+  - Evidence: At Montpellier only 20 lunatics were confined in a city of 30,000; at the Salpêtrière in 1790 the insane made up less than one-tenth of 10,000 inmates.
+  - Strength: Strongly supported by demographic and archival data; the critique is well-grounded but limited to France and England.
 
-- **Core claim**: The rise of madhouses was driven by commercial "trade in lunacy" and family demand for discreet removal of troublesome relatives, not by medical progress.
-  - Evidence: Rise of private madhouses in England; mad-doctors like Battie and Addington grew wealthy; parishes also contracted for pauper lunatics; inherited family businesses
-  - Strength: Well-documented with multiple case studies; highlights economic and social motives over medical ones; doctors played a marginal role in daily management
+- **Core claim: English madhouses emerged as a commercial enterprise, not a medical one.**
+  - Evidence: Madhouse keepers came from diverse backgrounds (clergymen, widows, apothecaries); care was provided by lay keepers or Catholic sisters, not physicians; patients were confined for social convenience rather than treatment.
+  - Strength: Well-argued using examples like Warburton, Battie, and Addington; supported by the absence of medical involvement in most cases.
 
-- **Core claim**: Madness was commodified in 18th-century consumer culture through art, opera, and literature, shaping public fears and stereotypes.
-  - Evidence: Analysis of Hogarth's *Rake's Progress* (madness as sin), Handel's *Orlando* (musical devices signaling derangement), gothic novels (false confinement as titillating horror), sentimental novels (madhouse visit as test of sensibility)
-  - Strength: Rich textual and visual analysis across multiple media; demonstrates how commercial entertainment both reflected and distorted social realities
+- **Core claim: Fears of false confinement were widespread and not unfounded.**
+  - Evidence: Lawsuits (e.g., William Belcher's seventeen-year confinement), pamphlets by Defoe and Cruden, and fictional accounts like Haywood's *The Distress'd Orphan*.
+  - Strength: Evidence of real cases exists, but the prevalence is unclear; the cultural impact was significant regardless.
+
+- **Core claim: Cultural representations of madness shaped public perceptions of asylums.**
+  - Evidence: Hogarth's *A Rake's Progress*, gothic novels, sentimental fiction, and operatic mad scenes all dramatized madhouses as places of horror, spectacle, and injustice.
+  - Strength: The range of artistic media is impressive; the argument is more suggestive than demonstrative of causal effects.
 
 ## Connections
 
-- (none yet)
+- [[concepts/asylum]] — This chapter provides crucial pre-19th-century context showing asylums as custodial, commercial, and non-medical, complicating narratives that begin with moral treatment.
+- [[concepts/anti-psychiatry]] — Early fears of false confinement and the "British Inquisition" imagery prefigure later anti-psychiatry critiques of psychiatric power.
+- [[concepts/medicalization]] — The chapter demonstrates that madhouses were not medical institutions; care was delivered by laypeople, reinforcing the argument that medicalization of madness was a later development.
+- [[concepts/deinstitutionalization]] — The critique of Foucault's Great Confinement directly challenges narratives that assume mass institutionalization was the starting point for deinstitutionalization.
+- [[concepts/presentism]] — The chapter models anti-presentist history by refusing to judge 18th-century madhouses by modern standards while still acknowledging their horrors.
 
 ## Contradictions & Tensions
 
-- The chapter presents a paradox: unregulated madhouses were sites of abuse and scandal, yet they also allowed experimentation with treatment and growth of institutional experience. The reformist narrative of horror coexists with evidence of genuine if crude care.
-- Challenges linear progress narratives in some histories of psychiatry by showing that commercial and social control motives dominated early institutionalization, not medical humanitarianism.
-- The critique of Foucault's "Great Confinement" complicates the concept of deinstitutionalization by suggesting that mass confinement of the mad was never as total as sometimes claimed—family care remained the norm throughout the 18th century.
-- Internal tension between the representation of madhouses as "British Inquisition" (Cruden) and the acknowledgment that the same unregulated system enabled experimental approaches and family continuity in the trade.
+- The chapter simultaneously describes madhouses as brutal (chains, filth, abuse) and as spaces that allowed useful experimental treatment. These two characterizations are not fully reconciled.
+- The critique of Foucault's Great Confinement is persuasive for France and England but the Dutch *dolhuizen* were genuinely specialized institutions for the mad, partially supporting Foucault's thesis.
+- The evidence for false confinement is real but its prevalence remains unclear; the author relies heavily on literary and legal sources that may overrepresent exceptional cases.
 
 ## Open Questions
 
-- How did the British commercial "trade in lunacy" model differ in its long-term effects from the French state-driven model using *lettres de cachet* and *maisons de santé*?
-- To what extent did the widespread fear of false confinement reflect actual historical practices versus serving as a literary trope in gothic fiction?
-- How did the shift from family-based care to institutional confinement reshape family dynamics and social attitudes toward madness across different social classes?
-- What explains the variation in madhouse development between Protestant commercial economies (England, Netherlands) and Catholic absolutist states (France, Spain)?
+- How directly did the 18th-century "trade in lunacy" relate to later for-profit psychiatric institutions, such as 20th-century private sanitariums?
+- Is there a direct lineage from 18th-century fears of false confinement to 20th-century anti-psychiatry critiques of involuntary commitment?
+- The role of gender in false confinement narratives (women as primary victims) deserves deeper analysis; were men equally at risk?
+- To what extent did operatic and literary representations of madhouses actually influence public policy or the behavior of madhouse keepers?

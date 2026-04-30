@@ -4,16 +4,18 @@ title: "nosology"
 tags: []
 related:
   - "medicalization"
-created: 2026-04-26
-updated: 2026-04-26
+created: 2026-04-30
+updated: 2026-04-30
 sources:
   - "2014 - Shorter - The History of Psychiatry as Clinical Science.pdf"
   - "2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850.pdf"
+  - "Between Sanity and Madness/001-1-puzzles-of-mental-illness.md"
   - "Between Sanity and Madness/004-4-freud-s-transformation-of-normality.md"
   - "Between Sanity and Madness/010-10-the-past-and-future-of-mental-illness.md"
   - "From Madness to Mental Health/From Madness to Mental Health - 06.pdf"
   - "From Madness to Mental Health/From Madness to Mental Health - 14.pdf"
 papers:
+  - "001-1-puzzles-of-mental-illness"
   - "004-4-freud-s-transformation-of-normality"
   - "010-10-the-past-and-future-of-mental-illness"
   - "2014 - Shorter - The History of Psychiatry as Clinical Science"
@@ -24,38 +26,42 @@ papers:
 # nosology
 
 ## Why It Matters
-- Psychiatric classification (nosology) has historically lacked validity, with symptom‑based systems like the DSM failing to improve outcomes ([[010-10-the-past-and-future-of-mental-illness]]).
-- Historical analysis of diagnostic categories can correct current classification and inform clinical practice ([[2014 - Shorter - The History of Psychiatry as Clinical Science]]).
-- The emergence of psychiatry as a discipline embedded an unresolved mind‑brain dualism in its classification schemes ([[2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850]]).
-- Antipsychiatry critiques challenged the very legitimacy of mental illness as a nosological entity, revealing the political and institutional dimensions of diagnosis ([[From Madness to Mental Health - 14]]).
+- The classification of mental disorders (nosology) determines who is considered ill, shaping treatment, stigma, and legal rights.
+- Historical shifts in nosology reveal that diagnostic categories are not neutral scientific facts but products of cultural, institutional, and political forces.
+- Debates over the validity of DSM classifications (e.g., harmful dysfunction vs. anti-psychiatry critiques) remain unresolved and directly affect clinical practice.
+- Understanding nosology’s past helps historians correct current diagnostic errors and anticipate future changes.
 
 ## Key Positions
 
 | Position | Core claim | Key sources |
 |----------|------------|-------------|
-| **DSM critique** | Symptom‑based classification lacks construct validity; no improvement in outcomes or mortality | [[010-10-the-past-and-future-of-mental-illness]] |
-| **Historical correction** | Historians can act as clinical scientists, using historical data to refine diagnostic categories | [[2014 - Shorter - The History of Psychiatry as Clinical Science]] |
-| **Mind‑brain dualism** | Psychiatry’s professional identity is built on an unresolved dualism that shapes all classification | [[2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850]] |
-| **Moral treatment foundations** | Early reformers (Pinel, Esquirol, Heinroth) established moral therapy and psychosomatic concepts as alternatives to organic classification | [[From Madness to Mental Health - 06]] |
-| **Antipsychiatry challenge** | Fanon, Szasz, and Basaglia each attacked the epistemological and institutional basis of mental illness classification | [[From Madness to Mental Health - 14]] |
-| **Normality‑pathology blur** | Freud embedded pathology in universal human dynamics, using life‑cycle context rather than fixed diagnostic boundaries | [[004-4-freud-s-transformation-of-normality]] |
+| **Harmful dysfunction framework** | Mental disorder is defined by incomprehensible behavior lacking plausible social reasons; the boundary with sanity is inherently fuzzy. | [[001-1-puzzles-of-mental-illness]], [[004-4-freud-s-transformation-of-normality]] |
+| **DSM skepticism** | Symptom-based DSM classifications lack validity; deinstitutionalization failed and biomedical advances haven’t improved outcomes. | [[010-10-the-past-and-future-of-mental-illness]] |
+| **Historical correction of diagnosis** | Historians can use historical data to refine current diagnostic classification and improve patient care. | [[2014 - Shorter - The History of Psychiatry as Clinical Science]] |
+| **Origins in mind‑brain dualism** | Psychiatry’s professional identity emerged from an unresolved dualism that still shapes diagnostic categories. | [[2022 - Kendler et al. - The Emergence of Psychiatry; 1650–1850]] |
+| **Early nosological foundations** | French and German reformers (Pinel, Esquirol, Heinroth) established categories like monomania and the concept of psychosomatic illness. | [[From Madness to Mental Health - 06]] |
+| **Antipsychiatry challenge** | Fanon, Szasz, and Basaglia each rejected the very notion of mental illness as a valid nosological entity. | [[From Madness to Mental Health - 14]] |
 
 ## Sub-topics
 - [[psychiatric-classification]]
 - [[dsm-iii]]
-- [[moral-treatment]]
-- [[anti-psychiatry]]
+- [[medicalization]]
 - [[degeneration-theory]]
+- [[humoral-theory]]
+- [[melancholia]]
+- [[neurasthenia]]
+- [[hysteria]]
 
 ## Related concepts
-- [[medicalization]]
+- [[anti-psychiatry]]
 - [[biomedical-model]]
-- [[historicism]]
-- [[historiography]]
-- [[presentism]]
+- [[moral-treatment]]
 - [[alienism]]
+- [[presentism]]
+- whig-history
 
 ## Open questions
-- Can a nosology that rejects the biomedical model still provide reliable and useful diagnoses, or does it collapse into relativism?
-- Does the persistent mind‑brain dualism in psychiatry prevent a unified classification system from ever being achieved?
-- To what extent can historical data (e.g., from moral treatment or pre‑DSM eras) be used to reform current diagnostic practice without falling into presentism?
+- Can a valid, cross‑culturally stable nosology of mental disorders be constructed, or will classification always reflect local norms and power?
+- Should historical diagnostic categories (e.g., monomania, neurasthenia) be recovered or replaced by entirely new frameworks?
+- How can historian‑clinicians integrate archival data into current diagnostic revision processes without falling into presentism?
+- Does the persistence of mind‑brain dualism in psychiatric classification hinder or help future nosological reform?

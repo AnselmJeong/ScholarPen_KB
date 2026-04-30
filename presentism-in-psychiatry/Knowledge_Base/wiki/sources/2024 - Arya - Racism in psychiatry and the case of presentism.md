@@ -2,12 +2,12 @@
 ---
 type: source
 title: "Racism in psychiatry and the case of presentism"
-created: 2026-04-26
-updated: 2026-04-26
-tags: [presentism, historicism, contextualisation, decolonisation, eugenics, cultural psychiatry, structural racism, white privilege, historiography, psychiatric racism]
+created: 2024-08-17
+updated: 2024-08-17
+tags: [presentism, contextualisation, decolonisation, racism, historiography, eugenics, cultural psychiatry, stigma, white privilege, prejudice]
 related: []
 sources: ["2024 - Arya - Racism in psychiatry and the case of presentism.pdf"]
-one_line_finding: "Contextualisation, not presentism, is the proper historiographical approach to evaluating racist views in psychiatry, enabling recovery of marginalized figures and critical engagement with problematic ones."
+one_line_finding: "A syncretic historiographical approach that balances contextualisation with critical reflection enables both the recovery of overlooked non-Western psychiatrists and fair assessment of figures like Kraepelin."
 ---
 ```
 
@@ -15,63 +15,57 @@ one_line_finding: "Contextualisation, not presentism, is the proper historiograp
 
 ## Summary
 
-This guest editorial by Rina Arya argues that historians of psychiatry must adopt a contextualised rather than a presentist approach when evaluating the racist or morally dubious views of historical figures. The piece uses two illustrative cases—the recovery of African-Brazilian psychiatrist Juliano Moreira and the problematic legacy of Emil Kraepelin—to explore how historiographical method shapes our understanding of racism in psychiatry. It is an opinion piece published in the *British Journal of Psychiatry*, engaging directly with Almeida-Filho and Schwarcz's article on Moreira.
+This guest editorial by Rina Arya addresses the methodological tension between presentism and historicism in the historiography of psychiatry, particularly concerning racism. Arya uses the historical examples of Juliano Moreira, an African-Brazilian psychiatrist who debunked racist medical theories, and Frantz Fanon, who studied the psychopathological effects of colonialism, to argue that their contributions were overlooked due to structural and institutional racism. Their "recovery" constitutes an act of decolonisation. Conversely, she examines Emil Kraepelin, a foundational figure in modern psychiatry who also endorsed eugenics and antisemitism, posing the question of how to assess his legacy.
 
-Arya contends that presentism—judging the past solely by today's moral standards—risks forfeiting valuable scholarship and obscuring the structural constraints faced by marginalized figures. Instead, she advocates contextualisation: situating historical actors within the sociocultural attitudes of their time while still acknowledging the harm of their views. The article also connects this historiographical debate to contemporary issues of White privilege and institutional racism, arguing that psychiatry must be critically self-reflective to create a more inclusive future.
+Arya argues that pure presentism—judging the past solely by today's moral standards—risks forfeiting valuable scholarship and purging history rather than learning from it. She advocates for a syncretic approach that contextualises historical figures within the sociocultural attitudes of their time while enabling critical reflection. This approach allows for both the appreciation of marginalized figures' achievements and a fair yet unflinching assessment of problematic contributors. The source concludes by calling for deeper engagement with White privilege within psychiatry to foster more inclusive therapeutic environments.
 
-The main findings are threefold: (1) recovering overlooked figures like Moreira and Fanon is an act of decolonisation that corrects historical neglect; (2) Kraepelin's "two faces" problem—pioneering scientist yet eugenicist and antisemite—is best addressed through contextualisation rather than erasure or condemnation; (3) engaging with White privilege in a nuanced way can advance psychiatry's therapeutic mission. The article's significance lies in its explicit linkage of historiographical method (presentism vs. contextualisation) to the politics of race and decolonisation in psychiatric history.
+The editorial is a philosophical and historiographical commentary rather than an empirical study. It synthesises existing scholarship and draws on logical argumentation. Its significance lies in its contribution to ongoing debates about decolonising psychiatry and the methodological challenges of evaluating past figures' legacies, urging a balanced path between erasure and excusal.
 
 ## Key Entities
 
-- **[[entities/royal-college-of-psychiatrists]]** (org) — Publishes the *British Journal of Psychiatry*, in which this editorial appears.
+- [[entities/royal-college-of-psychiatrists|Royal College of Psychiatrists]] (org) — publisher of the journal in which this editorial appears
+- **British Journal of Psychiatry** (tool) — the publication venue for the editorial
+- **Cambridge University Press** (org) — publisher of the journal
+- **University of Hull** (org) — affiliation of the author
 
 ## Key Concepts
 
-- **[[concepts/presentism]]** — Judging historical actors and ideas exclusively by present-day standards without accounting for historical context; Arya critiques this stance.
-- **[[concepts/historicism]]** — Evaluating the past within its own context; closely related to Arya's advocacy of "contextualisation."
-- **[[concepts/eugenics]]** — Kraepelin's eugenicist views are used as the primary example of a morally problematic aspect of a major figure.
-- **[[concepts/anti-psychiatry]]** — Distant connection via Fanon's critical perspective on colonial psychiatry.
-- **Decolonisation** (in historiography) — The recovery of Global South figures like Moreira and Fanon to counter colonial power structures in knowledge production.
-- **Structural/institutional racism** — The backdrop against which Moreira and Fanon developed their work; psychiatry's complicity with colonialist attitudes.
-- **Cultural psychiatry** — Kraepelin's cross-cultural work contributed to this field, though tainted by Social Darwinism.
-- **White privilege** — Arya proposes nuanced engagement with White privilege as a progressive tool for psychiatric self-reflection.
+- **Presentism** — judging historical figures and events solely by present-day moral standards without accounting for their historical context; Arya critiques exclusive presentism but acknowledges its role in recovering marginalized figures.
+- **Decolonisation** — the process of examining and dismantling colonial power structures in knowledge production, applied here to the recovery of overlooked non-Western psychiatrists like Moreira and Fanon.
+- **Contextualisation** — evaluating historical figures’ work within the sociocultural attitudes of their time, enabling a fair assessment that neither excuses harm nor erases contributions.
+- **White privilege** — unearned advantages held by White individuals; Arya argues that reflection on and accountability for this privilege can refine psychiatric practice.
+- **Racism in psychiatry** — racist attitudes embedded in psychiatric theory and practice, as seen in eugenics, Social Darwinism, and the marginalisation of minority practitioners.
 
 ## Main Arguments & Findings
 
-- **Core claim: Contextualisation, not presentism, is the proper historiographical method for evaluating historical figures with racist or morally dubious views.**
-  - Evidence: The "two faces of Emil Kraepelin" problem (Shepherd, 1995) is used to show that presentism would lead to discarding Kraepelin's contributions; contextualisation allows both criticism and retention of valuable work.
-  - Strength: Logical argument but based on a single illustrative case; no systematic review.
+- **Core claim**: Presentism alone is inadequate for understanding racism in psychiatry; a syncretic contextual approach is preferable.
+  - Evidence: The cases of Moreira and Fanon (whose recovery requires acknowledging structural racism) and Kraepelin (whose problematic views coexist with foundational contributions) illustrate the limits of pure presentism. Arya argues that purging history prevents learning.
+  - Strength: Moderate; the argument is philosophically grounded and historically illustrated but presented as an opinion piece without new empirical data.
 
-- **Core claim: Recovering marginalized figures like Juliano Moreira and Frantz Fanon is an act of decolonisation that corrects historical neglect.**
-  - Evidence: Moreira's debunking of racist theories and Fanon's work on colonial psychopathology were overlooked due to their racialised minority status; their recent recovery is described as a decolonising act.
-  - Strength: Strong exemplars but editorial rather than empirical analysis.
+- **Core claim**: The recovery of overlooked non-Western psychiatrists constitutes an act of decolonisation.
+  - Evidence: Moreira’s debunking of racist medical theories and Fanon’s work on colonial psychopathology were developed against backgrounds of institutional racism. Their marginalisation is attributable to colonial power structures.
+  - Strength: Supported by historical documentation, though the editorial does not provide primary-source depth.
 
-- **Core claim: The past cannot be purged; erasure or minimisation is counterproductive—what is needed is critical engagement and the production of more inclusive histories.**
-  - Evidence: Arya argues that sidestepping problematic views prevents learning; Kraepelin's cross-cultural work, when separated from Social Darwinism, remains valuable.
-  - Strength: Reasonable position but lacks concrete mechanisms for how "learning from the past" should be operationalised.
-
-- **Core claim: Nuanced understanding of White privilege can advance psychiatry's therapeutic mission by fostering critical self-reflection.**
-  - Evidence: Tyler's commentary on stigma is cited; Arya argues that unhelpful accusations of "reading racism everywhere" can be avoided through proper positioning.
-  - Strength: Underdeveloped—this claim is introduced late in the editorial and not fully argued.
+- **Core claim**: Engagement with White privilege is a progressive way forward for psychiatry.
+  - Evidence: Arya asserts that a lack of nuanced understanding of White privilege leads to accusations of cultural oversensitivity. Reflection on privilege can improve therapeutic environments.
+  - Strength: Underdeveloped; the claim is stated but not elaborated or empirically supported.
 
 ## Connections
 
-- **[[concepts/presentism]]** — This source directly critiques presentism and advocates contextualisation as an alternative, adding a moral/political dimension to the existing concept page.
-- **[[concepts/historicism]]** — Arya's "contextualisation" aligns closely with historicist methodology; the source extends the concept by linking it to decolonisation and racial justice.
-- **[[concepts/eugenics]]** — Kraepelin's eugenicist views are a central example; the source shows how eugenics complicates the legacy of psychiatric pioneers.
-- **[[concepts/anti-psychiatry]]** — Frantz Fanon's work, though not explicitly labelled anti-psychiatry, offers a critical perspective on colonial psychiatry that resonates with anti-psychiatry themes.
+- [[concepts/presentism]] — This source nuances presentism by arguing that exclusive presentism is inadequate, but that a form of presentist recovery of marginalized figures is legitimate.
+- [[concepts/historicism]] — Extends the concept of contextualisation by applying it symmetrically to both marginalized figures (Moreira, Fanon) and problematic figures (Kraepelin).
+- [[concepts/eugenics]] — Kraepelin’s eugenic and antisemitic views are used as a case study in the presentism debate.
+- [[sources/2023 - Hilton - Our values and our historical understanding of psychiatrists]] — Arya’s call for contextualisation aligns with Hilton’s emphasis on understanding the past on its own terms, though Arya allows more room for presentist recovery.
+- [[sources/2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’]] — Compatible with Ikkos’s argument that historical inquiry should seek uncomfortable truths rather than avoid blame.
 
 ## Contradictions & Tensions
 
-- **Internal tension: recovery versus contextualisation.** Arya argues both for recovering marginalized figures (celebrating Moreira and Fanon) and for contextualising problematic ones (not excusing Kraepelin but understanding his views in historical context). The criteria for applying one approach over the other are not specified, leaving a potential inconsistency: why should Moreira be "recovered" rather than merely "contextualised"? The difference seems to be that Moreira was a victim of racism, Kraepelin a perpetrator—but this moral distinction is not explicitly theorised.
-
-- **Potential conflict with existing wiki content:** The wiki's presentism page (if it treats presentism neutrally) may be contradicted by Arya's normative advocacy *against* presentism. This source takes a clear side in the historiographical debate, which may need to be reflected as a contested position on the concept page.
-
-- **Underdeveloped claim about White privilege:** The leap from historiographical method to contemporary identity politics is abrupt and lacks rigorous argumentation, potentially weakening the overall coherence of the editorial.
+- Arya advocates contextualisation for Kraepelin (to avoid presentist condemnation) but implicitly uses present values to identify the value of Moreira and Fanon, creating an asymmetry between "recovery presentism" and "judgmental presentism" that the source does not fully resolve.
+- This source’s selective use of presentism for decolonisation contrasts with [[sources/2023 - Hilton - Our values and our historical understanding of psychiatrists]], which argues for strict historicism without presentist judgment.
 
 ## Open Questions
 
-- Where is the line between legitimate contextualisation and apologetics? Arya does not specify what makes Kraepelin's views problematic *enough* to warrant continued critical assessment versus figures who might be fully "excused" by historical context.
-- Does contextualisation risk being applied selectively—used to excuse prominent White figures while marginalized figures are judged more harshly? The source does not address this asymmetry.
-- How should the field operationalise "learning from the past" in practice? The article calls for it but offers no concrete mechanism for how historical lessons translate into contemporary psychiatric training or practice.
-- Is the recovery of marginalized figures itself a form of presentism—i.e., driven by contemporary values of diversity and inclusion—and if so, does that undermine the critique of presentism as a method?
+- How can "recovery presentism" be distinguished from "judgmental presentism" on principled grounds, and what criteria determine legitimate uses of presentism?
+- How should psychiatric historiography weigh the foundational contributions of figures like Kraepelin against their racist and eugenic commitments?
+- Does the contextualisation argument generalise beyond the Brazilian and colonial contexts discussed, or is it culturally specific?
+- How would engagement with White privilege be operationalized in psychiatric practice and historiography beyond the general call made here?

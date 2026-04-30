@@ -4,9 +4,10 @@ title: "medicalization"
 tags: []
 related:
   - "nosology"
-created: 2026-04-26
-updated: 2026-04-26
+created: 2026-04-30
+updated: 2026-04-30
 sources:
+  - "Between Sanity and Madness/001-1-puzzles-of-mental-illness.md"
   - "Between Sanity and Madness/004-4-freud-s-transformation-of-normality.md"
   - "Between Sanity and Madness/009-9-the-successes-and-failures-of-the-dsm-revolution.md"
   - "Between Sanity and Madness/010-10-the-past-and-future-of-mental-illness.md"
@@ -15,6 +16,7 @@ sources:
   - "Madness in Civilization/006-chapter-six.md"
   - "Madness in Civilization/011-chapter-eleven.md"
 papers:
+  - "001-1-puzzles-of-mental-illness"
   - "001-chapter-one"
   - "004-4-freud-s-transformation-of-normality"
   - "006-chapter-six"
@@ -26,42 +28,38 @@ papers:
 # medicalization
 
 ## Why It Matters
-- Medicalization reframes social and existential experiences (like madness, nervousness, or everyday distress) as medical conditions, with profound consequences for identity, stigma, and institutional control.
-- The archive shows how medicalization has historically been used to both legitimize (as a status symbol) and pathologize (as a disease of civilization) certain behaviors, revealing its political and cultural contingency.
-- Debates over the validity of diagnostic systems like the DSM-III hinge on whether medicalization accurately captures human suffering or conflates normal distress with disorder.
+- Medicalization transforms social, moral, or behavioral phenomena into medical problems – a core dynamic in the history of psychiatry and mental health.
+- The archive reveals that medicalization can serve both status-enhancing functions (e.g., nervous disorders as a mark of refinement) and coercive functions (e.g., colonial psychiatry, institutional control).
+- Debates over medicalization underpin the scientific validity of psychiatric classification (e.g., DSM) and the ongoing contest between “madness” and “mental illness” as conceptual frameworks.
 
 ## Key Positions
 
 | Position | Core claim | Key sources |
-|---|---|---|
-| Madness as historically/culturally constructed | “Madness” is not a mental illness but an inseparable part of civilization; medicalization obscures its social dimensions. | [[001-chapter-one]] |
-| Psychoanalysis blurs normality/pathology | Pathology is universal in human dynamics, distinguished only by life-cycle and context – medicalization becomes a matter of degree. | [[004-4-freud-s-transformation-of-normality]] |
-| Nervous disorders as status symbol | Cheyne rebranded nervous ailments as a “disease of civilization,” turning a reproach into a mark of elite refinement. | [[006-chapter-six]] |
-| DSM-III’s scientific failure | Symptom-based categories lack validity and over-medicalize normal distress, despite institutional success. | [[009-9-the-successes-and-failures-of-the-dsm-revolution]] |
-| No steady progress in psychiatry | DSM classifications remain invalid; deinstitutionalization led to transinstitutionalization; biomedical revolution hasn’t improved outcomes. | [[010-10-the-past-and-future-of-mental-illness]] |
-| Psychoanalysis’ contingent rise | Medicalization through psychoanalysis succeeded due to war, wealth, and a diluted, optimistic reinterpretation of Freud. | [[011-chapter-eleven]] |
-| Antipsychiatry critique | Fanon, Szasz, and Basaglia each challenge medicalization from different angles: colonial psychiatry, epistemological denial of mental illness, and institutional analysis. | [[From Madness to Mental Health - 14]] |
+|----------|------------|-------------|
+| Medicalization as social status | Nervous disorders reframed as a disease of civilization, elevating them from reproach to status symbol among the elite. | [[006-chapter-six]] |
+| Medicalization blurring boundaries | Psychoanalysis embeds pathology in universal human dynamics, making the line between normality and neurosis permeable. | [[004-4-freud-s-transformation-of-normality]] |
+| Rejecting medicalization of madness | “Madness” is historically more appropriate than “mental illness” for understanding unreason’s cultural and social dimensions. | [[001-chapter-one]] |
+| DSM-driven over-medicalization | DSM-III succeeded institutionally but failed scientifically, conflating normal distress with mental disorder. | [[009-9-the-successes-and-failures-of-the-dsm-revolution]] |
+| Biomedical model’s failure | The biomedical revolution has not improved outcomes or reduced mortality, questioning its medicalizing promise. | [[010-10-the-past-and-future-of-mental-illness]] |
+| Antipsychiatry critique of medicalization | Szasz challenges mental illness as an epistemological fallacy; Fanon and Basaglia add colonial and institutional dimensions. | [[From Madness to Mental Health - 14]] |
+| Medicalization through psychoanalytic influence | Psychoanalysis achieved cultural influence in post-WWII America but its success was contingent and diluted. | [[011-chapter-eleven]] |
+| Fuzzy boundaries of harmful dysfunction | The DSM-5's harmful dysfunction framework formalizes madness but leaves the line between sanity and disorder inherently fuzzy. | [[001-1-puzzles-of-mental-illness]] |
 
 ## Sub-topics
-- [[nosology]]  
-- [[dsm-iii]]  
-- [[anti-psychiatry]]  
-- [[biomedical-model]]  
-- [[psychiatric-classification]]
+- [[neurasthenia]]
+- [[hysteria]]
+- [[melancholia]]
+- [[biomedical-model]]
 
 ## Related concepts
-- [[alienism]]  
-- [[asylum]]  
-- [[degeneration-theory]]  
-- [[deinstitutionalization]]  
-- [[eugenics]]  
-- [[hysteria]]  
-- [[melancholia]]  
-- [[moral-treatment]]  
-- [[neurasthenia]]  
-- [[presentism]]
+- [[anti-psychiatry]]
+- [[dsm-iii]]
+- [[nosology]]
+- [[psychiatric-classification]]
+- [[deinstitutionalization]]
+- [[moral-treatment]]
 
 ## Open questions
-- Does medicalization represent genuine scientific progress or a new form of social control that expands the realm of mental disorder without improving outcomes?
-- Where should the line be drawn between normal distress and mental disorder, given that categories like those in the DSM-III collapse this boundary?
-- Can critiques of medicalization (e.g., antipsychiatry) avoid replacing one form of authority with another, or do they risk romanticizing suffering?
+- Does the DSM’s symptom-based approach inevitably over-medicalize normal distress, or can it be refined to avoid false positives?
+- How should the line between “madness” (cultural) and “mental illness” (medical) be drawn, and who gets to decide?
+- Is medicalization inherently problematic (as antipsychiatry argues) or can it reduce stigma and improve access to care?

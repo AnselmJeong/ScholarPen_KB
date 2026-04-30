@@ -2,12 +2,12 @@
 ---
 type: source
 title: "Sailing between Scylla and Charybdis: invited response to ‘Blame or discovery?’"
-created: 2023-04-21
-updated: 2023-04-21
-tags: [historiography, hagiography, historical-objectivity, praise-vs-discovery, scylla-and-charybdis, psychiatric-history, critical-history, impartiality]
+created: 2024-01-01
+updated: 2024-01-01
+tags: [history of psychiatry, historiographical method, hagiography, critical historiography, discovery, Scylla and Charybdis, professional ethics, institutional bias, psychiatric historiography]
 related: []
 sources: ["2023 - Hilton - Sailing between Scylla and Charybdis; invited response to ‘Blame or discovery’.pdf"]
-one_line_finding: "Historians of psychiatry must navigate between hagiographic praise and critical condemnation, aiming for discovery rather than praise or blame."
+one_line_finding: "Historical inquiry in psychiatry should be driven by discovery, navigating between hagiographic praise and condemnatory blame."
 ---
 ```
 
@@ -15,45 +15,45 @@ one_line_finding: "Historians of psychiatry must navigate between hagiographic p
 
 ## Summary
 
-This is a brief invited commentary by Claire Hilton, historian in residence at the Royal College of Psychiatrists, responding to George Ikkos’s earlier commentary on her own article “Our values and our historical understanding of psychiatrists.” Hilton engages directly with Ikkos’s distinction between “discovery” and “praise or blame” as motivations for historical enquiry. She affirms that the key driver should be discovery, not moral judgment of past actors.
+This brief commentary is Hilton's invited response to Ikkos's critique of her earlier article on values and historical understanding in psychiatry. Hilton frames the historian's task as a voyage between two dangerous poles: hagiographic representations of psychiatrists (Festschriften, obituaries, eponymous naming) and condemnatory critical analyses (Foucault, Scull, Showalter) that portray psychiatrists as self-interested oppressors. She argues that neither pole provides an adequate basis for historical understanding.
 
-Hilton employs the classical metaphor of Scylla and Charybdis to illustrate the twin dangers facing historians of psychiatry. On one side lie hagiographic representations—Festschriften, laudatory biographies, eponymous donations and lectureships, and obituaries that follow the maxim *De mortuis nil nisi bonum*. These often originate from within the psychiatric profession itself. On the other side lie critical historical analyses by figures such as Michel Foucault, Andrew Scull, Elaine Showalter, and Akinobu Takabayashi, which portray psychiatrists as self-interested oppressors of vulnerable people. Hilton argues that both poles are hard to reconcile and that getting caught in either is perilous.
-
-Her central methodological recommendation is to steer cautiously and critically with an open mind, treating “praise and blame” as by-products rather than goals of historical research. The ultimate aim is to understand what happened in the past, which may in turn help prevent psychiatrists from being unfairly criticised or blamed in the future. The commentary is significant as a concise statement of a moderate, impartialist position in the ongoing historiographical debate about how to evaluate the history of psychiatry.
+Hilton's central claim is that discovery—not praise or blame—should drive historical research. She acknowledges her institutional position as Historian in Residence at the Royal College of Psychiatrists but insists that her commitment to impartiality predates that role. The paper is a methodological statement defending a balanced, open-minded approach to psychiatric historiography while implicitly addressing Ikkos's charge that her institutional position biases her toward protecting psychiatry from criticism. The commentary is brief (two pages) and contains no new empirical evidence; its value lies in articulating a clear position in an ongoing historiographical debate.
 
 ## Key Entities
 
-- **Royal College of Psychiatrists** (type: org) — Hilton’s institutional home as historian in residence; the source appears in the College’s bulletin and reflects its historical interest group.
-- **Birkbeck University of London** (type: org) — Hilton’s academic affiliation as Honorary Research Fellow; provides institutional context for her scholarly position.
+- **Royal College of Psychiatrists** (org) — Hilton's employer as Historian in Residence; the institutional position that Ikkos critiques as a source of bias.
+- **BJPsych Bulletin** (tool) — The journal in which this response and the original exchange were published.
+- **Birkbeck University of London** (org) — Hilton's academic affiliation as Honorary Research Fellow.
 
 ## Key Concepts
 
-- **Hagiographic representations** — Idealized, uncritical portrayals of historical figures, typically produced by colleagues or institutions (e.g., Festschriften, eponymous donations, obituaries). Hilton warns that such sources distort history through excessive praise.
-- **Scylla and Charybdis metaphor** — A classical allusion used by Hilton to frame the two equally dangerous extremes in psychiatric historiography: hagiography on one side and critical condemnation on the other.
-- **Historical objectivity/impartiality** — The aspirational goal of understanding and explaining the past without preconceived praise or blame. Hilton acknowledges the difficulty but commits to this ideal.
-- **Praise vs. discovery** — A distinction drawn from Ikkos: historical enquiry should be driven by the desire to discover what happened, not by the desire to praise or blame past actors. Hilton endorses this as the proper motivation.
+- **Scylla and Charybdis (historiographical)** — A metaphor for navigating two hazards in psychiatric history: uncritical hagiographic praise on one side and condemnatory critical narratives on the other. Hilton argues both must be avoided through cautious, open-minded research.
+- **Hagiographic representation** — Uncritical, celebratory accounts of psychiatrists, often originating from colleagues and institutions (e.g., Festschriften, obituaries, eponymous lectureships). These risk distorting the past by omitting failings.
+- **Critical historiography** — Analyses by scholars such as Foucault, Scull, and Showalter that emphasise psychiatrists' self-interest and oppression of vulnerable people. Hilton treats this as the opposite danger to hagiography.
+- **Discovery as driver** — The principle that historical inquiry should be motivated by understanding what happened, not by a desire to praise or blame. Praise and blame are treated as by‑products, not goals.
+- **Institutional position** — The potential conflict between a historian's employment by a professional body (here the RCPsych) and the ideal of impartial historical inquiry. Ikkos raised this as a concern; Hilton responds by asserting her pre‑existing commitment to objectivity.
 
 ## Main Arguments & Findings
 
-- **Core claim**: Historians of psychiatry must navigate between hagiographic praise (Scylla) and critical condemnation (Charybdis), aiming for discovery rather than praise or blame.
-  - Evidence: Hilton lists examples of hagiographic sources (biographies, obituaries, eponymous institutions) and of critical histories (Foucault, Scull, Showalter, Takabayashi). She also notes that her own incredulity at what others had written drew her into the field before she held any institutional position.
-  - Strength: Weak. This is a brief normative commentary (2 pages) with limited empirical support. The argument is methodological rather than evidential, and the evidence consists mainly of citing well-known historiographical camps.
+- **Core claim**: Historical research in psychiatry should be driven by discovery, navigating between hagiographic praise and condemnatory blame.
+  - Evidence: Hilton cites her own research motivation ("incredulity at what others had written") as prior to her institutional role; she references the two poles of historiography as dangers to be avoided.
+  - Strength: Weak — this is a reflective opinion piece with no new empirical data. The argument is axiomatic (balanced inquiry is preferable) and does not systematically test or defend its assumptions. The tension between Hilton's institutional role and her claimed impartiality is stated but not resolved.
 
 ## Connections
 
-- [[concepts/historiography]] — Hilton’s commentary directly addresses historiographical method, advocating for a balanced approach between two extremes. This expands the concept by introducing the specific dangers of hagiography and critical condemnation.
-- [[concepts/anti-psychiatry]] — The critical histories Hilton cites (Foucault, Scull, Showalter) are often associated with or inform anti-psychiatry narratives. Hilton frames these as one pole of a dangerous binary, not as the default valid approach.
-- [[concepts/presentism]] — Though not explicitly named, Hilton’s caution against projecting praise or blame onto past actors is closely related to the problem of presentism—judging the past by present moral standards.
-- [[sources/2023 - Hilton - Our values and our historical understanding of psychiatrists]] — This is Hilton’s earlier article, to which Ikkos responded. The present commentary clarifies and defends her position in that debate.
-- [[sources/2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’]] — Ikkos’s commentary is the direct dialogue partner; Hilton responds point-by-point, especially regarding the “discovery vs. praise” distinction and the role of institutional position.
+- [[sources/2023 - Hilton - Our values and our historical understanding of psychiatrists]] — This response directly follows and clarifies Hilton's original article; together they form a linked debate.
+- [[sources/2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’]] — Ikkos's critique is the target of this response; the two sources should be read reciprocally.
+- [[concepts/historiography]] — Hilton's "Scylla and Charybdis" framing contributes a specific methodological stance to the historiography of psychiatry.
+- [[concepts/presentism]] — The debate about praise/blame versus discovery implicitly engages presentist moral judgment of past actors, though the term is not used.
 
 ## Contradictions & Tensions
 
-- Internal tension: Hilton claims to aim for impartiality and objectivity while explicitly stating that understanding the past may help avoid psychiatrists being “unfairly criticised or blamed.” This suggests her research is partly motivated by a protective interest, which could be seen as a form of advocacy rather than pure discovery.
-- Potential conflict with [[concepts/anti-psychiatry]]: This source frames critical histories (Foucault, Scull) as a dangerous extreme, which may sit uneasily with wiki pages that treat such critiques as valuable or necessary correctives to celebratory narratives.
+- **Internal tension**: Hilton insists discovery is the sole driver, yet acknowledges that understanding the past may help avoid unfair blame in the future. This suggests a protective outcome is welcome, blurring the claimed purity of discovery‑for‑its‑own‑sake.
+- **Internal tension**: Hilton's institutional position (RCPsych Historian in Residence) creates a potential conflict with the goal of impartial history. Ikkos foregrounds this; Hilton responds by asserting pre‑existing commitment but does not fully resolve how institutional embeddedness might shape her choices.
+- **External tension with [[concepts/anti-psychiatry]]**: Hilton's framing positions critical historians (Foucault, Scull) as a danger to be navigated, which could be seen as a defensive institutional move rather than a neutral methodological claim.
 
 ## Open Questions
 
-- How achievable is genuine impartiality in historical research, especially when the historian holds an institutional position within the profession being studied?
-- Can historical enquiry ever completely separate “discovery” from moral evaluation, or are praise and blame inevitably embedded in the act of interpretation?
-- Does the Scylla/Charybdis framing oversimplify the historiographical landscape, or is it a useful heuristic for teaching historical method?
+- Does Hilton adequately address Ikkos's charge about institutional bias, or does she merely restate her commitment to objectivity without examining how her role might shape her historical judgments?
+- Is the "Scylla and Charybdis" framework a useful methodological tool, or does it risk a false equivalence between hagiography and critical historiography (which differ greatly in scholarly rigor and evidentiary standards)?
+- How does this debate connect to the broader presentism/historicism debate in the project? Neither Hilton nor Ikkos explicitly uses the term "presentism," yet their disagreement is fundamentally about whether and how to apply present moral standards to past psychiatric actors.

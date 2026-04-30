@@ -3,12 +3,13 @@ type: "concept"
 title: "historiography"
 tags: []
 related:
-  - "historicism"
   - "eugenics"
   - "presentism"
-created: 2026-04-26
-updated: 2026-04-26
+  - "historicism"
+created: 2026-04-30
+updated: 2026-04-30
 sources:
+  - "1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science.pdf"
   - "2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry.pdf"
   - "2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003.pdf"
   - "2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions..pdf"
@@ -16,7 +17,9 @@ sources:
   - "2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past.pdf"
   - "2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past.pdf"
   - "2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History.pdf"
+  - "Foucault/History of Madness - Gary Gutting.pdf"
 papers:
+  - "1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science"
   - "2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry"
   - "2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003"
   - "2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions."
@@ -24,36 +27,43 @@ papers:
   - "2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past"
   - "2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past"
   - "2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History"
+  - "History of Madness - Gary Gutting"
 ---
 # historiography
 
 ## Why It Matters
-- Historiography shapes professional identity and collective memory, as seen in psychiatry’s selective use of its past to justify present authority (Hirshbein).
-- Debates over presentism vs. historicism determine how ethically charged episodes (e.g., eugenics) are interpreted and whether moral lessons are drawn (Connor, Bashkow et al.).
-- Honest historiographical reckoning (Vergangenheitsbewältigung) is necessary for psychiatry to overcome cognitive dissonance and build an authentic future (Lepping & Poole).
-- The post‑2016 political crisis has normalized presentism in history, raising unresolved questions about whose present is centered and whose voices are excluded (Steinmetz‑Jenkins).
+- Historiographical choices (presentism vs. historicism) shape how we interpret the history of psychiatry, psychology, and social science.
+- Professional identity is constructed through selective historical narratives, often omitting controversial episodes (e.g., eugenics, lobotomy).
+- Confronting the discipline’s problematic past requires self‑reflective historiography (e.g., *Vergangenheitsbewältigung*).
+- Debates over presentism are tied to contemporary political crises and the question of whose present matters.
 
 ## Key Positions
-
 | Position | Core claim | Key sources |
 |----------|------------|-------------|
-| Contextual/institutional history | Psychiatry’s history should be studied through institutional and social context, not as a progressive narrative. | [[2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry]] |
-| Critical analysis of professional memory | APA presidents used selective history to construct a humanitarian identity, omitting eugenics and lobotomy. | [[2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003]] |
-| Externalist vs. internalist historiography | The ‘New History’ of psychology is a fundamental methodological shift toward externalism and critical analysis. | [[2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.]] |
-| Anti‑presentism | Applying modern bioethical categories to past eugenic practices leads to moral complacency and ahistorical judgment. | [[2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics]] |
-| Enlightened presentism | The rigid presentism/historicism dichotomy is artificial; present concerns can legitimately recover neglected ancestors for theory. | [[2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past]] |
-| Vergangenheitsbewältigung in psychiatry | UK psychiatry must honestly reckon with its eugenic, racist, and homophobic past to resolve cognitive dissonance. | [[2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past]] |
-| Critique of normalized presentism | Post‑2016 presentism in the history profession is provincial and Eurocentric, lacking consensus on whose present is of concern. | [[2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History]] |
+| Beyond presentism & historicism | A postpositivist theory of science grounds a viable historiography of social science. | [[1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science]] |
+| Contextual institutional history | Future historiography of psychiatry should follow Pressman’s contextual, institutional approach. | [[2000 - Burnham - Jack Pressman and the Future of the History of Psychiatry]] |
+| Selective professional memory | APA presidents used history selectively to construct a humanitarian tradition, omitting eugenics and lobotomy. | [[2014 - Hirshbein - History, Memory, and Profession; A View of American Psychiatry Through APA Presidential Addresses, 1883–2003]] |
+| New history of psychology | A fundamental methodological shift toward externalism and critical analysis defines the “New History” of psychology. | [[2016 - Brock - The new history of psychology; Some (different) answers to Lovett’s five questions.]] |
+| Presentism as moral complacency | Applying modern bioethical categories to past eugenic practices leads to moral complacency, not genuine understanding. | [[2017 - Connor - The “Human Subject,” “Vulnerable Populations,” and Medical History; The Problem of Presentism and the Discourse of Bioethics]] |
+| Enlightened presentism | The presentism–historicism dichotomy is an artifact; “enlightened presentism” recovers neglected ancestors for current theory. | [[2019 - Bashkow et al. - Voicing the Ancestors; Readings for the Present from Anthropology's Past]] |
+| Vergangenheitsbewältigung | UK psychiatry needs honest reckoning with eugenic, racist, and homophobic past to overcome cognitive dissonance. | [[2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung; ‘culture wars’, cognitive dissonance and coming to terms with the past]] |
+| Presentism and democracy | Post‑2016 crisis of democracy normalized presentism, but the turn is Eurocentric and lacks consensus on whose present. | [[2022 - Steinmetz‐Jenkins - Introduction; Whose Present Which History]] |
+| Foucault’s idealist method | Foucault’s history prioritizes interpretative coherence over empirical accuracy, praised for meta‑level insights. | [[History of Madness - Gary Gutting]] |
 
 ## Sub-topics
-- [[historicism]]
 - [[presentism]]
+- [[historicism]]
+- whig-history
 
 ## Related concepts
 - [[eugenics]]
+- [[anti-psychiatry]]
+- [[medicalization]]
+- [[moral-treatment]]
+- [[degeneration-theory]]
 
 ## Open questions
-- Can an “enlightened presentism” (Bashkow et al.) be operationalized without slipping into the moral complacency that Connor warns against?
-- How can professional organizations (e.g., the APA) implement a genuine Vergangenheitsbewältigung without the selective memory Hirshbein documents?
-- Whose present should anchor historical inquiry in a global, non‑Eurocentric historiography (Steinmetz‑Jenkins)?
-- Does the externalist turn in psychology’s “New History” (Brock) risk losing the internalist insights still valuable for understanding clinical practice?
+- Can a “middle ground” between presentism and historicism be operationalized without falling into either extreme?
+- Whose present should guide the critical historiography of psychiatry—and how can the field avoid Eurocentrism?
+- How do Foucault’s idealist methods affect the factual reliability of historical narratives used in psychiatry?
+- Is an honest reckoning with a profession’s past (*Vergangenheitsbewältigung*) compatible with constructing a usable professional identity?

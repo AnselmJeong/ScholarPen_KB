@@ -2,97 +2,88 @@
 ---
 type: source
 title: "On the Limits of 'Presentism' and 'Historicism' in the Historiography of the Behavioral Sciences"
-created: 2026-04-26
-updated: 2026-04-26
-tags:
-  - historiography
-  - presentism
-  - historicism
-  - whig history
-  - behavioral sciences
-  - paradigm
-  - pre-paradigmatic science
-  - enlightened presentism
-  - thinking vs thought
-  - reasonableness vs rationality
-related:
-  - "concepts/presentism"
-  - "concepts/historicism"
-  - "entities/journal-of-the-history-of-the-behavioral-sciences-jhbs"
-sources:
-  - "1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences.pdf"
-one_line_finding: "By suspending presentist judgment, historicist understanding paradoxically best serves present utility in behavioral science historiography."
+created: 1965-01-01
+updated: 2026-04-30
+tags: [presentism, historicism, historiography, behavioral-sciences, whig-interpretation, paradigm, pre-paradigmatic, enlightened-presentism, thinking-vs-thought, reasonableness-vs-rationality]
+related: []
+sources: ["1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences.pdf"]
+one_line_finding: "Stocking argues that behavioral science historiography should employ historicist methods (understanding the past on its own terms) even when pursuing presentist goals, an approach he terms 'enlightened presentism'."
 ---
 ```
 
-# On the Limits of “Presentism” and “Historicism” in the Historiography of the Behavioral Sciences
+# On the Limits of "Presentism" and "Historicism" in the Historiography of the Behavioral Sciences
 
 ## Summary
 
-This editorial, published in the inaugural year of the *Journal of the History of the Behavioral Sciences*, lays out a foundational methodological argument for the historiography of the behavioral sciences. Stocking frames the central tension as one between two ideal‑typical orientations: “presentism” (studying the past for the sake of the present) and “historicism” (studying the past for the sake of the past). Drawing on Herbert Butterfield’s critique of Whig history, R. G. Collingwood’s logic of question and answer, Joseph Levenson’s distinctions between thinking and thought and between reasonableness and rationality, and Thomas Kuhn’s concept of paradigms, Stocking builds a nuanced case for the limits and legitimate uses of each orientation.
+This editorial, published in the inaugural volume of the *Journal of the History of the Behavioral Sciences*, articulates the fundamental methodological tension in writing the history of the behavioral sciences. Stocking frames the problem as a dichotomy between "presentism"—studying the past for the sake of the present—and "historicism"—studying the past for its own sake. He argues that while presentism is the natural orientation of practicing behavioral scientists (driven by utilitarian motives), it carries serious historiographical vices: anachronism, distortion, neglect of context, and oversimplification of change into Whiggish progress narratives.
 
-The argument proceeds through conceptual analysis rather than empirical data. Stocking first identifies the characteristic vices of presentism—anachronism, distortion, misleading analogy, neglect of context, and oversimplified linear narratives—and shows why the behavioral sciences are especially vulnerable to them due to their “pre‑paradigmatic” state. He then advocates for an “affective” historicism that seeks to understand past ideas in their own terms, as answers to the questions of their time. Crucially, he does not reject presentism outright but argues that the most fruitful present‑oriented history is one that first proceeds through historicist means.
+Drawing on Herbert Butterfield's critique of Whig history, Joseph Levenson's distinctions between "thinking" and "thought" and between "reasonableness" and "rationality," and Thomas Kuhn's concept of the "paradigm," Stocking develops a methodological framework for behavioral science historiography. He notes that the behavioral sciences are largely in a "pre-paradigmatic" state—characterized by competing schools without consensus—which makes their historiography especially vulnerable to partisan lineage-tracing and presentist distortion.
 
-The significance of Stocking’s essay lies in its resolution of what might otherwise remain a simple polemical dichotomy. By proposing an “enlightened presentism” that operates *through* historicist understanding, Stocking provides a methodological via media. The essay has become a canonical reference in debates over historiography of psychology, anthropology, and psychiatry, and it remains central to ongoing discussions about the relationship between historical scholarship and contemporary scientific practice.
+The essay's central contribution is its advocacy of "enlightened presentism": the pursuit of present utility through historicist means. By first understanding past ideas in their own context—as answers to the questions of their time—the historian can subsequently serve present scientific needs more effectively than by direct judgment or anachronistic borrowing. Stocking illustrates this with Dell Hymes's argument for a critical history of linguistic anthropology and with his own analysis of E. B. Tylor's evolutionary anthropology. The editorial thus establishes a nuanced via media that has shaped subsequent debates in the historiography of psychology, psychiatry, and anthropology.
 
 ## Key Entities
 
-- **Journal of the History of the Behavioral Sciences** (org) — The venue for this editorial; Stocking frames his methodological statement as relevant to this journal’s mission.
-- ***The Whig Interpretation of History* (Herbert Butterfield, 1931)** (tool) — Provides the vocabulary of “past for the sake of the past” vs. “past for the sake of the present” and the critique of Whiggish history.
-- ***Confucian China and Its Modern Fate* (Joseph Levenson, 1958, 1965)** (tool) — Supplies key analytic distinctions: thinking vs. thought, reasonableness vs. rationality, and historically significant vs. merely historically significant.
-- ***The Structure of Scientific Revolutions* (Thomas Kuhn, 1962)** (tool) — Provides the concept of “paradigm” used to explain why pre‑paradigmatic behavioral sciences are especially prone to presentist vices.
-- **“Notes Toward a History of Linguistic Anthropology” (Dell Hymes, 1963)** (tool) — Serves as a concrete example of “enlightened presentism”—using historical study to recover lost perspectives and transcend current limitations.
+- **Journal of the History of the Behavioral Sciences (JHBS)** (org: journal) — The journal in which this editorial appears; it serves as the principal forum for historiography of behavioral sciences and is itself a product of the "grass roots impulses" Stocking describes.
 
 ## Key Concepts
 
-- **Presentism** — Studying the past “for the sake of the present”; evaluating historical phenomena by present standards; searching for origins, precursors, and lineages of current ideas. Stocking distinguishes a “Whiggish” variety (normative, progressive, judgmental) from a more legitimate presentism that can coexist with historicist methods.
-- **Historicism** — Studying the past “for the sake of the past”; seeking to understand ideas in their own context, with attention to the questions they answered and the alternatives they excluded. Stocking uses the term loosely, without epistemological commitment, to denote a commitment to contextual understanding.
-- **Whig History / Whiggish Presentism** — A specific form of presentism that assumes progress, judges historical actors as progressive or reactionary, and abridges complexity into linear narratives leading to the present. Drawn from Butterfield, this is the primary foil of Stocking’s argument.
-- **Thinking vs. Thought** (Levenson/Collingwood) — Intellectual history should study *men thinking* (questions + answers + alternatives) rather than disembodied *thought* (isolated propositions). A core methodological principle for historicist understanding.
-- **Reasonableness vs. Rationality** — Historians should ask whether past ideas are *reasonable* (answering the questions of their time) rather than *rational* (timelessly true). This distinction enables non‑judgmental understanding.
-- **Understanding vs. Judgment** — Understanding seeks the “reasonableness” of past ideas; judgment applies present or absolute standards. Stocking advocates understanding as the historian’s proper stance, though he acknowledges judgment is ultimately necessary.
-- **Paradigm** (Kuhn) — A disciplinary world view: shared assumptions about entities, legitimate questions, and methods. Stocking uses the concept to explain why the behavioral sciences, being pre‑paradigmatic, are especially vulnerable to presentist distortions.
-- **Pre‑paradigmatic Science** — A field lacking a single consensual paradigm, characterized by competing schools. Stocking argues this condition makes historiography an arena for contemporary school rivalries and thus especially susceptible to presentism.
-- **Historically Significant vs. (Merely) Historically Significant** (Levenson) — A distinction between empirical judgments of fruitfulness over time (descriptive) and normative judgments of worth in the present (evaluative). The historian can create present utility by abjuring normative judgment.
-- **Enlightened Presentism** — A legitimate present‑oriented historiography that operates *through* historicist means—understanding past contexts to recover lost perspectives and transcend current limitations. Stocking’s constructive proposal and the synthesis he advocates.
+- **Presentism** — The historiographical orientation that studies the past for the sake of the present; includes Whiggish history (normative progress narratives) as a subtype. Characterized by utilitarian motivation, anachronistic judgment, and the search for precursors and founders.
+- **Historicism** — The orientation that studies the past for its own sake, seeking to understand phenomena in their own context without judging by present standards. Stocking uses the term loosely, without epistemological commitment, to denote an affective, contextual approach.
+- **Whig Interpretation of History** — A variety of presentism, defined by Butterfield, that writes history as inevitable progress, ratifying the present, with heroes (progressives) and villains (reactionaries); involves a principle of abridgment and search for origins.
+- **Paradigm** (Kuhn) — An articulated set of assumptions about fundamental entities, their interactions, legitimate questions, and methods; functions as a disciplinary world view. Consensual paradigms define "normal science" and are the basis for puzzle-solving.
+- **Pre-paradigmatic State** — A science before the establishment of its first consensual paradigm, characterized by competing schools each building the field anew. The behavioral sciences are largely in this state, making their historiography especially prone to presentism.
+- **Thinking vs. Thought** (Levenson) — "Thinking" refers to ideas in context, shaped by the questions and alternatives of their time; "Thought" refers to abstracted propositions judged by present standards. Intellectual history should be the history of men thinking.
+- **Reasonableness vs. Rationality** (Levenson) — "Reasonableness" assesses ideas relative to the questions put by the subject's time; "Rationality" assesses timeless, abstract truth value. The historian seeks to understand why an idea was reasonable, even if imperfectly rational.
+- **Understanding vs. Judgment** — Understanding is the attempt to grasp the "reasonableness" of past ideas; Judgment evaluates them against present or absolute standards. The historicist prioritizes understanding over judgment.
+- **Enlightened Presentism** — Stocking's proposed resolution: using historicist methods (context, process, thinking, reasonableness) to serve presentist ends. By suspending judgment as to present utility, the historian makes that judgment ultimately possible.
 
 ## Main Arguments & Findings
 
-- **Core claim: Presentism and historicism are ideal‑typical orientations with characteristic risks and legitimate uses.**  
-  **Evidence:** Stocking builds on Butterfield’s critique of Whig history, Levenson’s distinction between thinking and thought, and Kuhn’s paradigm concept. He shows that each orientation has natural adherents (historians tend toward historicism; behavioral scientists toward presentism) and that each carries risks when applied exclusively.  
-  **Strength:** The argument is conceptual rather than empirical, but it is internally consistent, draws on multiple authoritative sources, and acknowledges its own ideal‑typical oversimplification. It does not claim to prove a hypothesis but to clarify a methodological debate.
+- **Core claim: Presentism and historicism are ideal-typical historiographical orientations, each with characteristic motivational postures (utilitarian vs. affective).**
+  - Evidence: Butterfield's Whig critique, Levenson's distinctions, Kuhn's paradigm concept. Stocking uses these to argue that behavioral scientists naturally incline toward presentism, historians toward historicism.
+  - Strength: Theoretical and persuasive, but based on asserted ideal types rather than empirical evidence. The dichotomy is acknowledged as an oversimplification.
 
-- **Core claim: The behavioral sciences are especially vulnerable to presentist vices because they are “pre‑paradigmatic.”**  
-  **Evidence:** In fields without a single consensual paradigm, historiography becomes an extension of contemporary school rivalries. This leads to sterile lineage‑tracing, partisan claims about founders, and anachronistic judgments. Stocking provides general observation rather than specific case studies.  
-  **Strength:** The claim follows logically from Kuhn’s framework, which Stocking applies to the behavioral sciences. While the pre‑paradigmatic status of these fields is itself debatable, the argument offers a structural explanation for presentism’s persistence. The lack of detailed examples limits empirical support.
+- **Core claim: The pre-paradigmatic state of the behavioral sciences makes their historiography especially susceptible to the vices of presentism (anachronism, distortion, neglect of context, oversimplification).**
+  - Evidence: Application of Kuhn's pre-paradigm concept to behavioral sciences; observation of lineage-tracing in behavioral science history courses; examples from early JHBS issues.
+  - Strength: Coherent extension of Kuhn's framework; plausible given the known fragmentation of fields like psychology and sociology, but not systematically demonstrated.
 
-- **Core claim: Despite its risks, presentism is not only legitimate but necessary for behavioral scientists, because their fields are fragmented and have short historical memories.**  
-  **Evidence:** Stocking quotes Dell Hymes at length to show how historical study can recover lost perspectives and transcend current limitations. He also argues that pre‑paradigmatic fields contain unresolved questions from earlier work that may still be fruitful.  
-  **Strength:** The Hymes example provides a concrete illustration, though it is not a systematic test. The argument is persuasive on logical grounds: if a field has forgotten past approaches, historicist recovery can serve present discovery.
+- **Core claim: Despite the dangers, a purely historicist approach is neither fully achievable nor desirable for behavioral science historiography; an "enlightened presentism" is required.**
+  - Evidence: Levenson's argument that present standards are necessary to frame the questions that make historical understanding possible; Hymes's case for critical history in linguistic anthropology (regaining lost perspectives, transcending partial traditions); Stocking's Tylor example showing the three categories of questions (answered, still open, unrecognizable).
+  - Strength: The most original and influential claim. Supported by compelling case examples and philosophical argument. However, it is a normative prescription, not an empirical finding.
 
-- **Core claim: The best way to achieve present utility is *through* historicist method.**  
-  **Evidence:** Drawing on Levenson’s concept of “historically significant” vs. “(merely) historically significant,” Stocking argues that suspending present judgment allows the historian to recover questions and alternatives that would otherwise be invisible. This recovery ultimately generates more valuable present‑oriented insights than direct presentist search.  
-  **Strength:** This is the central paradox of the essay and its most original contribution. The argument is well‑supported by Levenson’s analysis and internal logic. It reconciles the two orientations without collapsing the distinction.
+- **Core claim: The utility sought from history is best achieved by an approach that is in practice historicist—suspending judgment about present utility in order to make that judgment ultimately possible.**
+  - Evidence: Hymes's demonstration that historical study can reveal lost perspectives and help transcend current limitations; Stocking's distinction between "historically (really) significant" and "(merely) historically significant" drawn from Levenson.
+  - Strength: Stated with conviction and illustrated with examples, but the causal link between historicist method and present utility is asserted rather than proven. The claim remains an article of faith in the historian's craft.
 
 ## Connections
 
-- [[concepts/presentism]] — Stocking’s essay provides the classic definition and critique of presentism as applied to behavioral science historiography. It distinguishes whiggish from enlightened presentism and should be used to expand this concept page.
-- [[concepts/historicism]] — Stocking defines historicism in a specific, non‑epistemological sense (focused on understanding past ideas in their own context). This source gives the concept concrete content and links it to Butterfield, Collingwood, and Levenson.
-- [[entities/journal-of-the-history-of-the-behavioral-sciences-jhbs]] — This editorial was published in the journal’s first volume and directly addresses its historiographical mission.
-- [[concepts/dsm-iii]] (indirect) — Stocking’s pre‑paradigmatic argument explains why psychiatric classification history is especially contested and presentist; the DSM‑III revolution can be seen as a paradigm shift subject to the dynamics he describes.
-- [[concepts/anti-psychiatry]] (indirect) — Stocking’s historicism implies that past psychiatric practices (including those condemned by anti‑psychiatry) should be understood as “reasonable” answers to the questions of their time, challenging purely presentist moral judgment.
+- [[concepts/presentism]] — This source is the foundational text for presentism as a historiographical problem in the behavioral sciences; all subsequent wiki entries on presentism should cite Stocking (1965).
+- [[concepts/historicism]] — Defines the term in the specific historiographical sense (contrasting with philosophical historicism) used throughout the wiki.
+- [[concepts/historiography]] — Provides the core presentism/historicism framework that structures analysis of many other sources in the wiki.
+- [[concepts/anti-psychiatry]] — The problem of presentism is central to debates about judging past psychiatric practices (e.g., eugenics, lobotomy); Stocking's framework offers methodological grounding for those debates.
+- [[concepts/psychiatric-classification]] — The pre-paradigmatic argument explains why psychiatric classification remains contested; the DSM revolution can be seen as an attempt to create a paradigm.
+- [[concepts/biomedical-model]] — Whiggish assumptions about scientific progress in psychiatry reflect the presentism Stocking critiques.
+- [[concepts/moral-treatment]] — Stocking's framework prompts re-examination: is the judgment that moral treatment "failed" a presentist one? What questions were its practitioners answering?
+- [[concepts/degeneration-theory]] — The existing wiki entry notes this was a "defensive ideological response"; Stocking would add: what questions was degeneration theory answering, and what made it *reasonable* (if not rational)?
+- [[sources/2019 - Bashkow - On History for the Present]] — Bashkow explicitly revisits Stocking's rejection of presentism, providing a direct conversation with this source.
+- [[sources/2023 - Ikkos - Blame or discovery]] — Ikkos's argument for "discovery of uncomfortable truths" can be positioned within Stocking's typology: is it enlightened presentism or pure historicism?
+- [[sources/2022 - Lepping, Poole - Psychiatry's need for Vergangenheitsbewältigung]] — Their call for reckoning with the past is explicitly presentist; Stocking would caution that this requires first understanding the past on its own terms.
+- [[sources/2014 - Hirshbein - History, Memory, and Profession]] — Hirshbein demonstrates the presentist use of history that Stocking warned against (selective use of APA presidential addresses to construct professional identity).
 
 ## Contradictions & Tensions
 
-- **Historicism as Holy Grail vs. practical necessity:** Stocking acknowledges that “pure” historicism may be unattainable, yet treats it as a regulative ideal. This creates a tension between aspiration and pragmatic implementation.
-- **Presentism is bad, but also necessary:** The essay is structured as a critique of presentism but concludes that presentism is unavoidable and even valuable for behavioral scientists. The resolution (“suspending judgment to make judgment possible”) is elegant but operationally difficult to implement.
-- **The pre‑paradigmatic argument cuts both ways:** If behavioral sciences are pre‑paradigmatic, historicist understanding is harder because there is no single framework to contextualize. Yet Stocking uses this very condition to argue *for* historicism. The argument does not fully address how historicist understanding can proceed without a stable paradigm.
-- **Potential conflict with normative historical judgments:** Stocking’s insistence on understanding past ideas as “reasonable” answers to their time could be seen as absolving historians of moral judgment (e.g., regarding eugenics or coercive treatments). This tension is not fully resolved and remains a live issue in the historiography of psychiatry.
+- **Internal tension: Dichotomy vs. continuum.** Stocking sets up a neat presentism/historicism dichotomy but acknowledges it is an ideal-typical oversimplification. His proposed resolution (enlightened presentism) blurs the boundary, creating a tension between the polemical structure and the nuanced conclusion.
+- **Internal tension: Prescriptive vs. descriptive.** The essay veers between describing what historians *do* (the typical orientations) and prescribing what they *should do* (advocating enlightened presentism). This dual stance is never fully resolved.
+- **Internal tension: Historicism as unattainable yet necessary.** Stocking calls pure historicism a "Holy Grail" never fully achieved, yet argues it is the orientation to pursue. This creates a methodological tension between aspiration and practice.
+- **External tension: Hirshbein (2014).** Hirshbein's empirical study shows that APA presidents used history selectively to construct a professional identity. Stocking's framework would characterize this as classic presentism, but the tension is that such presentist use may be inevitable for professional legitimation—a possibility Stocking does not fully address.
+- **External tension: Ikkos (2023).** Ikkos argues for "discovery of uncomfortable truths" as the primary driver of historical inquiry. Stocking would ask: discovery for what purpose? If to inform present practice, it is enlightened presentism; if for pure understanding, it is historicism. But Ikkos frames it as a moral imperative—a dimension Stocking brackets.
+- **External tension: Lepping & Poole (2022).** Their call for Vergangenheitsbewältigung (honest reckoning) is explicitly presentist (to build a better future). Stocking might caution that moral condemnation from a present standpoint can impede the historicist understanding required to genuinely learn from the past.
 
 ## Open Questions
 
-- **Is “pure historicism” possible, or is it only an asymptotic ideal?** Stocking treats it as a goal to strive for, but the essay does not settle whether any historian can fully bracket present concerns.
-- **Does Stocking’s argument absolve historians of ethical judgment?** If past psychiatric practices are understood as “reasonable” answers to their time, how do we reconcile this with contemporary ethical commitments? This tension remains unresolved.
-- **How does Stocking’s 1965 argument relate to later critiques of the presentism/historicism dichotomy?** For example, Bashkow (2019) argues that the rigid dichotomy is itself a historical artifact. The wiki should track this evolving conversation.
-- **Is “enlightened presentism” distinct from historicism honestly practiced, or is it simply a rebranding?** Stocking suggests they are different, but the practical difference is unclear—especially since he argues that historicist method is the route to present utility.
-- **What specific methodological training would best prepare behavioral scientists to write historicist history?** Stocking raises the question but does not answer it, leaving open a practical agenda for the field.
+- **Whose present counts?** Stocking's framework assumes a unitary "present." Steinmetz-Jenkins (2022) problematizes this: whose present is of concern? This remains an unresolved tension when applying Stocking's framework to contested histories.
+- **Does "enlightened presentism" actually work?** Stocking asserts that historicist study of past behavioral science produces better present science (via Hymes's example). Is this a testable empirical claim? What evidence would support or refute it?
+- **Can the behavioral sciences ever achieve a Kuhnian paradigm?** If not, presentist historiography may be a permanent condition, not a correctible error. This has implications for how we evaluate psychiatric classification efforts and other paradigmatic attempts.
+- **What about moral judgment?** Stocking brackets normative questions. But sources like Lepping & Poole (2022) and Ikkos (2023) argue that psychiatry *must* make moral judgments about its past (e.g., eugenics). Can enlightened presentism accommodate explicit moral judgment, or does it require a different framework?
+- **Is the thinking/thought distinction always applicable?** When past and present questions are identical (e.g., the nature of consciousness), the line between thinking and thought becomes blurred. What does that mean for historicist methodology?
+- **How do we distinguish "enlightened" from "naive" presentism in practice?** Stocking provides criteria (context, questions, alternatives) but no systematic procedure. This leaves considerable room for disagreement about whether a given historical work is enlightened or naive.

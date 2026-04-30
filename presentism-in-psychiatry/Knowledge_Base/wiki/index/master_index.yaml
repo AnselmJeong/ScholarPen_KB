@@ -9,14 +9,17 @@ papers:
   wiki_slug: 001-1-puzzles-of-mental-illness
   summary_path: sources/001-1-puzzles-of-mental-illness.md
   llm_keywords:
-  - Harmful Dysfunction
-  - Biomedical Model
-  - Cultural Relativism
-  - Incomprehensibility
+  - incomprehensibility
+  - harmful-dysfunction
+  - contextual-explicability
+  - cultural-relativity
+  - biomedical-model
   - DSM-5
-  - Socio-Political Myth
-  - Mental Health Sociology
-  - Sanity vs Madness Boundary
+  - nosology
+  - medicalization
+  - anti-psychiatry
+  - cross-cultural-psychiatry
+  one_line_finding: Across cultures and millennia, madness is defined by incomprehensible behavior lacking socially plausible reasons; the DSM-5's 'harmful dysfunction' framework formalizes this but leaves boundaries between sanity and disorder inherently fuzzy.
 - id: 001-chapter-one
   title: 001-chapter-one
   authors:
@@ -105,14 +108,17 @@ papers:
   wiki_slug: 003-chapter-three
   summary_path: sources/003-chapter-three.md
   llm_keywords:
-  - Galenism
-  - Humoral Imbalance
-  - Hagiotherapy
-  - Translation Movement
-  - Academy of Gundishapur
-  - Canon of Medicine
-  - Jinn
-  - Medieval Psychiatry
+  - humoral theory
+  - Galenic medicine
+  - Islamic hospitals
+  - jinn possession
+  - relic veneration
+  - demonic possession
+  - Avicenna's Canon
+  - medieval medicine
+  - moral treatment
+  - translation movement
+  one_line_finding: Islamic civilization preserved Galenic humoral theory and created the first hospitals for the insane, while Christian Europe relied on saintly miracles and demonic possession.
 - id: 004-4-freud-s-transformation-of-normality
   title: 004-4-freud-s-transformation-of-normality
   authors:
@@ -183,16 +189,17 @@ papers:
   wiki_slug: 005-chapter-five
   summary_path: sources/005-chapter-five.md
   llm_keywords:
+  - trade in lunacy
+  - false confinement
   - Great Confinement
-  - Trade in lunacy
-  - False confinement
-  - Marketization of madness
-  - Lettres de cachet
-  - Interdiction
-  - Institutionalization of madness
-  - Social control of the idle
-  - Public voyeurism
-  - Cultural commodity of madness
+  - madhouses
+  - Bedlam
+  - Salpêtrière
+  - representation of madness
+  - gothic novel
+  - mad scene
+  - moral architecture
+  one_line_finding: The 'Great Confinement' thesis is overstated; English madhouses were commercial enterprises that operated under a cloud of suspicion about false confinement.
 - id: 006-6-the-decline-and-fall-of-dynamic-psychiatry
   title: 006-6-the-decline-and-fall-of-dynamic-psychiatry
   authors:
@@ -452,16 +459,17 @@ papers:
   wiki_slug: 1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science
   summary_path: sources/1983 - Seidman - Beyond Presentism and HIstoricism; Understanding the History of Social Science.md
   llm_keywords:
-  - Presentism
-  - Historicism
-  - Intentionalism
-  - Postpositivism
-  - Whiggish history
-  - New Historicism
-  - Analytical realm
-  - Ideological realm
-  - Historiography of social science
-  - Contextualism
+  - presentism
+  - historicism
+  - historiography
+  - intentionalism
+  - textual-autonomy
+  - objectivism
+  - postpositivism
+  - tradition
+  - social-science-theory
+  - hermeneutics
+  one_line_finding: A viable historiography of social science must move beyond both presentism and historicism by grounding itself in a postpositivist theory of science.
 - id: 2000 - Beer et al. - History of psychiatric disorders and treatments
   title: History of psychiatric disorders and treatments
   authors:
@@ -968,14 +976,17 @@ papers:
   wiki_slug: 2023 - Hoerger - The Fate of the Dead
   summary_path: sources/2023 - Hoerger - The Fate of the Dead.md
   llm_keywords:
-  - Politics of redemption
-  - Weak messianic power
+  - Historical Injustice
+  - Redemption
+  - Walter Benjamin
+  - Weak Messianic Power
   - Left Conservatism
-  - The Guilted Age
-  - Historical injustice
-  - Memory politics
-  - Transitional justice
-  - Redress of historical injustice
+  - Guilted Age
+  - Perpetrator Redemption
+  - Redress
+  - Presentism
+  - Saidiya Hartman
+  one_line_finding: Argues that past perpetrators are redeemable not by preserving their legacy but by redressing their wrongs; develops a 'left conservatism' that balances attachment to the past with transformative justice.
 - id: 2023 - Ikkos - Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
   title: Blame or discovery Walter Benjamin's iJetztzeit,i Purdue Pharma LP and ‘our values and our historical understanding of psychiatrists’
   authors:
@@ -1079,14 +1090,17 @@ papers:
   wiki_slug: A History of Psychiatry - 02
   summary_path: sources/A History of Psychiatry - 02.md
   llm_keywords:
-  - Moral therapy
-  - Therapeutic asylum
-  - Custodial asylum
-  - Alienists
-  - Grand Confinement
-  - Professionalization of psychiatry
-  - Institutional regulation
-  - Pre-psychiatric era
+  - asylums
+  - moral-therapy
+  - therapeutic-asylum
+  - enlightenment
+  - pinel
+  - esquirol
+  - chiarugi
+  - reil
+  - battie
+  - foucault
+  one_line_finding: Psychiatry was born in the late 18th century when physicians discovered that asylums could be curative rather than merely custodial.
 - id: A History of Psychiatry - 03
   title: A History of Psychiatry - 03
   authors:
@@ -1134,14 +1148,17 @@ papers:
   wiki_slug: A History of Psychiatry - 05
   summary_path: sources/A History of Psychiatry - 05.md
   llm_keywords:
-  - Neurasthenia
-  - Odium psychiatricum
-  - Doctrine of degeneration
-  - Rest cure
-  - Hydrotherapy
-  - Nerve-specialism
-  - Alienism
-  - Psychohydraulics
+  - neurasthenia
+  - rest cure
+  - hydrotherapy
+  - nervous illness
+  - fig leaf of nerves
+  - private clinics
+  - spa therapy
+  - functional nervous disease
+  - Beard
+  - Weir Mitchell
+  one_line_finding: 19th-century psychiatrists deliberately relabeled psychiatric illness as "nervous" to circumvent the stigma of madness, enabling middle-class outpatient care and private practice growth.
 - id: A History of Psychiatry - 06
   title: A History of Psychiatry - 06
   authors:
@@ -1417,14 +1434,192 @@ papers:
   wiki_slug: From Madness to Mental Health - 15
   summary_path: sources/From Madness to Mental Health - 15.md
   llm_keywords:
-  - The Psychoboom
-  - Client-Centered Therapy
-  - Cognitive-Behavioral Therapy
-  - Biomedical model
+  - psychoboom
   - DSM-III
-  - Chlorpromazine
-  - Automatic thoughts
-  - Custodial asylum care
-  - Medicalization
-  - Recovery models
-last_updated: '2026-04-26'
+  - cognitive behavioral therapy
+  - client-centered therapy
+  - feminist critique
+  - self-help
+  - biomedical model
+  - pharmaceutical industry
+  - alcoholics anonymous
+  one_line_finding: The post-WWII 'psychoboom' saw exponential growth in mental health professions and the emergence of diverse therapeutic movements—self-help, client-centered, cognitive, feminist—that both shaped and challenged the biomedical consensus.
+- id: 1991 - Scull - Psychiatry and its historians
+  title: Psychiatry and its historians
+  authors:
+  - Scull
+  year: 1991
+  pdf_path: 1991 - Scull - Psychiatry and its historians.pdf
+  source_type: pdf
+  wiki_slug: 1991 - Scull - Psychiatry and its historians
+  summary_path: sources/1991 - Scull - Psychiatry and its historians.md
+  llm_keywords:
+  - Whig history
+  - Anti-psychiatry
+  - Revisionist historiography
+  - History from below
+  - Institutional case studies
+  - Patient perspective
+  - Presentism
+  - Archival research
+  - Meta-historiography
+  - Psychiatric historiography
+- id: 2008 - Double - Eclecticism and Adolf Meyer's Functional Understanding of Mental Illness
+  title: Eclecticism and Adolf Meyer's Functional Understanding of Mental Illness
+  authors:
+  - Double
+  year: 2008
+  pdf_path: 2008 - Double - Eclecticism and Adolf Meyer's Functional Understanding of Mental Illness.pdf
+  source_type: pdf
+  wiki_slug: 2008 - Double - Eclecticism and Adolf Meyer's Functional Understanding of Mental Illness
+  llm_keywords: []
+- id: 2012 - Barbara et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part II; Neurophysiology
+  title: Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part II; Neurophysiology
+  authors:
+  - Barbara et al.
+  year: 2012
+  pdf_path: 2012 - Barbara et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part II; Neurophysiology.pdf
+  source_type: pdf
+  wiki_slug: 2012 - Barbara et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part II; Neurophysiology
+  llm_keywords: []
+- id: 2012 - Broussolle et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III; Neurology
+  title: Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III; Neurology
+  authors:
+  - Broussolle et al.
+  year: 2012
+  pdf_path: 2012 - Broussolle et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III; Neurology.pdf
+  source_type: pdf
+  wiki_slug: 2012 - Broussolle et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Part III; Neurology
+  llm_keywords: []
+- id: 2012 - Clarac et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Introduction and Part I; Neuroanatomy
+  title: Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Introduction and Part I; Neuroanatomy
+  authors:
+  - Clarac et al.
+  year: 2012
+  pdf_path: 2012 - Clarac et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Introduction and Part I; Neuroanatomy.pdf
+  source_type: pdf
+  wiki_slug: 2012 - Clarac et al. - Figures and institutions of the neurological sciences in Paris from 1800 to 1950. Introduction and Part I; Neuroanatomy
+  llm_keywords: []
+- id: 2012 - Poirier et al. - Figures and Institutions of the neurological sciences in Paris from 1800 to 1950. Part IV; Psychiatry and psychology
+  title: Figures and Institutions of the neurological sciences in Paris from 1800 to 1950. Part IV; Psychiatry and psychology
+  authors:
+  - Poirier et al.
+  year: 2012
+  pdf_path: 2012 - Poirier et al. - Figures and Institutions of the neurological sciences in Paris from 1800 to 1950. Part IV; Psychiatry and psychology.pdf
+  source_type: pdf
+  wiki_slug: 2012 - Poirier et al. - Figures and Institutions of the neurological sciences in Paris from 1800 to 1950. Part IV; Psychiatry and psychology
+  llm_keywords: []
+- id: 2017 - Im - A Study of the Discussions on Psychiatry of Korea in the 1960s and 1970s - From Mental Hygiene to Modern Psychiatry -
+  title: A Study of the Discussions on Psychiatry of Korea in the 1960s and 1970s - From Mental Hygiene to Modern Psychiatry -
+  authors:
+  - Im
+  year: 2017
+  pdf_path: 2017 - Im - A Study of the Discussions on Psychiatry of Korea in the 1960s and 1970s - From Mental Hygiene to Modern Psychiatry -.pdf
+  source_type: pdf
+  wiki_slug: 2017 - Im - A Study of the Discussions on Psychiatry of Korea in the 1960s and 1970s - From Mental Hygiene to Modern Psychiatry -
+  llm_keywords: []
+- id: 2018 - Hilton - Psychiatry past and present; do we need history
+  title: Psychiatry past and present; do we need history
+  authors:
+  - Hilton
+  year: 2018
+  pdf_path: 2018 - Hilton - Psychiatry past and present; do we need history.pdf
+  source_type: pdf
+  wiki_slug: 2018 - Hilton - Psychiatry past and present; do we need history
+  summary_path: sources/2018 - Hilton - Psychiatry past and present; do we need history.md
+  llm_keywords:
+  - Whig history
+  - Hindsight analysis
+  - Retrospectoscope
+  - Contextualised historical analysis
+  - Parity of esteem
+  - Presentism
+  - Historicism
+  - Mental Treatment Act 1930
+- id: 2020 - Double - Critical psychiatry; an embarrassing hangover from the 1970s
+  title: Critical psychiatry; an embarrassing hangover from the 1970s
+  authors:
+  - Double
+  year: 2020
+  pdf_path: 2020 - Double - Critical psychiatry; an embarrassing hangover from the 1970s.pdf
+  source_type: pdf
+  wiki_slug: 2020 - Double - Critical psychiatry; an embarrassing hangover from the 1970s
+  llm_keywords: []
+- id: 2023 - Gil - Woke culture and the history of America; From colonisation to depersonalisation
+  title: Woke culture and the history of America; From colonisation to depersonalisation
+  authors:
+  - Gil
+  year: 2023
+  pdf_path: 2023 - Gil - Woke culture and the history of America; From colonisation to depersonalisation.pdf
+  source_type: pdf
+  wiki_slug: 2023 - Gil - Woke culture and the history of America; From colonisation to depersonalisation
+  summary_path: sources/2023 - Gil - Woke culture and the history of America; From colonisation to depersonalisation.md
+  llm_keywords:
+  - Presentism
+  - Culture of victimhood
+  - Microaggressions
+  - Depersonalisation
+  - Stataphobia
+  - Black legend
+  - Cancel culture
+  - Historical revisionism
+- id: 2024 - Chi - Becoming Modern; Modernization, Psychiatry and Mental Health in South Korea
+  title: Becoming Modern; Modernization, Psychiatry and Mental Health in South Korea
+  authors:
+  - Chi
+  year: 2024
+  pdf_path: 2024 - Chi - Becoming Modern; Modernization, Psychiatry and Mental Health in South Korea.pdf
+  source_type: pdf
+  wiki_slug: 2024 - Chi - Becoming Modern; Modernization, Psychiatry and Mental Health in South Korea
+  llm_keywords: []
+- id: Davidson - The Strange Disappearance of Adolf Meyer
+  title: Davidson - The Strange Disappearance of Adolf Meyer
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Davidson - The Strange Disappearance of Adolf Meyer.pdf
+  source_type: pdf
+  wiki_slug: Davidson - The Strange Disappearance of Adolf Meyer
+  llm_keywords: []
+- id: HIstory of Madness - Colin Gordon
+  title: HIstory of Madness - Colin Gordon
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Foucault/HIstory of Madness - Colin Gordon.pdf
+  source_type: pdf
+  wiki_slug: HIstory of Madness - Colin Gordon
+  summary_path: sources/HIstory of Madness - Colin Gordon.md
+  llm_keywords:
+  - great internment
+  - compelle-intrare
+  - psychiatricide
+  - history of limits
+  - correctional internment
+  - therapeutic vocation
+  - limit-experience
+  - spatial containment
+  - structural method
+  - governmentality
+- id: History of Madness - Gary Gutting
+  title: History of Madness - Gary Gutting
+  authors:
+  - Unknown
+  year: 0
+  pdf_path: Foucault/History of Madness - Gary Gutting.pdf
+  source_type: pdf
+  wiki_slug: History of Madness - Gary Gutting
+  summary_path: sources/History of Madness - Gary Gutting.md
+  llm_keywords:
+  - idealist-history
+  - confinement
+  - unreason
+  - classical-age
+  - animality
+  - historiography
+  - foucault
+  - mental-illness-invention
+  - great-confinement
+  - moral-therapy
+  one_line_finding: Foucault's history is praised for meta-level insights but criticized for factual errors; Gutting explains this via Foucault's idealist method, prioritizing interpretative coherence over empirical correspondence.
+last_updated: '2026-04-30'

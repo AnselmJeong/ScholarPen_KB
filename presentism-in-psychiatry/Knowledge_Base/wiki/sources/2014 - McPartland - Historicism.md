@@ -2,71 +2,58 @@
 ---
 type: source
 title: "Historicism"
-created: 2014-01-01
-updated: 2014-01-01
-tags: [historicism, historical-relativism, crisis-of-historicism, genetic-method, disenchantment, political-philosophy, historiography, hermeneutics]
+created: 2026-04-30
+updated: 2026-04-30
+tags: [historicism, historical-relativism, crisis-of-historicism, genetic-method, political-philosophy, historiography, presentism, disenchantment, weltanschauung, philosophy-of-history]
 related: []
 sources: ["2014 - McPartland - Historicism.pdf"]
-one_line_finding: "Historicism's internal contradictions unite in a genetic method that reduces political philosophy to historical relativity, generating a 'crisis of historicism'."
+one_line_finding: "Historicism, as a methodological principle, reduces all political and philosophical questions to historical ones, undermining independent political thought and leading to a crisis of relativism."
 ---
 ```
 
 # Historicism
 
 ## Summary
+McPartland's encyclopedia entry traces the concept of historicism from its emergence as a derogatory term in late‑19th‑century German debates to its broader adoption in the 1920s and 1930s. The piece synthesizes a wide intellectual tradition, showing how historicism—despite internal contradictions—undermined the legitimacy of political thought as an independent field of inquiry by subsuming all questions under historical processes.
 
-This encyclopedia entry by Thomas J. McPartland provides a synthetic overview of "historicism" (*Historismus*) as it developed in German and broader Western thought, with a focus on its implications for political philosophy. The source traces the term's evolution from a late‑19th‑century pejorative for historical reductionism in political economy to a central methodological orientation in the humanities and social sciences by the early 20th century. McPartland draws on a wide range of intellectual figures—Burke, Vico, Herder, Dilthey, Meinecke, Troeltsch, Weber, Popper, Hegel, Marx, and others—to map the concept's internal diversity and tensions.
+The entry proceeds by distinguishing two contradictory strands: one emphasizing the unique, concrete, and irrational (exemplified by Meinecke), and another seeking general laws of historical development (the target of Popper's critique). McPartland resolves this tension by adopting Mandelbaum's definition of historicism as a genetic method—explaining events exclusively as phases of a larger historical process. This methodological principle carries profound implications: a new concept of truth (all philosophical questions become historical) and a new concept of human nature (variable across epochs, not universal).
 
-The entry argues that despite the contradictory definitions of historicism (from Meinecke's emphasis on the unique and concrete to Popper's focus on predictive historical laws), a unifying methodological principle can be identified: the "genetic method," as formulated by Mandelbaum, whereby each event is understood exclusively by reference to the larger historical process of which it is a phase. This method leads to historical relativism, which dissolves universal norms of truth, human nature, and justice. The resulting "crisis of historicism" (Troeltsch) shakes all eternal truths and threatens an "anarchy of convictions." McPartland shows how this crisis challenges political philosophy to either accept the subsumption of politics into history or to identify recurrent patterns of inquiry that can endure across changing worldviews.
-
-The significance of this source for the present wiki lies in its systematic articulation of the philosophical foundations that underpin debates between presentist and historicist historiographies. McPartland clarifies that historicism is not a single doctrine but a family of positions united by a method that prioritizes historical process over transhistorical norms. This directly informs the tension between presentism (judging the past by present standards) and historicism (understanding the past on its own terms) that runs through many of the wiki's sources on psychiatric historiography.
+The central finding is that historicism inevitably leads to historical relativism, which in turn generates what Troeltsch called the "crisis of historicism"—the shaking of all eternal truths. McPartland notes that while historicism liberates from dogma, it also threatens an "anarchy of convictions" (Dilthey) and the "disenchantment" of modern rationalism (Weber). The entry concludes by suggesting that the crisis remains unresolved, though Habermas and Lonergan have attempted to identify recurrent patterns of inquiry that might ground norms even as fixed worldviews dissolve. This source is significant for the wiki because it provides a rigorous philosophical definition of historicism—the core concept at the opposite pole from presentism in the historiographic debates central to the project.
 
 ## Key Entities
-
 (none)
 
 ## Key Concepts
-
-- **Historicism (Historismus)** — A methodological principle holding that all understanding of human affairs must be framed in terms of the historical process; it reduces philosophical to historical questions and treats human nature as historically constructed, varying by epoch and worldview.
-- **Historical Relativism** — The logical consequence of historicist method: since truth and values are products of historically contingent worldviews, no transhistorical standards exist for judging political or ethical norms.
-- **Crisis of Historicism** — The existential and epistemological crisis arising from historical relativism, described by Troeltsch as shaking all eternal truths and by Dilthey as threatening an "anarchy of convictions."
-- **Genetic Method** — Mandelbaum's term for the explanatory strategy that evaluates each event exclusively by its place in a larger temporal process; this is McPartland's proposed unifying core of historicism.
-- **Disenchantment** — Weber's concept for the modern condition created when rationalist social science strips traditional beliefs of meaning, leaving a "polar night of icy darkness and hardness"; historicism contributes to this by dissolving absolute norms.
+- **Historicism** — A methodological principle that holds events must be understood and evaluated exclusively in terms of the larger historical process of which they are a phase. It entails a genetic method of explanation, a reduction of philosophical to historical questions, and a view of human nature as historically made rather than given.
+- **Historical Relativism** — The logical outcome of historicism: truth varies by worldview (*Weltanschauung*), and there is no universal human nature. It faces a self-referential contradiction (a universal claim of relativism).
+- **Crisis of Historicism** — The anxiety that historical consciousness, by dissolving absolute truths, leads to an "anarchy of convictions" (Dilthey) and Weber's "disenchantment"—a modern condition without moral or intellectual moorings.
+- **Genetic Method** — A term from Mandelbaum: explanation by situating each historical event as a phase within a larger, unfolding process. McPartland uses this as the unifying definition for historicism's many varieties.
+- **Disenchantment** — Weber's term for the modern condition produced when rational social science strips traditional beliefs of their authority, leaving a "polar night of icy darkness."
 
 ## Main Arguments & Findings
-
-- **Core claim**: Historicism is internally contradictory yet united by the genetic method.
-  - Evidence: McPartland shows that Meinecke (unique, irrational) and Popper (predictive laws) are opposites, but both adhere to explaining events as phases in a larger process.
-  - Strength: Moderate; the synthesis is plausible but may overlook genuine incompatibilities between the two traditions.
-
-- **Core claim**: Historicism undermines political philosophy as an independent field.
-  - Evidence: If all political questions become historical, universal norms (justice, liberty) cannot be formulated; political theory reduces to describing historically contingent worldviews.
-  - Strength: Strong within the philosophical tradition cited; the argument is logical and well‑supported by examples (Savigny, Kelsen, Hegel, Marx).
-
-- **Core claim**: The crisis of historicism demands a response; recurrent patterns of inquiry may provide a way forward.
-  - Evidence: McPartland points to Habermas and Lonergan as attempting to identify enduring norms of inquiry beyond fixed worldviews.
-  - Strength: Weak‑moderate; this is a brief gesture rather than a developed argument, and the source does not evaluate these attempts.
-
-- **Core claim**: Historicism has both liberating and destabilizing effects.
-  - Evidence: Dilthey praised liberation from dogma but feared anarchy of convictions; Nietzschean and postmodern approaches use historical difference to uncover bias but lack critical apparatus for constructive engagement.
-  - Strength: Moderate; the tension is well‑articulated but not empirically tested.
+- **Core claim: Historicism undermines the independence of political philosophy.**
+  - Evidence: McPartland shows that historicist thinkers (e.g., Savigny, Kelsen) absorb norms into historically contingent *Weltanschauungen*, ruling out universal criteria for justice or liberty. Even Hegel and Marx appear to have political philosophies but in practice subsume the polity into the dialectics of history.
+  - Strength: Well‑supported by reference to canonical figures and intellectual history; however, the entry is a synthetic summary rather than original research, so it relies on established interpretations.
+- **Core claim: Historicism contains an internal contradiction between two incompatible senses.**
+  - Evidence: Meinecke's historicism emphasizes the unique and irrational; Popper's target (Comte, Hegel, Marx) seeks general historical laws. McPartland resolves the contradiction by adopting Mandelbaum's genetic method as a common methodological core.
+  - Strength: The resolution is conceptual but contestable—Popper explicitly attacked a different target, and the "genetic method" may not satisfy all parties.
+- **Core claim: The crisis of historicism remains unresolved and challenges any effort to ground political norms.**
+  - Evidence: Dilthey's "anarchy of convictions," Weber's disenchantment, and Troeltsch's "crisis" all point to the relativistic consequence. Habermas and Lonergan are cited as attempts to find recurrent patterns of inquiry, but no definitive solution is offered.
+  - Strength: The claim is well‑established in the secondary literature; the entry provides a concise articulation but does not advance a new resolution.
 
 ## Connections
-
-- [[concepts/historicism]] — This source provides the foundational philosophical background for the wiki's existing historicism page, detailing its internal contradictions, the genetic method, and the crisis of historicism.
-- [[concepts/presentism]] — McPartland's analysis directly frames the presentism vs. historicism debate by showing the costs of pure historicism (relativism, loss of normative grounds), which motivates presentist interventions.
-- [[concepts/historiography]] — The source enriches the historiographic discussion by clarifying how historicist method shapes the writing of history, including the history of psychiatry.
-- [[sources/1965 - Stocking - On the Limits of Presentism and Historicism]] — McPartland provides the broader European philosophical context for Stocking's well‑known American formulation of the presentism/historicism tension.
-- [[sources/2019 - Bashkow - On History for the Present]] — The crisis of historicism that McPartland describes is precisely what Bashkow's "enlightened presentism" attempts to resolve.
+- [[concepts/historicism]] — This source provides a rigorous philosophical definition and historical context that replaces the current placeholder hub. It clarifies the two contradictory senses of historicism (Meinecke vs. Popper) and the genetic‑method definition.
+- [[concepts/presentism]] — Defines the opposite pole of the historiographic dichotomy. McPartland's treatment of historicism as a method with a built‑in relativist crisis sharpens the stakes of the presentism/historicism debate found in other sources (e.g., Stocking, Bashkow, Houston).
+- [[concepts/historiography]] — The source directly addresses a major methodological tradition in historiography, situating historicism within the broader philosophy of history.
+- [[sources/1965 - Stocking - On the Limits of Presentism and Historicism]] — Both sources engage with the same methodological opposition; McPartland's definition of historicism as genetic explanation aligns with Stocking's historicism of understanding the past on its own terms.
 
 ## Contradictions & Tensions
-
-- The definition of "historicism" spans opposite poles (Meinecke's uniqueness vs. Popper's laws); McPartland's unifying move via the genetic method is elegant but risks eliding genuine incompatibilities.
-- Historical relativism's self‑referential contradiction (a universal claim that all truth is relative) is acknowledged but not resolved; this logical flaw weakens historicism's epistemological foundation.
-- Tension with the wiki's usage: Many wiki sources treat presentism as a methodological failing to be avoided, while McPartland shows that pure historicism leads to a crisis of norms—suggesting that presentist projects may be necessary correctives rather than mere errors.
+- The source itself acknowledges an internal contradiction: historicism can mean either (a) emphasis on the unique/concrete/irrational (Meinecke) or (b) search for general laws of historical development (Popper's target). McPartland's resolution via the genetic method is a constructive but contestable move—Popper's target is not obviously a "genetic" method.
+- The "crisis of historicism" (historical relativism) implies a self‑referential contradiction: the claim that all truth is relative is itself a universal claim. McPartland notes this but offers no resolution.
+- There is a tension between the relativist implication of historicism (norms valid only within a historical community) and the normative commitments of several wiki sources (e.g., Lepping & Poole 2022) that demand ethical judgment of past psychiatry. This source would characterize such judgment as an imposition of presentist values.
 
 ## Open Questions
-
-- Can the "crisis of historicism" be resolved by identifying recurrent patterns of inquiry (as Habermas and Lonergan attempt), or does historicism inevitably collapse into relativism?
-- Does the wiki's project implicitly adopt a position on this crisis—i.e., does it assume that presentist engagement with history is needed to avoid relativist paralysis, or does it treat historicism as the proper method?
-- How does McPartland's framing of historicism's challenge to political philosophy map onto psychiatric historiography specifically? Are norms of "mental illness" subject to the same historicist critique as norms of justice?
+- Can norms and standards of authentic inquiry endure even as fixed worldviews evaporate? The source gestures toward Habermas and Lonergan but does not develop a resolution.
+- Should the wiki adopt Mandelbaum's "genetic method" as the primary definition of historicism? This would provide clarity but may conflict with the Popperian usage that several other wiki sources reference.
+- Is there a distinct "historicism within psychiatry" that differs from the political‑theory historicism described here? Psychiatric historiography (e.g., Houston, Berrios) may have its own methodological peculiarities not captured by this entry.
+- How should the wiki reconcile historicism's relativism with the ethical imperative to judge past psychiatric practices (e.g., eugenics)? This remains an open methodological question.

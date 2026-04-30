@@ -1,5 +1,13 @@
 # Research Log
 
+## 2026-04-30
+
+- compile | all concepts + entities: generated: 12; skipped (up to date): 8
+
+- scan | source sync: synced: 89; new: 0; removed: 0
+
+- scan | source sync: synced: 89; new: 14; removed: 0
+
 ## 2026-04-26
 
 - compile | all concepts + entities: generated: 17; skipped (up to date): 3

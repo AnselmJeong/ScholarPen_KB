@@ -3,9 +3,10 @@ type: "concept"
 title: "Anti-psychiatry"
 tags: []
 related:
-created: 2026-04-26
-updated: 2026-04-26
+created: 2026-04-30
+updated: 2026-04-30
 sources:
+  - "1991 - Scull - Psychiatry and its historians.pdf"
   - "2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820.pdf"
   - "2019 - Houston - Past and “pastism” in the history of psychiatry.pdf"
   - "Between Sanity and Madness/006-6-the-decline-and-fall-of-dynamic-psychiatry.md"
@@ -13,38 +14,42 @@ papers:
   - "006-6-the-decline-and-fall-of-dynamic-psychiatry"
   - "2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820"
   - "2019 - Houston - Past and “pastism” in the history of psychiatry"
+  - "1991 - Scull - Psychiatry and its historians"
 ---
 # Anti-psychiatry
 
 ## Why It Matters
-- Anti-psychiatry challenges the legitimacy and scientific basis of psychiatric practice, directly influencing the historical narrative of decline (e.g., the fall of dynamic psychiatry).
-- The archive’s sources on historiography and “pastism” examine how anti-psychiatry shaped retrospective judgments of earlier psychiatric eras.
-- Understanding anti-psychiatry is essential for contextualizing the shift from moral treatment to biomedical models and the rise of deinstitutionalization.
+- Anti-psychiatry challenges the biomedical model and psychiatric classification, questioning the legitimacy of mental illness as a medical category.
+- It provides a critical lens for understanding the history of psychiatry, particularly the rise of institutional power and the moral-treatment movement.
+- The archive’s sources on historiography (Houston, Scull) show how anti-psychiatry has influenced the writing of psychiatric history itself.
 
 ## Key Positions
+
 | Position | Core claim | Key sources |
 |----------|------------|-------------|
-| Decline of dynamic psychiatry | Anti-psychiatry critiques helped dismantle psychodynamic approaches, contributing to their fall. | [[006-6-the-decline-and-fall-of-dynamic-psychiatry]] |
-| Latent historiography | Anti-psychiatry acts as a hidden framework in historical accounts of British psychiatry (1500–1820). | [[2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820]] |
-| Presentism and “pastism” | Anti-psychiatry encourages presentist readings of past practice, distorting historical understanding. | [[2019 - Houston - Past and “pastism” in the history of psychiatry]] |
+| Critique of psychiatric diagnosis | Mental illness is a social construct, not a biological disease. | [[2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820]], [[2019 - Houston - Past and “pastism” in the history of psychiatry]] |
+| Anti-psychiatry as a historiographical lens | Historians must avoid presentism when evaluating anti-psychiatry’s claims. | [[2019 - Houston - Past and “pastism” in the history of psychiatry]] |
+| Decline of dynamic psychiatry | The rise of biological psychiatry (biomedical model) marginalized psychoanalytic and social approaches. | [[006-6-the-decline-and-fall-of-dynamic-psychiatry]] |
+| Anti-psychiatry and deinstitutionalization | Anti-psychiatry rhetoric fueled the closure of asylums and the shift to community care. | [[1991 - Scull - Psychiatry and its historians]] |
+| Historiographic debate over anti-psychiatry | Historians disagree on whether anti-psychiatry was a coherent movement or a loose collection of critics. | [[1991 - Scull - Psychiatry and its historians]] |
+| Anti-psychiatry’s relation to moral treatment | Both movements question medical authority, but moral treatment sought reform within psychiatry, not abolition. | [[2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820]] |
+| Latent historiography | Anti-psychiatry’s own narrative influences how the history of psychiatry is written. | [[2014 - Houston - A LATENT HISTORIOGRAPHY THE CASE OF PSYCHIATRY IN BRITAIN, 1500–1820]] |
 
 ## Sub-topics
-- [[deinstitutionalization]]
 - [[medicalization]]
-- [[nosology]]
+- [[deinstitutionalization]]
 - [[psychiatric-classification]]
-- [[dsm-iii]]
+- [[biomedical-model]]
 
 ## Related concepts
-- [[historiography]]
+- whig-history
 - [[presentism]]
-- [[historicism]]
-- [[biomedical-model]]
-- [[moral-treatment]]
-- [[alienism]]
+- [[eugenics]]
+- [[moral-therapy]]
 - [[asylum]]
+- [[historiography]]
 
 ## Open questions
-- Did anti-psychiatry primarily cause or merely accelerate the decline of dynamic psychiatry?
-- How do “latent” anti-psychiatry assumptions distort the historiography of pre-20th century psychiatric practices?
-- Can the concept of “pastism” be disentangled from legitimate anti-psychiatry critiques of past abuses?
+- To what extent does anti-psychiatry itself embody a form of presentism, judging past practices by modern standards?
+- How should historians weigh anti-psychiatry’s political critique against clinical evidence of effectiveness in treatment?
+- Does the anti-psychiatry movement’s focus on institutional power obscure other important factors (e.g., legal, economic) in the decline of the asylum?

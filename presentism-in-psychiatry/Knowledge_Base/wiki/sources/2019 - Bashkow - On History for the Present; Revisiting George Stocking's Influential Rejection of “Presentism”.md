@@ -2,82 +2,66 @@
 ---
 type: source
 title: "On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”"
-created: 2026-04-26
-updated: 2026-04-26
-tags: [presentism, historicism, historiography, enlightened-presentism, george-stocking, thomas-kuhn, history-of-anthropology, disciplinary-history, journal-of-the-history-of-the-behavioral-sciences, robert-watson]
+created: 2026-04-30
+updated: 2026-04-30
+tags: [presentism, historicism, historiography, george-stocking, robert-watson, thomas-kuhn, paradigm, enlightened-presentism, cold-war-science, history-of-anthropology]
 related: []
 sources: ["2019 - Bashkow - On History for the Present; Revisiting George Stocking's Influential Rejection of “Presentism”.pdf"]
-one_line_finding: "Stocking's rejection of presentism was a situated intervention that he repeatedly qualified; 'enlightened presentism' offers a productive middle ground."
+one_line_finding: Stocking's famous critique of presentism was a historically situated reaction to Cold War science narratives; he repeatedly softened his stance and endorsed "enlightened presentism."
 ---
 ```
 
-# On History for the Present: Revisiting George Stocking's Influential Rejection of “Presentism”
+# On History for the Present: Revisiting George Stocking’s Influential Rejection of “Presentism”
 
 ## Summary
 
-This article by Ira Bashkow revisits George Stocking's famous 1965 critique of "presentism" in the history of the behavioral sciences, arguing that the essay has been dehistoricized and oversimplified into a rigid methodological rule. Bashkow reconstructs the specific historical context that provoked Stocking: the founding of the *Journal of the History of the Behavioral Sciences* (JHBS) by psychologist Robert Watson, who sought to use history instrumentally to advance scientific progress and interdisciplinary unity. Stocking, influenced by Thomas Kuhn's critique of teleological narratives of science, saw Watson's approach as a corruption of historical inquiry and issued his warning against presentism in the journal's third issue.
+This article by Ira Bashkow reexamines George Stocking’s landmark 1965 editorial that condemned "presentism" in the historiography of the behavioral sciences. Rather than accepting the editorial as a timeless methodological injunction, Bashkow reconstructs the specific historical context that provoked Stocking’s intervention: the founding of the *Journal of the History of the Behavioral Sciences* (JHBS) by psychologist Robert Watson, who advocated using history to "implement" interdisciplinary cooperation and scientific progress. Bashkow argues that Stocking’s target was not all present-oriented history, but a naive, teleological, and self-congratulatory style of practitioner history that served Cold War science narratives.
 
-The article demonstrates that Stocking never intended an absolute prohibition on present-minded history. Even in his 1965 editorial, he endorsed Dell Hymes's concept of "enlightened presentism" and acknowledged the inevitability of present interests shaping historical questions. Over the following five decades, Stocking repeatedly walked back his strong position, describing his earlier statements as "rash" and emphasizing the productive tension between past and present. Bashkow traces these qualifications through Stocking's publications from 1968 to his 2010 memoir.
+The article traces Stocking’s evolving position over five decades, showing that he repeatedly qualified and retreated from his original strong stance. Bashkow demonstrates that even within the 1965 editorial itself, Stocking endorsed Dell Hymes’s concept of "enlightened presentism" and acknowledged the impossibility of pure historicism. The piece synthesizes Stocking’s own later reflections—from his 1968 preface through his 2010 memoir—where he expresses regret over his original phrasing and embraces the productive tension between presentist and historicist impulses.
 
-Bashkow argues that the intellectual battle that motivated Stocking's critique—against teleological, progressivist narratives of science—has been long since won in the history of science and anthropology. Historicism has triumphed, and the old triumphalist historiography is no longer a pressing threat. In this new context, the presentism/historicism dichotomy is a false one. New purposes for history of anthropology—including diversifying the field's narrative, engaging impatient contemporary readers, and defending the discipline's institutional viability—call for a more active, self-aware presentism. The article serves as a methodological justification for the "Voicing the Ancestors" genre of engaged disciplinary history.
+Bashkow argues that the intellectual battle against teleological science narratives has been largely won, and that anthropology today faces different challenges: institutional precarity, changing reading habits, and the need to use history to support diversity and inclusion. He advocates for a deliberate, balanced "history for the present" that acknowledges its own presentist motivations while maintaining rigorous historicist standards. The article thus rehabilitates presentism as a legitimate methodological orientation when practiced with self-awareness and scholarly discipline.
 
 ## Key Entities
 
-- **Journal of the History of the Behavioral Sciences (JHBS)** (type: org) — Central journal in the founding story; site of Stocking's editorial and Watson's policy statement.
-- **American Psychological Association (APA)** (type: org) — Context for Watson's professional activities and his founding of a history division.
-- **Psychology Press** (type: org) — Private publishing house that founded JHBS; Watson was a stockholder and board member.
-- **University of New Hampshire** (type: org) — Where Watson founded a doctoral program in the history of psychology.
-- **University of California, Berkeley** (type: org) — Stocking's institutional context at the time; where Kuhn was his colleague.
-- **University of Chicago** (type: org) — Stocking's later institutional home in the Department of Anthropology.
-- **University of Pennsylvania** (type: org) — Where Stocking's graduate mentor A. Irving Hallowell worked.
-- **Harvard College** (type: org) — Stocking's undergraduate institution.
+- **Journal of the History of the Behavioral Sciences (JHBS)** (type: org) — The journal whose founding and early editorial policies provided the immediate context for Stocking’s anti-presentist intervention.
+- **Psychology Press** (type: org) — The publishing house that launched JHBS, founded by Robert Watson.
+- **American Psychological Association (APA)** (type: org) — The professional organization within which Watson worked to establish a Division of the History of Psychology.
+- **University of New Hampshire** (type: org) — Where Watson established a dedicated history of psychology doctoral program.
+- **The Structure of Scientific Revolutions** (type: tool) — Thomas Kuhn’s influential book that provided Stocking and contemporaries with theoretical resources to critique teleological narratives of scientific progress.
 
 ## Key Concepts
 
-- **Presentism** — Evaluating historical material according to present standards rather than understanding it in its own context. The source shows Stocking's critique was historically contingent and not an absolute prohibition; he later endorsed a qualified, self-aware version.
-- **Historicism** — Understanding the past "for its own sake"; Stocking's proposed method, which he never intended as exclusive. The source demonstrates Stocking's own retreat from a strong historicist position.
-- **Enlightened presentism** — A term from Dell Hymes, endorsed by Stocking, describing a judicious, self-aware use of present interests to guide historical inquiry while maintaining historicist rigor. The source argues this is a productive middle ground.
-- **Paradigm** (Kuhnian) — The holistic set of assumptions, practices, and questions shared by a scientific community; Stocking used this concept to argue behavioral sciences were "pre-paradigmatic" and thus especially vulnerable to presentist distortion.
-- **Teleological narrative of scientific progress** — The view that science advances cumulatively toward truth, often told as heroic discovery. This was the target of Stocking's historicist critique.
-- **Historiographical meme** — A simplified, decontextualized idea that circulates as received wisdom. The article argues "avoid presentism" became such a meme, misrepresenting Stocking's nuanced position.
+- **Presentism** — The historiographical vice of evaluating and interpreting past materials according to present purposes, values, and knowledge. In this source, presented as a more complex and nuanced concept than typically understood, inseparable from the historically specific context of Cold War science debates.
+- **Historicism** — The methodological commitment to understanding the past in its own terms, seeking the "reasonableness" of past viewpoints within their historical context. Treated here not as a pure ideal but as a productive orientation that exists in tension with presentist impulses.
+- **Enlightened Presentism** — A deliberate, self-aware historiographical approach that acknowledges presentist motivations while maintaining rigorous attention to historical context and the "historicity" of source materials. Endorsed by Stocking within his original editorial and throughout his career.
+- **Paradigm / Pre-paradigmatic** — Kuhn’s concepts applied to the behavioral sciences: Stocking argued that because these fields are "pre-paradigmatic," their historiography is especially vulnerable to being used as an arena for present-day theoretical competition.
+- **Cold War Science Narrative** — The triumphalist, teleological image of science as cumulative, progressive, and hero-driven that Stocking and other young historians sought to contest through historicist approaches.
 
 ## Main Arguments & Findings
 
-- **Core claim**: Stocking's rejection of presentism has been dehistoricized and oversimplified into a rigid rule, whereas it was a situated intervention against Watson's instrumental historiography.
-  - Evidence: Detailed reconstruction of the founding of JHBS, Watson's editorial policy, Stocking's rebuttal, and the poor quality of early issues.
-  - Strength: Strong; well-supported by primary sources and biographical context.
+- **Core claim**: Stocking’s rejection of presentism has been dehistoricized and oversimplified into a rigid methodological rule. In fact, Stocking consistently qualified his position and endorsed "enlightened presentism" as both inevitable and valuable.
+  - Evidence: Close reading of Stocking’s original 1965 editorial shows it included a full-page endorsement of Hymes’s "enlightened presentism" and acknowledged pure historicism as an unattainable "Holy Grail." Subsequent publications across five decades (1968, 1982, 1987, 1992, 1995, 1999, 2001, 2010) show Stocking repeatedly retreating from his strong position.
+  - Strength: Very strong. The argument is supported by direct textual evidence from primary sources, including Stocking’s own retrospective assessments. The reconstruction of the original context (Watson’s editorial policy, the Opler controversy) provides a compelling explanation for the intensity of Stocking’s original statement.
 
-- **Core claim**: The presentism/historicism dichotomy is false in practice; Stocking himself endorsed "enlightened presentism" and repeatedly walked back his strong position over five decades.
-  - Evidence: Stocking's own writings from 1965 to 2010, including his admission of "rash" statements, his endorsement of Hymes's counter-argument, and his embrace of presentist purposes.
-  - Strength: Very strong; direct textual evidence from Stocking's published oeuvre.
-
-- **Core claim**: The battle that motivated Stocking's critique—against teleological narratives of scientific progress—has been won in the history of science and anthropology.
-  - Evidence: Citation of Lorraine Daston's observation that "historicism has triumphed so completely"; contemporary consensus that science is shaped by place- and time-specific contingencies.
-  - Strength: Moderate; relies on disciplinary assessment and may not hold in all contexts (e.g., clinical psychiatry, popular science).
-
-- **Core claim**: New present-day purposes (diversity, readability, institutional defense) justify a more active presentism in the history of anthropology.
-  - Evidence: Discussion of trends in reading habits, the need to charter inclusive genealogies, and the institutional precarity of liberal arts disciplines.
-  - Strength: Moderate; normative argument supported by observation of current conditions rather than empirical data.
+- **Core claim**: The intellectual battle against teleological science narratives that motivated Stocking’s anti-presentism has been largely won, and contemporary anthropology faces different challenges that call for different historiographical strategies.
+  - Evidence: The article documents how historicism has "triumphed so completely" in science studies that the question now is whether anything remains of science as a special way of knowing. Meanwhile, contemporary needs include strengthening knowledge claims against corrosive public mistrust, supporting diversity and inclusion, and reaching impatient readers.
+  - Strength: Moderately strong. The characterization of the "battle being won" is asserted rather than systematically demonstrated, and the claim that present circumstances require different historiographical approaches is more of an argument than a finding. However, the institutional and cultural shifts described are well-documented.
 
 ## Connections
 
-- [[concepts/presentism]] — This source directly extends and complicates the concept, showing its historical contingency, Stocking's retreat, and the productive potential of "enlightened presentism."
-- [[concepts/historicism]] — Adds nuance to Stocking's plea, demonstrating he never intended it as exclusive and later acknowledged its limitations.
-- [[concepts/historiography]] — Provides a concrete case study of historiographical debate and the decontextualization of methodological precepts.
-- [[entities/journal-of-the-history-of-the-behavioral-sciences-jhbs]] — Provides founding context, Watson's role, and the early issues that provoked Stocking.
-- [[sources/1965 - Stocking - On the Limits of Presentism and Historicism in the HIstoriography of the Behaviral Sciences]] — This source analyzes and contextualizes that seminal essay, showing its situated nature and Stocking's subsequent qualifications.
+- [[concepts/presentism]] — This source provides the most detailed and nuanced treatment of presentism in the current wiki, complicating the simple "presentism is bad" reading and revealing Stocking’s own ambivalence.
+- [[concepts/historicism]] — Extends and complicates the concept by showing it was never a pure ideal for Stocking, but always in productive tension with presentist concerns.
+- [[entities/journal-of-the-history-of-the-behavioral-sciences-jhbs]] — Provides essential historical context for the journal’s founding, including the conflict between Watson’s instrumental vision and Stocking’s historicist orientation.
+- [[sources/2023 - Hilton - Our values and our historical understanding of psychiatrists]] — Both sources advocate contextual understanding of past practices, with Bashkow providing the theoretical and historiographical framework that Hilton’s argument implicitly draws upon.
 
 ## Contradictions & Tensions
 
-- The source argues that Stocking's rejection of presentism should not be taken as an absolute rule, but this could contradict wiki content that treats presentism as a straightforward historiographical vice. The binary between presentism and historicism is shown to be unstable.
-- There is an internal tension: Bashkow critiques the oversimplification of Stocking's position yet still values historicist method as a necessary discipline, raising questions about where the balance lies.
-- The claim that "the battle is won" against teleological narratives may be too optimistic for fields like clinical psychiatry or neuroscience, where progressivist stories still dominate institutional and popular discourse.
-- The argument for more accessible, streamlined history (to attract readers) sits in tension with historicism's commitment to complexity and contextual richness.
+- The article embodies a productive internal tension: it uses extremely rigorous historicist methods (detailed contextual reconstruction of Stocking’s intellectual development) to argue for the legitimacy and inevitability of presentism. This self-aware paradox is central to the article’s argument about "enlightened presentism."
+- Contradicts the widespread reading of Stocking as an absolutist opponent of presentism, which the article shows to be a dehistoricized oversimplification.
+- The article’s advocacy for "enlightened presentism" could be seen as potentially undermining the historiographical standards that historicism has established. The article acknowledges this tension without fully resolving it, suggesting instead that practitioners must navigate it case by case.
 
 ## Open Questions
 
-- How far can "enlightened presentism" go before it becomes distortion? The source endorses presentist purposes but does not provide clear criteria for when such purposes become corrupting.
-- Is the claim that teleological narratives are no longer a threat empirically justified across all disciplines, particularly in psychiatry and related clinical fields?
-- How should historians of anthropology balance the need for readability and accessibility with the complexity that historicist method demands?
-- Does the diversity and inclusion rationale for presentist history risk creating a new form of instrumentalism, where history is selectively used to "charter" contemporary values rather than to understand the past in its own terms?
-- The source calls for new models of history that "do not throw the baby out with the bathwater," but does not fully specify what such models look like or how they resolve the inherent tensions.
+- How can scholars reliably distinguish between "enlightened presentism" (productive, self-aware) and "naive presentism" (distorting, anachronistic) in practice? What criteria or guidelines might operationalize this distinction?
+- If presentism is both inevitable and valuable, what role does historicist training play in the formation of historians of science and anthropology? Does the success of historicism mean it is now less necessary as a methodological commitment?
+- The article argues that contemporary challenges (institutional precarity, public mistrust of expertise) call for different historiographical strategies. What specific forms of presentist history are best suited to these challenges, and what risks do they carry?
