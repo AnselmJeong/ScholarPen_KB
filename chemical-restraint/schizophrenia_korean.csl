@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" page-range-format="expanded" default-locale="en-GB">
+  <info>
+    <title>대한조현병학회지 (Korean Journal of Schizophrenia Research)</title>
+    <id>http://www.zotero.org/styles/korean-journal-schizophrenia-research</id>
+    <link href="http://www.zotero.org/styles/korean-journal-schizophrenia-research" rel="self"/>
+    <link href="http://www.zotero.org/styles/the-cancer-journal" rel="template"/>
+    <link href="http://www.schizophrenia.or.kr" rel="documentation"/>
+    <category citation-format="numeric"/>
+    <category field="medicine"/>
+    <updated>2025-05-02T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+  </info>
+
+  <!-- ================================================================
+       LOCALE
+       ================================================================ -->
+  <locale xml:lang="en">
+    <terms>
+      <term name="available at">Available from</term>
+      <term name="cited">cited</term>
+      <term name="edition" form="short">ed</term>
+      <term name="editor" form="short">
+        <single>editor</single>
+        <multiple>editors</multiple>
+      </term>
+    </terms>
+  </locale>
+
+  <!-- ================================================================
+       MACROS
+       ================================================================ -->
+
+  <!-- Authors in bibliography: 6 or fewer → all listed; 7+ → first 6 + et al. -->
+  <!-- Name format: LastName FirstMiddle (no periods on initials, no spaces between initials) -->
+  <macro name="author">
+    <names variable="author">
+      <name sort-separator=" "
+            initialize-with=""
+            name-as-sort-order="all"
+            delimiter=", "
+            delimiter-precedes-last="always"/>
+      <et-al term="et-al" font-style="normal"/>
+      <substitute>
+        <names variable="editor"/>
+        <text variable="title"/>
+      </substitute>
+    </names>
+  </macro>
+
+  <!-- Editor block for book chapters: "In: EditorName, editors." -->
+  <macro name="editor">
+    <names variable="editor">
+      <name sort-separator=" "
+            initialize-with=""
+            name-as-sort-order="all"
+            delimiter=", "
+            delimiter-precedes-last="always"/>
+      <et-al term="et-al" font-style="normal"/>
+      <label form="long" prefix=", " plural="contextual"/>
+    </names>
+  </macro>
+
+  <!-- Article/chapter title: sentence case (first letter capital only) -->
+  <macro name="title">
+    <choose>
+      <!-- Books and reports: keep normal casing with period -->
+      <if type="book report" match="any">
+        <text variable="title" suffix="."/>
+      </if>
+      <!-- Everything else: sentence case -->
+      <else>
+        <text variable="title" text-case="sentence" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- Journal article: abbreviated journal name (no italic per rules) -->
+  <macro name="container-title">
+    <choose>
+      <if type="article-journal article-magazine review review-book" match="any">
+        <text variable="container-title" form="short" strip-periods="false"/>
+      </if>
+      <else-if type="chapter paper-conference" match="any">
+        <text variable="container-title" suffix="."/>
+      </else-if>
+      <else>
+        <text variable="container-title"/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- Edition: "10th ed." -->
+  <macro name="edition">
+    <choose>
+      <if is-numeric="edition">
+        <group delimiter=" ">
+          <number variable="edition" form="ordinal"/>
+          <text term="edition" form="short" suffix="."/>
+        </group>
+      </if>
+      <else>
+        <text variable="edition" suffix="."/>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- Publisher: "Place: Publisher;" -->
+  <macro name="publisher">
+    <group delimiter=": " suffix=";">
+      <text variable="publisher-place"/>
+      <text variable="publisher"/>
+    </group>
+  </macro>
+
+  <!-- Year for journal articles: suffixed with ";" for volume to follow -->
+  <macro name="date">
+    <choose>
+      <if type="article-journal article-magazine review review-book" match="any">
+        <date variable="issued" suffix=";">
+          <date-part name="year"/>
+        </date>
+      </if>
+      <else-if type="webpage post post-weblog" match="any">
+        <date variable="issued">
+          <date-part name="year"/>
+        </date>
+      </else-if>
+      <else>
+        <date variable="issued" suffix=".">
+          <date-part name="year"/>
+        </date>
+      </else>
+    </choose>
+  </macro>
+
+  <!-- Volume: no suffix (pages follow with colon) -->
+  <macro name="volume">
+    <choose>
+      <if type="article-journal article-magazine review review-book" match="any">
+        <text variable="volume"/>
+      </if>
+    </choose>
+  </macro>
+
+  <!-- Pages: ":NNN-NNN" for journal; "p.NNN-NNN." for book/chapter -->
+  <macro name="pages">
+    <choose>
+      <if type="article-journal article-magazine review review-book" match="any">
+        <text variable="page" prefix=":"/>
+      </if>
+      <else-if type="chapter paper-conference book" match="any">
+        <text variable="page" prefix="p."/>
+      </else-if>
+    </choose>
+  </macro>
+
+  <!-- Internet access block: "[Internet]. Place: Publisher; Year [cited YYYY Mon DD]. Available from: URL" -->
+  <macro name="access">
+    <choose>
+      <if type="webpage post post-weblog" match="any">
+        <group delimiter=" ">
+          <text value="[Internet]."/>
+          <group delimiter=": " suffix=";">
+            <text variable="publisher-place"/>
+            <text variable="publisher"/>
+          </group>
+          <text macro="date"/>
+          <group prefix="[" suffix="]" delimiter=" ">
+            <text term="cited"/>
+            <date variable="accessed">
+              <date-part name="year"/>
+              <date-part name="month" form="short" strip-periods="true" prefix=" "/>
+              <date-part name="day" prefix=" "/>
+            </date>
+          </group>
+          <group delimiter=": ">
+            <text term="available at" text-case="capitalize-first"/>
+            <text variable="URL"/>
+          </group>
+        </group>
+      </if>
+    </choose>
+  </macro>
+
+  <!-- ================================================================
+       CITATION  (in-text)
+       Format: superscript number in right parenthesis → N)
+       Rules: collapse ranges with hyphen, comma-separated otherwise
+       ================================================================ -->
+  <citation collapse="citation-number">
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout suffix=")" delimiter="," vertical-align="sup">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+
+  <!-- ================================================================
+       BIBLIOGRAPHY
+       ================================================================ -->
+  <!-- et-al-min="7": 7 or more authors → truncate; et-al-use-first="6": show first 6 -->
+  <bibliography et-al-min="7" et-al-use-first="6" second-field-align="flush" entry-spacing="0">
+    <layout suffix=".">
+      <!-- Reference number: "1. " -->
+      <text variable="citation-number" suffix=". "/>
+
+      <choose>
+
+        <!-- ============================================================
+             JOURNAL ARTICLE
+             Author. Title sentence case. Abbr J Name YYYY;vol:pp-pp.
+             ============================================================ -->
+        <if type="article-journal article-magazine review review-book" match="any">
+          <group delimiter=" ">
+            <text macro="author" suffix="."/>
+            <text macro="title"/>
+            <text macro="container-title"/>
+            <group>
+              <text macro="date"/>
+              <text macro="volume"/>
+              <text macro="pages"/>
+            </group>
+          </group>
+        </if>
+
+        <!-- ============================================================
+             BOOK
+             Author. Title. Nth ed. Place: Publisher; YYYY. p.NNN-NNN.
+             ============================================================ -->
+        <else-if type="book" match="any">
+          <group delimiter=" ">
+            <text macro="author" suffix="."/>
+            <text macro="title"/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <text macro="date"/>
+            <text macro="pages" suffix="."/>
+          </group>
+        </else-if>
+
+        <!-- ============================================================
+             CHAPTER
+             Author. Chapter title. In: Editor, editors. Book Title.
+             Nth ed. Place: Publisher; YYYY. p.NNN-NNN.
+             ============================================================ -->
+        <else-if type="chapter paper-conference" match="any">
+          <group delimiter=" ">
+            <text macro="author" suffix="."/>
+            <text macro="title"/>
+            <group delimiter=": ">
+              <text value="In"/>
+              <text macro="editor" suffix="."/>
+            </group>
+            <text macro="container-title"/>
+            <text macro="edition"/>
+            <text macro="publisher"/>
+            <text macro="date"/>
+            <text macro="pages" suffix="."/>
+          </group>
+        </else-if>
+
+        <!-- ============================================================
+             WEBPAGE / INTERNET RESOURCE
+             Author/Organization. Title [Internet]. Place: Publisher;
+             YYYY [cited YYYY Mon DD]. Available from: URL.
+             ============================================================ -->
+        <else-if type="webpage post post-weblog" match="any">
+          <group delimiter=" ">
+            <text macro="author" suffix="."/>
+            <text macro="title"/>
+            <text macro="access"/>
+          </group>
+        </else-if>
+
+        <!-- ============================================================
+             FALLBACK (report, thesis, etc.)
+             ============================================================ -->
+        <else>
+          <group delimiter=" ">
+            <text macro="author" suffix="."/>
+            <text macro="title"/>
+            <text macro="publisher"/>
+            <text macro="date"/>
+            <text macro="pages"/>
+          </group>
+        </else>
+
+      </choose>
+    </layout>
+  </bibliography>
+
+</style>
