@@ -1,0 +1,501 @@
+[
+  {
+    "id": "3f87882c-0896-45ac-b155-b5b0f738af16",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "현재주의의 두 부류",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "95f8be4a-6033-427d-85f7-ae5229da171a",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "휘그 역사관",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "cb6093a4-98e1-4f4f-9638-060464466306",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "1931년, 케임브리지의 역사학자 ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Herbert Butterfield",
+        "styles": {
+          "textColor": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "type": "text",
+        "text": "는 『",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "The Whig Interpretation of History",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "』라는 책에서 역사서술의 뿌리 깊은 병폐 하나를 지적했다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "butterfield1931whig",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 당시 역사가들이 지금 현재 도달한 의회정치, 종교적 관용, 과학적 진보 등의 성취를 역사가 도달해야 할 필연적 종착지로 상정하고, 그 종착지에 기여한 인물과 사건은 “업적\"으로, 그에 반하는 것은 “장애물\"로 서술하곤 하였다.  ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Butterfield는 이를 ",
+        "styles": {
+          "textColor": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "type": "text",
+        "text": "\"휘그 역사(Whig history)\"라 명명하고, 이런 기술법은 과거를 그 자체의 맥락에서 이해하지 않고, 현재의 승리를 정당화하기 위한 증거로만 소비한다는 점에서 시대착오(anachronism)적이라고 비판하였다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "butterfield1965whig",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "9a5c9097-2eea-48b7-a2f3-dc2a4f781121",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "후대 역사학계는 이제는 휘그적인 진보 역사관을 극복했다고 자부해 왔다. 그러나 20세기 후반에서 21세기 초반에 등장한 새로운 역사 서술은 휘그 역사관과 거의 동일한 방법론을, 정반대의 방향으로 재현하고 있다. 휘그 역사가 현재의 승리를 축하하기 위해 과거를 선택적으로 편집했다면, 흔히 \"워크 역사(woke history)\"로 불리는 새로운 조류는 현재의 가치관으로 과거를 심판한다. 하나는 보수적 시각에서, 또 다른 하나는 진보적 시각에서 동일한 사료를 놓고도 전혀 다른 해석을 내놓지만, 결국 현재의 목적을 위해 과거를 재단한다는 점에서 다르지 않다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "2076c0d5-fae7-456b-ab4e-765181bea16c",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신의학과 휘그 역사관",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "68d99b37-95ce-42c9-8e2f-1217eaa1f2c8",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "20세기 중반까지 정신의학사의 주류는 거의 휘그적 진보 서사를 따랐다. 당시 정신의학사를 쓴 작가들 중에는 정신과 의사가 많았다. Zilboorg와 Henry의 『",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "A History of Medical Psychology",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "』(1941)",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "zilboorg1941history",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", Alexander와 Selesnick의 『",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "The History of Psychiatry",
+        "styles": {
+          "italic": true
+        }
+      },
+      {
+        "type": "text",
+        "text": "』(1966)",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "alexander1966history",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 같은 저작들은 정신의학의 역사를 필연적 진보의 행진으로 서술했다. 광기가 종교와 미신이라는 우매한 설명으로 곡해되던 시절, 환자들은 철저히 추방당했고 심지어 목숨까지 잃어야 했다. 이때 피넬(Phillipe Pinel)이 비세트르 병원에서 환자들에게 묶여 있던 쇠사슬을 풀어주며 이들을 치료할 수 있다는 희망을 가져다주었다. 튜크(William Tuke)의 도덕치료는 인도적 치료의 길을 텄고, 샤르코와 프로이트를 거쳐 무의식이 발견되고 정신분석이 태동했다. 20세기 들어서 크레펠린이 과학적 진단 분류를 제시했고, 눈부신 뇌과학의 발전이 더해지면서 정신의학은 비로소 타 의학 분과와 동등한 지위에 서게 되었다. 이처럼 어둠에서 빛으로 나아가는 구원의 역사(salvation history)가 완성되었고, 현대적 진단체계와 생물학적 치료는 이 장대한 서사의 당연한 결말로 받아들여졌다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "a0535788-622d-471c-b2f5-114e81051750",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "휘그적 진보 서사의 문제는 단순한 사실 왜곡을 넘어서 있다. 이 서사는 언제나 전문직의 자기정당화라는 정치적 기능을 수행하기 위해 역사를 도구화했다. 19세기 중반 이전에는 정신과 의사(psychiatrist)라는 단어 자체가 존재하지 않았고, 그 전에는 기껏해야 mad-doctor 아니면 alienist로 불려웠다. 20세기 초가 되어서야 비로서 정신 질환이 하나하나 명명되면서 체계적 분류가 시도되었으며, ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "정신 질환을 신체적 질병처럼 분류하고 의학적으로 치료하려는 패러다임이 자리를 잡았다. ",
+        "styles": {
+          "textColor": "rgb(30, 27, 75)",
+          "backgroundColor": "rgb(244, 242, 252)"
+        }
+      },
+      {
+        "type": "text",
+        "text": "새롭게 부상하는 전문가, 즉 정신과 의사(psychiatrist)들은 자신들의 역사를 미화히기 위해, 필연적으로 과학 기술의 진보와 합리성의 승리로 채색할 수 밖에 없었을 것이다. 역사학자인 Andrew ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Scull은 정신과 의사 출신 역사가들을 \"독특한 아마추어 집단\"으로 규정하면서, 그들의 서술이 현재 활동을 정당화하기 위해 사료 판본을 만들어내는, 기껏해야 \"무해한 골동품주의\"에 머문다고 비판했다.",
+        "styles": {
+          "textColor": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "scull1991psychiatry",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "440bf175-5295-4015-a491-4a41fc3159d0",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 3,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "워크 역사의 반격: 피해서사의 등장",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "081951f6-7f04-4727-aee8-1dcd44dfc880",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "1960년대에 이르러 이 승리 서사는 전면적 도전에 직면했다. 푸코(Michelle Foucault)의 『광기의 역사』(1961)",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "foucault1961folie",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", Thomas Szasz의 『정신질환의 신화』(1961)",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "szasz1961myth",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "Erving Goffman",
+        "styles": {
+          "textColor": "rgb(232, 232, 232)",
+          "backgroundColor": "rgb(34, 36, 42)"
+        }
+      },
+      {
+        "type": "text",
+        "text": "의 『수용소』(1961)",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "goffman1961asylums",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "가 거의 동시에 출간되면서, 정신의학사는 권력자의 억압과 박해받는 이방인이라는 서사로 다시 쓰이기 시작했다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "74e42b4e-405a-48b1-9d75-3724c95f436a",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "푸코의 저작과 사상은 학계에 지대한 영향을 미쳤다. 특히 그가 개발한 계보학(genealogy)적 역사 서술 방식은, 현재 자명한 것으로 여겨지는 전통과 제도가 어떠한 우연한 역사적 과정을 통해 정착되었는지 추적하며 그 불가피성에 대한 의문을 제기하였다. 푸코가 특히 비판의 초점을 맞춘 것은 휘그적 진보 서사가 추앙하는 피넬의 쇠사슬 해방 사건이었다. 그는 이 사건이 단순한 인도주의적 진보가 아니라, 신체적 감금의 형태를 도덕적 감금, 즉 외적 구속에서 내적 구속으로 전환한 것에 불과하다고 역설하였다. 환자들은 이제 쇠사슬을 대체하여 의사의 감시적 시선, 진단이라는 전문적 담론, 그리고 수치심과 죄책감이라는 더욱 정교한 통제 메커니즘 하에 억압되었다는 것이다. 17세기의 \"대감금\"(grand renfermement)에서 19세기의 \"도덕치료\"(traitement moral)에 이르기까지, 나아가 현대의 정신분석 및 정신약물학까지—이 모든 것이 이성의 명분 하에 비이성을 침묵시키려는 권력의 전략으로 재해석되었다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "foucault2006",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "262c8617-c1ac-4e98-a480-a627b59d9cb6",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "이러한 비판이 많은 점에서 정당했고, 왜곡된 휘그적 진보 서사를 바로잡는데 공헌했다는 것은 부인할 수 없다. 정신의학은 실제로 강제입원, 격리, 강박, 우생학에 대한 지지, 치료가 아닌 도덕적 교화, 식민억압에 대한 정당화, 부유층과 빈곤층에 대한 차별적 대우 등 무거운 역사적 부채를 남겼다. 페미니즘, 탈제국주의, 인권 운동 등이 이러한 어두운 역사를 폭로한 것은 새로운 균형을 이루려는 의미있는 시도였다. 이들의 폭로가 아니었다면, 정신의학의 자기 비판과 자정 노력은 첫 발을 떼지도 못하였을 것이다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "scull1993",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "showalter1985female",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "metzl2009protest",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "725a5d98-6f2f-462b-b61c-cd21953d7817",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "그러나 워크 역사학자들 역시 비판 의식에 매혹된 탓인지, 과거사를 피해 서사로 재구성하고 사료를 왜곡하는 우를 저질렀다. 휘그 역사가 승리 서사를 구성하기 위해 과거를 편집했다면, 워크 역사도 피해 서사를 구성하기 위해 정확히 동일한 방식으로 선택적 편집을 수행했다. 영국의 역사학자 Roy Porter는 푸코의 “대감금\" 가설이 영국에서는 전혀 행해진 적이 없다는 것을 상세히 입증했다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "porter1990",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " Winifred Maher와 Brendan Maher는 푸코가 언급한 “바보의 배(ship of fools)”가 단순히 문학적 수사였지 실제로 존재한 적이 없음을 증명했고, Eric Midelfort 역시 『광기의 역사』에 수록된 많은 사료들이 객관적 증거에 정면으로 위배된다는 점을 속속들이 밝혔다",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "midelfort1980",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "maher1982",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " Foucault 자신이 나중에 시인하였듯이, 그가 인용한 사료들은 ",
+        "styles": {}
+      },
+      {
+        "type": "text",
+        "text": "엄밀한 실증적 증거가 아니라 자신의 이론적 도식에 맞추어 선택적으로 동원된 자료들이었다.",
+        "styles": {
+          "textColor": "rgb(0, 0, 0)"
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "scull1990",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "porter1990foucault",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "d8ad82fb-8332-4082-87f8-6264a7b46817",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "여기서 이중의 아이러니가 발생한다. 휘그적 진보 서사가 정신의학자들에게 정당성을 주기 과거를 편집했다면, 워크 피해 서사는 정반대의 방향에서 동일한 편집을 수행하면서 과거 정신의학자들을 가해자라며 비난한다. 이런 과정에서 정작 사라지는 것은, 칭송과 비난을 동시에 받고 있는 과거의 정신과 의사들은 과연 어떤 곤경을 마주하고 있었고, 어떤 선택지 속에서, 어떤 의도와 동기를 가지고 결정을 내렸던 것일까이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "8f7650e2-0737-4173-bc2c-32a19195177d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]

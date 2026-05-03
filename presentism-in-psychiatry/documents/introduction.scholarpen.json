@@ -1,0 +1,255 @@
+[
+  {
+    "id": "c4af572b-50d3-41a5-b179-2554cf97ad3d",
+    "type": "heading",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left",
+      "level": 2,
+      "isToggleable": false
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "서론 (초안)",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "1e92192d-eae3-40b0-b940-95f11e8f119d",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "지난 반세기 동안 현대 정신의학은 진단과 치료 영역뿐만 아니라 환자를 대하는 태도와 윤리적 자세에 있어서도 현격한 발전을 일구어 왔다. 그럼에도 불구하고 21세기에 접어들면서 그 어느 의학 분과와도 비교하기 어려운 총체적 신뢰 위기에 직면해 있다. 현대인이 정신적 위기에 봉착해있는 것과 동시에 정신의학도 양적으로나 질적으로 성장한 것은 분명하다. 그러나 동시에 항우울제와 정신자극제 처방의 가파른 증가, 정신과 진단의 지나친 다양화와 일부 진단의 급격한 확산에 반응하여 의료화(medicalization)에 대한 비판이 고조되었다",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "horwitz2007transforming",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "maenner2025prevalence",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ". 더군다나 이러한 비판은 정신과 내부에서도 치열한 논쟁을 일으키고 있다.  Moncrieff 등의 우울증 세로토닌 가설에 대한 도전적 비판",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "moncrieff2022serotonin",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": "은 학계 내에서 응답과 재반박이 거듭되었음에도 불구하고",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "jauhar2023leaky",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "moller2023serotonin",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", 이미 대중적 담론의 흐름을 바꾸어 놓았다. 학계 역시 이제는 약물의 처방 매뉴얼 뿐 아니라 단약 매뉴얼을 출간하고 있으며",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "horowitz2024maudsley",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", 단약(deprescribing)이라는 용어는 이제 학술 어휘를 넘어 약물로부터의 해방 운동의 모토가 되었다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "39dc9569-7969-4119-8c65-5e398f59e07b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "약물에 대한 신뢰만 무너진 것이 아니다. 강제입원과 치료명령제를 둘러싼 인권 논쟁은 UN 장애인권리협약(CRPD) 제12조와 제14조의 해석을 둘러싼 국제적 교착 상태로 이어졌으며",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "martin2019surveying",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": ", CRPD 위원회는 모든 비자발적 정신과 치료를 사실상 금지해야 한다는 입장을 견지해 왔다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "davidson2025un",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "gooding2024coercion",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 임상 현장의 정신과 의사들이 입원 결정 권한을 사법부로 이양하기를 원하는 현상은 단순한 책임 회피라기보다, 의학적 필요성과 인권 규범이 더 이상 화해할 수 없는 지점에 도달했다는 인식의 산물로 보인다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "noh2019the",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " ",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "55ae1201-dc69-4673-9481-e14630d20cae",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "정신의학에 쏟아지는 불신이 다른 의학 분과에 대한 회의주의와 본질적으로 다른 결을 가진다는 점에 주목할 필요가 있다. 예를 들어 암 치료에 대한 비판은 기껏해야 치료법의 한계나 항암치료의 후유증을 겨냥하지만, 정신의학에 대한 비판은 진단 범주의 정당성, 치료 권한의 정당성, 나아가 학문 자체의 정당성을 향한다. 그런데 이러한 차이의 뿌리에는 정신질환자를 격리하고 차별해 온 어두운 역사가 자리하고 있으며, 현재의 신뢰성 논란에도 그 그림자가 드리워져 있다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "hilton2021learning",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 현대의 정신과 의사들 역시, 원하든 원하지 않든 과거 역사의 짐을 떠안고 있는 셈이다. 그러나 이렇게 정신의학의 역사를 부정적으로 해석하는 전통이, 현대의 이데올로기를 정당화시키기 위해 과거 역사를 부당하게 왜곡하고 있는 것은 아닌지 의구심이 든다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "porter1990foucault",
+          "locator": ""
+        }
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "hilton2018psychiatry",
+          "locator": ""
+        }
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "fe2f4f7e-7c1b-4d56-a28f-272b3e0b6c9f",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [
+      {
+        "type": "text",
+        "text": "역사 해석의 방법론에서 역사주의(historicism)는 각 시대를 그 시대 고유의 조건과 지평 안에서 이해하려는 반면, 현재주의(presentism)는 오늘날의 가치와 지식을 준거로 과거를 재단한다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "loison2016forms",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 정신의학사의 여러 논쟁들, 예컨대 생물학적 모델을 절대적 잣대로 삼아 초기 정신분석 운동을 “퇴보\"로 규정하거나, 항우울제와 비정형 항정신병 약물의 확산을 단순히 제약회사의 마케팅 탓으로 환원하는 서사들은 표면적으로 날카로운 비판처럼 보이지만, 당대의 기술적 한계와 제한된 선택지 속에서도 환자를 위해 최선을 모색했던 이들의 고민을 폄하할 위험을 안고 있다. 따라서 본 논문은 현재주의라는 해석적 프리즘이 과거 정신과 의사들의 진의(眞意)와 업적을 어떻게 가리거나 왜곡했을 가능성이 있는지를 비판적으로 검토하고자 한다.",
+        "styles": {}
+      },
+      {
+        "type": "citation",
+        "props": {
+          "citekey": "arya2024racism",
+          "locator": ""
+        }
+      },
+      {
+        "type": "text",
+        "text": " 지금 이 순간에도 환자의 건강회복을 위해 불완전한 지식과 자원 속에서 해결책을 찾으려 애쓰는 임상가들의 노력이, 미래의 또 다른 이데올로기적 합리화를 위한 제물로 전락하지 않도록 하기 위해서라도, 과거를 향한 우리의 시선을 재평가하는 작업은 불가피한 일일 것이다.",
+        "styles": {}
+      }
+    ],
+    "children": []
+  },
+  {
+    "id": "db99dc03-75e0-41ff-89cd-8b8363073d5b",
+    "type": "paragraph",
+    "props": {
+      "backgroundColor": "default",
+      "textColor": "default",
+      "textAlignment": "left"
+    },
+    "content": [],
+    "children": []
+  }
+]
